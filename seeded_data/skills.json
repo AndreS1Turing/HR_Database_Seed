@@ -1,0 +1,297 @@
+{
+  "SKL-00001": {
+    "skill_id": "SKL-00001",
+    "skill_name": "Python",
+    "status": "active"
+  },
+  "SKL-00002": {
+    "skill_id": "SKL-00002",
+    "skill_name": "Java",
+    "status": "active"
+  },
+  "SKL-00003": {
+    "skill_id": "SKL-00003",
+    "skill_name": "C#",
+    "status": "active"
+  },
+  "SKL-00004": {
+    "skill_id": "SKL-00004",
+    "skill_name": "JavaScript",
+    "status": "active"
+  },
+  "SKL-00005": {
+    "skill_id": "SKL-00005",
+    "skill_name": "TypeScript",
+    "status": "active"
+  },
+  "SKL-00006": {
+    "skill_id": "SKL-00006",
+    "skill_name": "SQL",
+    "status": "active"
+  },
+  "SKL-00007": {
+    "skill_id": "SKL-00007",
+    "skill_name": "NoSQL",
+    "status": "active"
+  },
+  "SKL-00008": {
+    "skill_id": "SKL-00008",
+    "skill_name": "Docker",
+    "status": "active"
+  },
+  "SKL-00009": {
+    "skill_id": "SKL-00009",
+    "skill_name": "Kubernetes",
+    "status": "inactive"
+  },
+  "SKL-00010": {
+    "skill_id": "SKL-00010",
+    "skill_name": "Terraform",
+    "status": "active"
+  },
+  "SKL-00011": {
+    "skill_id": "SKL-00011",
+    "skill_name": "Linux Administration",
+    "status": "inactive"
+  },
+  "SKL-00012": {
+    "skill_id": "SKL-00012",
+    "skill_name": "Windows Server",
+    "status": "active"
+  },
+  "SKL-00013": {
+    "skill_id": "SKL-00013",
+    "skill_name": "Networking",
+    "status": "inactive"
+  },
+  "SKL-00014": {
+    "skill_id": "SKL-00014",
+    "skill_name": "AWS",
+    "status": "inactive"
+  },
+  "SKL-00015": {
+    "skill_id": "SKL-00015",
+    "skill_name": "GCP",
+    "status": "active"
+  },
+  "SKL-00016": {
+    "skill_id": "SKL-00016",
+    "skill_name": "Azure",
+    "status": "active"
+  },
+  "SKL-00017": {
+    "skill_id": "SKL-00017",
+    "skill_name": "CI/CD",
+    "status": "active"
+  },
+  "SKL-00018": {
+    "skill_id": "SKL-00018",
+    "skill_name": "Git",
+    "status": "inactive"
+  },
+  "SKL-00019": {
+    "skill_id": "SKL-00019",
+    "skill_name": "Unit Testing",
+    "status": "active"
+  },
+  "SKL-00020": {
+    "skill_id": "SKL-00020",
+    "skill_name": "Microservices",
+    "status": "active"
+  },
+  "SKL-00021": {
+    "skill_id": "SKL-00021",
+    "skill_name": "ETL",
+    "status": "active"
+  },
+  "SKL-00022": {
+    "skill_id": "SKL-00022",
+    "skill_name": "Data Modeling",
+    "status": "active"
+  },
+  "SKL-00023": {
+    "skill_id": "SKL-00023",
+    "skill_name": "Airflow",
+    "status": "active"
+  },
+  "SKL-00024": {
+    "skill_id": "SKL-00024",
+    "skill_name": "Spark",
+    "status": "active"
+  },
+  "SKL-00025": {
+    "skill_id": "SKL-00025",
+    "skill_name": "Pandas",
+    "status": "inactive"
+  },
+  "SKL-00026": {
+    "skill_id": "SKL-00026",
+    "skill_name": "ML Basics",
+    "status": "inactive"
+  },
+  "SKL-00027": {
+    "skill_id": "SKL-00027",
+    "skill_name": "Test Automation",
+    "status": "active"
+  },
+  "SKL-00028": {
+    "skill_id": "SKL-00028",
+    "skill_name": "Selenium",
+    "status": "active"
+  },
+  "SKL-00029": {
+    "skill_id": "SKL-00029",
+    "skill_name": "Jest",
+    "status": "active"
+  },
+  "SKL-00030": {
+    "skill_id": "SKL-00030",
+    "skill_name": "PyTest",
+    "status": "active"
+  },
+  "SKL-00031": {
+    "skill_id": "SKL-00031",
+    "skill_name": "Requirements Gathering",
+    "status": "active"
+  },
+  "SKL-00032": {
+    "skill_id": "SKL-00032",
+    "skill_name": "Agile/Scrum",
+    "status": "active"
+  },
+  "SKL-00033": {
+    "skill_id": "SKL-00033",
+    "skill_name": "ATS",
+    "status": "active"
+  },
+  "SKL-00034": {
+    "skill_id": "SKL-00034",
+    "skill_name": "Interviewing",
+    "status": "active"
+  },
+  "SKL-00035": {
+    "skill_id": "SKL-00035",
+    "skill_name": "Sourcing",
+    "status": "active"
+  },
+  "SKL-00036": {
+    "skill_id": "SKL-00036",
+    "skill_name": "Onboarding",
+    "status": "active"
+  },
+  "SKL-00037": {
+    "skill_id": "SKL-00037",
+    "skill_name": "Employee Relations",
+    "status": "inactive"
+  },
+  "SKL-00038": {
+    "skill_id": "SKL-00038",
+    "skill_name": "Labor Law Compliance",
+    "status": "active"
+  },
+  "SKL-00039": {
+    "skill_id": "SKL-00039",
+    "skill_name": "CRM",
+    "status": "active"
+  },
+  "SKL-00040": {
+    "skill_id": "SKL-00040",
+    "skill_name": "Salesforce",
+    "status": "active"
+  },
+  "SKL-00041": {
+    "skill_id": "SKL-00041",
+    "skill_name": "Lead Generation",
+    "status": "active"
+  },
+  "SKL-00042": {
+    "skill_id": "SKL-00042",
+    "skill_name": "Negotiation",
+    "status": "active"
+  },
+  "SKL-00043": {
+    "skill_id": "SKL-00043",
+    "skill_name": "SEO",
+    "status": "active"
+  },
+  "SKL-00044": {
+    "skill_id": "SKL-00044",
+    "skill_name": "SEM",
+    "status": "active"
+  },
+  "SKL-00045": {
+    "skill_id": "SKL-00045",
+    "skill_name": "Content Strategy",
+    "status": "active"
+  },
+  "SKL-00046": {
+    "skill_id": "SKL-00046",
+    "skill_name": "Copywriting",
+    "status": "active"
+  },
+  "SKL-00047": {
+    "skill_id": "SKL-00047",
+    "skill_name": "Social Media",
+    "status": "active"
+  },
+  "SKL-00048": {
+    "skill_id": "SKL-00048",
+    "skill_name": "Excel",
+    "status": "active"
+  },
+  "SKL-00049": {
+    "skill_id": "SKL-00049",
+    "skill_name": "Financial Modeling",
+    "status": "active"
+  },
+  "SKL-00050": {
+    "skill_id": "SKL-00050",
+    "skill_name": "Budgeting",
+    "status": "inactive"
+  },
+  "SKL-00051": {
+    "skill_id": "SKL-00051",
+    "skill_name": "Payroll",
+    "status": "active"
+  },
+  "SKL-00052": {
+    "skill_id": "SKL-00052",
+    "skill_name": "Risk Assessment",
+    "status": "active"
+  },
+  "SKL-00053": {
+    "skill_id": "SKL-00053",
+    "skill_name": "Policy Writing",
+    "status": "inactive"
+  },
+  "SKL-00054": {
+    "skill_id": "SKL-00054",
+    "skill_name": "Vendor Management",
+    "status": "active"
+  },
+  "SKL-00055": {
+    "skill_id": "SKL-00055",
+    "skill_name": "Communication",
+    "status": "active"
+  },
+  "SKL-00056": {
+    "skill_id": "SKL-00056",
+    "skill_name": "Leadership",
+    "status": "active"
+  },
+  "SKL-00057": {
+    "skill_id": "SKL-00057",
+    "skill_name": "Teamwork",
+    "status": "active"
+  },
+  "SKL-00058": {
+    "skill_id": "SKL-00058",
+    "skill_name": "Problem Solving",
+    "status": "inactive"
+  },
+  "SKL-00059": {
+    "skill_id": "SKL-00059",
+    "skill_name": "Time Management",
+    "status": "active"
+  }
+}

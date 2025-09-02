@@ -1,0 +1,74 @@
+{
+  "DEP-00001": {
+    "department_id": "DEP-00001",
+    "department_name": "Human Resources",
+    "manager_id": "EMP-00001",
+    "budget": 1204560.74,
+    "status": "active",
+    "created_at": "2024-03-04T19:19:21",
+    "updated_at": "2024-12-18T19:19:21"
+  },
+  "DEP-00002": {
+    "department_id": "DEP-00002",
+    "department_name": "Engineering",
+    "manager_id": "EMP-00024",
+    "budget": 1191048.16,
+    "status": "active",
+    "created_at": "2023-06-01T19:19:21",
+    "updated_at": "2025-01-02T19:19:21"
+  },
+  "DEP-00003": {
+    "department_id": "DEP-00003",
+    "department_name": "Sales",
+    "manager_id": "EMP-00097",
+    "budget": 2896887.56,
+    "status": "active",
+    "created_at": "2024-03-17T19:19:21",
+    "updated_at": "2025-06-20T19:19:21"
+  },
+  "DEP-00004": {
+    "department_id": "DEP-00004",
+    "department_name": "Marketing",
+    "manager_id": "EMP-00023",
+    "budget": 3597481.35,
+    "status": "active",
+    "created_at": "2025-02-12T19:19:21",
+    "updated_at": "2025-08-26T19:19:21"
+  },
+  "DEP-00005": {
+    "department_id": "DEP-00005",
+    "department_name": "Finance",
+    "manager_id": "EMP-00031",
+    "budget": 436926.43,
+    "status": "active",
+    "created_at": "2023-07-02T19:19:21",
+    "updated_at": "2024-09-10T19:19:21"
+  },
+  "DEP-00006": {
+    "department_id": "DEP-00006",
+    "department_name": "IT",
+    "manager_id": "EMP-00045",
+    "budget": 3277887.63,
+    "status": "active",
+    "created_at": "2023-06-05T19:19:21",
+    "updated_at": "2024-11-08T19:19:21"
+  },
+  "DEP-00007": {
+    "department_id": "DEP-00007",
+    "department_name": "Compliance",
+    "manager_id": "EMP-00050",
+    "budget": 775608.8,
+    "status": "active",
+    "created_at": "2023-04-16T19:19:21",
+    "updated_at": "2025-05-19T19:19:21"
+  },
+  "DEP-00008": {
+    "department_id": "DEP-00008",
+    "department_name": "Operations",
+    "manager_id": "EMP-00026",
+    "budget": 1780911.31,
+    "status": "active",
+    "created_at": "2023-06-26T19:19:21",
+    "updated_at": "2025-07-17T19:19:21"
+  }
+}

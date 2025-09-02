@@ -1,0 +1,698 @@
+{
+  "POS-00001|SKL-00056": {
+    "position_id": "POS-00001",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00001|SKL-00037": {
+    "position_id": "POS-00001",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00001|SKL-00038": {
+    "position_id": "POS-00001",
+    "skill_id": "SKL-00038"
+  },
+  "POS-00001|SKL-00044": {
+    "position_id": "POS-00001",
+    "skill_id": "SKL-00044"
+  },
+  "POS-00001|SKL-00036": {
+    "position_id": "POS-00001",
+    "skill_id": "SKL-00036"
+  },
+  "POS-00002|SKL-00037": {
+    "position_id": "POS-00002",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00002|SKL-00053": {
+    "position_id": "POS-00002",
+    "skill_id": "SKL-00053"
+  },
+  "POS-00002|SKL-00040": {
+    "position_id": "POS-00002",
+    "skill_id": "SKL-00040"
+  },
+  "POS-00002|SKL-00036": {
+    "position_id": "POS-00002",
+    "skill_id": "SKL-00036"
+  },
+  "POS-00002|SKL-00032": {
+    "position_id": "POS-00002",
+    "skill_id": "SKL-00032"
+  },
+  "POS-00003|SKL-00036": {
+    "position_id": "POS-00003",
+    "skill_id": "SKL-00036"
+  },
+  "POS-00003|SKL-00055": {
+    "position_id": "POS-00003",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00003|SKL-00037": {
+    "position_id": "POS-00003",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00003|SKL-00057": {
+    "position_id": "POS-00003",
+    "skill_id": "SKL-00057"
+  },
+  "POS-00004|SKL-00055": {
+    "position_id": "POS-00004",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00004|SKL-00034": {
+    "position_id": "POS-00004",
+    "skill_id": "SKL-00034"
+  },
+  "POS-00004|SKL-00049": {
+    "position_id": "POS-00004",
+    "skill_id": "SKL-00049"
+  },
+  "POS-00004|SKL-00035": {
+    "position_id": "POS-00004",
+    "skill_id": "SKL-00035"
+  },
+  "POS-00004|SKL-00033": {
+    "position_id": "POS-00004",
+    "skill_id": "SKL-00033"
+  },
+  "POS-00005|SKL-00036": {
+    "position_id": "POS-00005",
+    "skill_id": "SKL-00036"
+  },
+  "POS-00005|SKL-00055": {
+    "position_id": "POS-00005",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00005|SKL-00020": {
+    "position_id": "POS-00005",
+    "skill_id": "SKL-00020"
+  },
+  "POS-00005|SKL-00053": {
+    "position_id": "POS-00005",
+    "skill_id": "SKL-00053"
+  },
+  "POS-00006|SKL-00019": {
+    "position_id": "POS-00006",
+    "skill_id": "SKL-00019"
+  },
+  "POS-00006|SKL-00031": {
+    "position_id": "POS-00006",
+    "skill_id": "SKL-00031"
+  },
+  "POS-00006|SKL-00032": {
+    "position_id": "POS-00006",
+    "skill_id": "SKL-00032"
+  },
+  "POS-00006|SKL-00001": {
+    "position_id": "POS-00006",
+    "skill_id": "SKL-00001"
+  },
+  "POS-00006|SKL-00018": {
+    "position_id": "POS-00006",
+    "skill_id": "SKL-00018"
+  },
+  "POS-00006|SKL-00052": {
+    "position_id": "POS-00006",
+    "skill_id": "SKL-00052"
+  },
+  "POS-00007|SKL-00017": {
+    "position_id": "POS-00007",
+    "skill_id": "SKL-00017"
+  },
+  "POS-00007|SKL-00019": {
+    "position_id": "POS-00007",
+    "skill_id": "SKL-00019"
+  },
+  "POS-00007|SKL-00020": {
+    "position_id": "POS-00007",
+    "skill_id": "SKL-00020"
+  },
+  "POS-00007|SKL-00014": {
+    "position_id": "POS-00007",
+    "skill_id": "SKL-00014"
+  },
+  "POS-00007|SKL-00044": {
+    "position_id": "POS-00007",
+    "skill_id": "SKL-00044"
+  },
+  "POS-00007|SKL-00001": {
+    "position_id": "POS-00007",
+    "skill_id": "SKL-00001"
+  },
+  "POS-00008|SKL-00027": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00027"
+  },
+  "POS-00008|SKL-00029": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00029"
+  },
+  "POS-00008|SKL-00013": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00013"
+  },
+  "POS-00008|SKL-00030": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00030"
+  },
+  "POS-00008|SKL-00034": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00034"
+  },
+  "POS-00008|SKL-00028": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00028"
+  },
+  "POS-00008|SKL-00054": {
+    "position_id": "POS-00008",
+    "skill_id": "SKL-00054"
+  },
+  "POS-00009|SKL-00017": {
+    "position_id": "POS-00009",
+    "skill_id": "SKL-00017"
+  },
+  "POS-00009|SKL-00011": {
+    "position_id": "POS-00009",
+    "skill_id": "SKL-00011"
+  },
+  "POS-00009|SKL-00009": {
+    "position_id": "POS-00009",
+    "skill_id": "SKL-00009"
+  },
+  "POS-00009|SKL-00010": {
+    "position_id": "POS-00009",
+    "skill_id": "SKL-00010"
+  },
+  "POS-00009|SKL-00008": {
+    "position_id": "POS-00009",
+    "skill_id": "SKL-00008"
+  },
+  "POS-00010|SKL-00023": {
+    "position_id": "POS-00010",
+    "skill_id": "SKL-00023"
+  },
+  "POS-00010|SKL-00037": {
+    "position_id": "POS-00010",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00010|SKL-00024": {
+    "position_id": "POS-00010",
+    "skill_id": "SKL-00024"
+  },
+  "POS-00010|SKL-00022": {
+    "position_id": "POS-00010",
+    "skill_id": "SKL-00022"
+  },
+  "POS-00010|SKL-00021": {
+    "position_id": "POS-00010",
+    "skill_id": "SKL-00021"
+  },
+  "POS-00010|SKL-00006": {
+    "position_id": "POS-00010",
+    "skill_id": "SKL-00006"
+  },
+  "POS-00011|SKL-00055": {
+    "position_id": "POS-00011",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00011|SKL-00056": {
+    "position_id": "POS-00011",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00011|SKL-00049": {
+    "position_id": "POS-00011",
+    "skill_id": "SKL-00049"
+  },
+  "POS-00011|SKL-00041": {
+    "position_id": "POS-00011",
+    "skill_id": "SKL-00041"
+  },
+  "POS-00011|SKL-00032": {
+    "position_id": "POS-00011",
+    "skill_id": "SKL-00032"
+  },
+  "POS-00012|SKL-00031": {
+    "position_id": "POS-00012",
+    "skill_id": "SKL-00031"
+  },
+  "POS-00012|SKL-00055": {
+    "position_id": "POS-00012",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00012|SKL-00030": {
+    "position_id": "POS-00012",
+    "skill_id": "SKL-00030"
+  },
+  "POS-00012|SKL-00032": {
+    "position_id": "POS-00012",
+    "skill_id": "SKL-00032"
+  },
+  "POS-00012|SKL-00003": {
+    "position_id": "POS-00012",
+    "skill_id": "SKL-00003"
+  },
+  "POS-00013|SKL-00029": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00029"
+  },
+  "POS-00013|SKL-00055": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00013|SKL-00039": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00039"
+  },
+  "POS-00013|SKL-00007": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00007"
+  },
+  "POS-00013|SKL-00042": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00042"
+  },
+  "POS-00013|SKL-00040": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00040"
+  },
+  "POS-00013|SKL-00054": {
+    "position_id": "POS-00013",
+    "skill_id": "SKL-00054"
+  },
+  "POS-00014|SKL-00039": {
+    "position_id": "POS-00014",
+    "skill_id": "SKL-00039"
+  },
+  "POS-00014|SKL-00037": {
+    "position_id": "POS-00014",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00014|SKL-00056": {
+    "position_id": "POS-00014",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00014|SKL-00048": {
+    "position_id": "POS-00014",
+    "skill_id": "SKL-00048"
+  },
+  "POS-00014|SKL-00042": {
+    "position_id": "POS-00014",
+    "skill_id": "SKL-00042"
+  },
+  "POS-00014|SKL-00041": {
+    "position_id": "POS-00014",
+    "skill_id": "SKL-00041"
+  },
+  "POS-00015|SKL-00042": {
+    "position_id": "POS-00015",
+    "skill_id": "SKL-00042"
+  },
+  "POS-00015|SKL-00039": {
+    "position_id": "POS-00015",
+    "skill_id": "SKL-00039"
+  },
+  "POS-00015|SKL-00056": {
+    "position_id": "POS-00015",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00015|SKL-00028": {
+    "position_id": "POS-00015",
+    "skill_id": "SKL-00028"
+  },
+  "POS-00016|SKL-00058": {
+    "position_id": "POS-00016",
+    "skill_id": "SKL-00058"
+  },
+  "POS-00016|SKL-00017": {
+    "position_id": "POS-00016",
+    "skill_id": "SKL-00017"
+  },
+  "POS-00016|SKL-00055": {
+    "position_id": "POS-00016",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00016|SKL-00039": {
+    "position_id": "POS-00016",
+    "skill_id": "SKL-00039"
+  },
+  "POS-00016|SKL-00057": {
+    "position_id": "POS-00016",
+    "skill_id": "SKL-00057"
+  },
+  "POS-00016|SKL-00032": {
+    "position_id": "POS-00016",
+    "skill_id": "SKL-00032"
+  },
+  "POS-00017|SKL-00045": {
+    "position_id": "POS-00017",
+    "skill_id": "SKL-00045"
+  },
+  "POS-00017|SKL-00047": {
+    "position_id": "POS-00017",
+    "skill_id": "SKL-00047"
+  },
+  "POS-00017|SKL-00019": {
+    "position_id": "POS-00017",
+    "skill_id": "SKL-00019"
+  },
+  "POS-00017|SKL-00043": {
+    "position_id": "POS-00017",
+    "skill_id": "SKL-00043"
+  },
+  "POS-00017|SKL-00040": {
+    "position_id": "POS-00017",
+    "skill_id": "SKL-00040"
+  },
+  "POS-00018|SKL-00045": {
+    "position_id": "POS-00018",
+    "skill_id": "SKL-00045"
+  },
+  "POS-00018|SKL-00046": {
+    "position_id": "POS-00018",
+    "skill_id": "SKL-00046"
+  },
+  "POS-00018|SKL-00055": {
+    "position_id": "POS-00018",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00018|SKL-00037": {
+    "position_id": "POS-00018",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00018|SKL-00043": {
+    "position_id": "POS-00018",
+    "skill_id": "SKL-00043"
+  },
+  "POS-00018|SKL-00024": {
+    "position_id": "POS-00018",
+    "skill_id": "SKL-00024"
+  },
+  "POS-00019|SKL-00014": {
+    "position_id": "POS-00019",
+    "skill_id": "SKL-00014"
+  },
+  "POS-00019|SKL-00044": {
+    "position_id": "POS-00019",
+    "skill_id": "SKL-00044"
+  },
+  "POS-00019|SKL-00043": {
+    "position_id": "POS-00019",
+    "skill_id": "SKL-00043"
+  },
+  "POS-00019|SKL-00022": {
+    "position_id": "POS-00019",
+    "skill_id": "SKL-00022"
+  },
+  "POS-00019|SKL-00057": {
+    "position_id": "POS-00019",
+    "skill_id": "SKL-00057"
+  },
+  "POS-00020|SKL-00041": {
+    "position_id": "POS-00020",
+    "skill_id": "SKL-00041"
+  },
+  "POS-00020|SKL-00018": {
+    "position_id": "POS-00020",
+    "skill_id": "SKL-00018"
+  },
+  "POS-00020|SKL-00010": {
+    "position_id": "POS-00020",
+    "skill_id": "SKL-00010"
+  },
+  "POS-00021|SKL-00058": {
+    "position_id": "POS-00021",
+    "skill_id": "SKL-00058"
+  },
+  "POS-00021|SKL-00050": {
+    "position_id": "POS-00021",
+    "skill_id": "SKL-00050"
+  },
+  "POS-00021|SKL-00048": {
+    "position_id": "POS-00021",
+    "skill_id": "SKL-00048"
+  },
+  "POS-00021|SKL-00049": {
+    "position_id": "POS-00021",
+    "skill_id": "SKL-00049"
+  },
+  "POS-00022|SKL-00050": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00050"
+  },
+  "POS-00022|SKL-00055": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00022|SKL-00002": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00002"
+  },
+  "POS-00022|SKL-00048": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00048"
+  },
+  "POS-00022|SKL-00049": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00049"
+  },
+  "POS-00022|SKL-00057": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00057"
+  },
+  "POS-00022|SKL-00052": {
+    "position_id": "POS-00022",
+    "skill_id": "SKL-00052"
+  },
+  "POS-00023|SKL-00053": {
+    "position_id": "POS-00023",
+    "skill_id": "SKL-00053"
+  },
+  "POS-00023|SKL-00059": {
+    "position_id": "POS-00023",
+    "skill_id": "SKL-00059"
+  },
+  "POS-00023|SKL-00048": {
+    "position_id": "POS-00023",
+    "skill_id": "SKL-00048"
+  },
+  "POS-00023|SKL-00051": {
+    "position_id": "POS-00023",
+    "skill_id": "SKL-00051"
+  },
+  "POS-00024|SKL-00017": {
+    "position_id": "POS-00024",
+    "skill_id": "SKL-00017"
+  },
+  "POS-00024|SKL-00050": {
+    "position_id": "POS-00024",
+    "skill_id": "SKL-00050"
+  },
+  "POS-00024|SKL-00056": {
+    "position_id": "POS-00024",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00024|SKL-00011": {
+    "position_id": "POS-00024",
+    "skill_id": "SKL-00011"
+  },
+  "POS-00024|SKL-00032": {
+    "position_id": "POS-00024",
+    "skill_id": "SKL-00032"
+  },
+  "POS-00024|SKL-00052": {
+    "position_id": "POS-00024",
+    "skill_id": "SKL-00052"
+  },
+  "POS-00025|SKL-00012": {
+    "position_id": "POS-00025",
+    "skill_id": "SKL-00012"
+  },
+  "POS-00025|SKL-00031": {
+    "position_id": "POS-00025",
+    "skill_id": "SKL-00031"
+  },
+  "POS-00025|SKL-00013": {
+    "position_id": "POS-00025",
+    "skill_id": "SKL-00013"
+  },
+  "POS-00025|SKL-00011": {
+    "position_id": "POS-00025",
+    "skill_id": "SKL-00011"
+  },
+  "POS-00025|SKL-00016": {
+    "position_id": "POS-00025",
+    "skill_id": "SKL-00016"
+  },
+  "POS-00026|SKL-00023": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00023"
+  },
+  "POS-00026|SKL-00013": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00013"
+  },
+  "POS-00026|SKL-00011": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00011"
+  },
+  "POS-00026|SKL-00014": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00014"
+  },
+  "POS-00026|SKL-00040": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00040"
+  },
+  "POS-00026|SKL-00010": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00010"
+  },
+  "POS-00026|SKL-00033": {
+    "position_id": "POS-00026",
+    "skill_id": "SKL-00033"
+  },
+  "POS-00027|SKL-00058": {
+    "position_id": "POS-00027",
+    "skill_id": "SKL-00058"
+  },
+  "POS-00027|SKL-00012": {
+    "position_id": "POS-00027",
+    "skill_id": "SKL-00012"
+  },
+  "POS-00027|SKL-00055": {
+    "position_id": "POS-00027",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00027|SKL-00037": {
+    "position_id": "POS-00027",
+    "skill_id": "SKL-00037"
+  },
+  "POS-00027|SKL-00013": {
+    "position_id": "POS-00027",
+    "skill_id": "SKL-00013"
+  },
+  "POS-00027|SKL-00003": {
+    "position_id": "POS-00027",
+    "skill_id": "SKL-00003"
+  },
+  "POS-00028|SKL-00056": {
+    "position_id": "POS-00028",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00028|SKL-00052": {
+    "position_id": "POS-00028",
+    "skill_id": "SKL-00052"
+  },
+  "POS-00028|SKL-00054": {
+    "position_id": "POS-00028",
+    "skill_id": "SKL-00054"
+  },
+  "POS-00028|SKL-00001": {
+    "position_id": "POS-00028",
+    "skill_id": "SKL-00001"
+  },
+  "POS-00029|SKL-00053": {
+    "position_id": "POS-00029",
+    "skill_id": "SKL-00053"
+  },
+  "POS-00029|SKL-00001": {
+    "position_id": "POS-00029",
+    "skill_id": "SKL-00001"
+  },
+  "POS-00029|SKL-00052": {
+    "position_id": "POS-00029",
+    "skill_id": "SKL-00052"
+  },
+  "POS-00029|SKL-00038": {
+    "position_id": "POS-00029",
+    "skill_id": "SKL-00038"
+  },
+  "POS-00030|SKL-00053": {
+    "position_id": "POS-00030",
+    "skill_id": "SKL-00053"
+  },
+  "POS-00030|SKL-00056": {
+    "position_id": "POS-00030",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00030|SKL-00052": {
+    "position_id": "POS-00030",
+    "skill_id": "SKL-00052"
+  },
+  "POS-00030|SKL-00001": {
+    "position_id": "POS-00030",
+    "skill_id": "SKL-00001"
+  },
+  "POS-00031|SKL-00005": {
+    "position_id": "POS-00031",
+    "skill_id": "SKL-00005"
+  },
+  "POS-00031|SKL-00055": {
+    "position_id": "POS-00031",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00031|SKL-00059": {
+    "position_id": "POS-00031",
+    "skill_id": "SKL-00059"
+  },
+  "POS-00031|SKL-00008": {
+    "position_id": "POS-00031",
+    "skill_id": "SKL-00008"
+  },
+  "POS-00031|SKL-00054": {
+    "position_id": "POS-00031",
+    "skill_id": "SKL-00054"
+  },
+  "POS-00032|SKL-00058": {
+    "position_id": "POS-00032",
+    "skill_id": "SKL-00058"
+  },
+  "POS-00032|SKL-00036": {
+    "position_id": "POS-00032",
+    "skill_id": "SKL-00036"
+  },
+  "POS-00032|SKL-00022": {
+    "position_id": "POS-00032",
+    "skill_id": "SKL-00022"
+  },
+  "POS-00032|SKL-00048": {
+    "position_id": "POS-00032",
+    "skill_id": "SKL-00048"
+  },
+  "POS-00033|SKL-00050": {
+    "position_id": "POS-00033",
+    "skill_id": "SKL-00050"
+  },
+  "POS-00033|SKL-00007": {
+    "position_id": "POS-00033",
+    "skill_id": "SKL-00007"
+  },
+  "POS-00033|SKL-00056": {
+    "position_id": "POS-00033",
+    "skill_id": "SKL-00056"
+  },
+  "POS-00033|SKL-00054": {
+    "position_id": "POS-00033",
+    "skill_id": "SKL-00054"
+  },
+  "POS-00034|SKL-00017": {
+    "position_id": "POS-00034",
+    "skill_id": "SKL-00017"
+  },
+  "POS-00034|SKL-00055": {
+    "position_id": "POS-00034",
+    "skill_id": "SKL-00055"
+  },
+  "POS-00034|SKL-00016": {
+    "position_id": "POS-00034",
+    "skill_id": "SKL-00016"
+  },
+  "POS-00034|SKL-00059": {
+    "position_id": "POS-00034",
+    "skill_id": "SKL-00059"
+  },
+  "POS-00034|SKL-00054": {
+    "position_id": "POS-00034",
+    "skill_id": "SKL-00054"
+  }
+}
