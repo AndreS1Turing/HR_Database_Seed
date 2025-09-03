@@ -1,297 +1,252 @@
 {
-  "SKL-00001": {
-    "skill_id": "SKL-00001",
-    "skill_name": "Python",
+  "1": {
+    "skill_id": "1",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00002": {
-    "skill_id": "SKL-00002",
-    "skill_name": "Java",
+  "2": {
+    "skill_id": "2",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00003": {
-    "skill_id": "SKL-00003",
-    "skill_name": "C#",
+  "3": {
+    "skill_id": "3",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00004": {
-    "skill_id": "SKL-00004",
-    "skill_name": "JavaScript",
-    "status": "active"
-  },
-  "SKL-00005": {
-    "skill_id": "SKL-00005",
-    "skill_name": "TypeScript",
-    "status": "active"
-  },
-  "SKL-00006": {
-    "skill_id": "SKL-00006",
+  "4": {
+    "skill_id": "4",
     "skill_name": "SQL",
     "status": "active"
   },
-  "SKL-00007": {
-    "skill_id": "SKL-00007",
-    "skill_name": "NoSQL",
+  "5": {
+    "skill_id": "5",
+    "skill_name": "Python",
     "status": "active"
   },
-  "SKL-00008": {
-    "skill_id": "SKL-00008",
-    "skill_name": "Docker",
+  "6": {
+    "skill_id": "6",
+    "skill_name": "Project Management",
     "status": "active"
   },
-  "SKL-00009": {
-    "skill_id": "SKL-00009",
-    "skill_name": "Kubernetes",
-    "status": "inactive"
-  },
-  "SKL-00010": {
-    "skill_id": "SKL-00010",
-    "skill_name": "Terraform",
+  "7": {
+    "skill_id": "7",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00011": {
-    "skill_id": "SKL-00011",
-    "skill_name": "Linux Administration",
-    "status": "inactive"
-  },
-  "SKL-00012": {
-    "skill_id": "SKL-00012",
-    "skill_name": "Windows Server",
+  "8": {
+    "skill_id": "8",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00013": {
-    "skill_id": "SKL-00013",
-    "skill_name": "Networking",
-    "status": "inactive"
-  },
-  "SKL-00014": {
-    "skill_id": "SKL-00014",
-    "skill_name": "AWS",
-    "status": "inactive"
-  },
-  "SKL-00015": {
-    "skill_id": "SKL-00015",
-    "skill_name": "GCP",
+  "9": {
+    "skill_id": "9",
+    "skill_name": "Project Management",
     "status": "active"
   },
-  "SKL-00016": {
-    "skill_id": "SKL-00016",
-    "skill_name": "Azure",
+  "10": {
+    "skill_id": "10",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00017": {
-    "skill_id": "SKL-00017",
-    "skill_name": "CI/CD",
+  "11": {
+    "skill_id": "11",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00018": {
-    "skill_id": "SKL-00018",
-    "skill_name": "Git",
-    "status": "inactive"
-  },
-  "SKL-00019": {
-    "skill_id": "SKL-00019",
-    "skill_name": "Unit Testing",
+  "12": {
+    "skill_id": "12",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00020": {
-    "skill_id": "SKL-00020",
-    "skill_name": "Microservices",
+  "13": {
+    "skill_id": "13",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00021": {
-    "skill_id": "SKL-00021",
-    "skill_name": "ETL",
+  "14": {
+    "skill_id": "14",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00022": {
-    "skill_id": "SKL-00022",
-    "skill_name": "Data Modeling",
+  "15": {
+    "skill_id": "15",
+    "skill_name": "SQL",
     "status": "active"
   },
-  "SKL-00023": {
-    "skill_id": "SKL-00023",
-    "skill_name": "Airflow",
+  "16": {
+    "skill_id": "16",
+    "skill_name": "Python",
     "status": "active"
   },
-  "SKL-00024": {
-    "skill_id": "SKL-00024",
-    "skill_name": "Spark",
+  "17": {
+    "skill_id": "17",
+    "skill_name": "SQL",
     "status": "active"
   },
-  "SKL-00025": {
-    "skill_id": "SKL-00025",
-    "skill_name": "Pandas",
-    "status": "inactive"
-  },
-  "SKL-00026": {
-    "skill_id": "SKL-00026",
-    "skill_name": "ML Basics",
-    "status": "inactive"
-  },
-  "SKL-00027": {
-    "skill_id": "SKL-00027",
-    "skill_name": "Test Automation",
+  "18": {
+    "skill_id": "18",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00028": {
-    "skill_id": "SKL-00028",
-    "skill_name": "Selenium",
+  "19": {
+    "skill_id": "19",
+    "skill_name": "Project Management",
     "status": "active"
   },
-  "SKL-00029": {
-    "skill_id": "SKL-00029",
-    "skill_name": "Jest",
+  "20": {
+    "skill_id": "20",
+    "skill_name": "SQL",
     "status": "active"
   },
-  "SKL-00030": {
-    "skill_id": "SKL-00030",
-    "skill_name": "PyTest",
+  "21": {
+    "skill_id": "21",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00031": {
-    "skill_id": "SKL-00031",
-    "skill_name": "Requirements Gathering",
+  "22": {
+    "skill_id": "22",
+    "skill_name": "SQL",
     "status": "active"
   },
-  "SKL-00032": {
-    "skill_id": "SKL-00032",
-    "skill_name": "Agile/Scrum",
+  "23": {
+    "skill_id": "23",
+    "skill_name": "Python",
     "status": "active"
   },
-  "SKL-00033": {
-    "skill_id": "SKL-00033",
-    "skill_name": "ATS",
+  "24": {
+    "skill_id": "24",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00034": {
-    "skill_id": "SKL-00034",
-    "skill_name": "Interviewing",
+  "25": {
+    "skill_id": "25",
+    "skill_name": "Project Management",
     "status": "active"
   },
-  "SKL-00035": {
-    "skill_id": "SKL-00035",
-    "skill_name": "Sourcing",
+  "26": {
+    "skill_id": "26",
+    "skill_name": "SQL",
     "status": "active"
   },
-  "SKL-00036": {
-    "skill_id": "SKL-00036",
-    "skill_name": "Onboarding",
+  "27": {
+    "skill_id": "27",
+    "skill_name": "Python",
     "status": "active"
   },
-  "SKL-00037": {
-    "skill_id": "SKL-00037",
-    "skill_name": "Employee Relations",
-    "status": "inactive"
-  },
-  "SKL-00038": {
-    "skill_id": "SKL-00038",
-    "skill_name": "Labor Law Compliance",
+  "28": {
+    "skill_id": "28",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00039": {
-    "skill_id": "SKL-00039",
-    "skill_name": "CRM",
+  "29": {
+    "skill_id": "29",
+    "skill_name": "Python",
     "status": "active"
   },
-  "SKL-00040": {
-    "skill_id": "SKL-00040",
-    "skill_name": "Salesforce",
+  "30": {
+    "skill_id": "30",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00041": {
-    "skill_id": "SKL-00041",
-    "skill_name": "Lead Generation",
+  "31": {
+    "skill_id": "31",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00042": {
-    "skill_id": "SKL-00042",
-    "skill_name": "Negotiation",
+  "32": {
+    "skill_id": "32",
+    "skill_name": "Project Management",
     "status": "active"
   },
-  "SKL-00043": {
-    "skill_id": "SKL-00043",
-    "skill_name": "SEO",
+  "33": {
+    "skill_id": "33",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00044": {
-    "skill_id": "SKL-00044",
-    "skill_name": "SEM",
+  "34": {
+    "skill_id": "34",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00045": {
-    "skill_id": "SKL-00045",
-    "skill_name": "Content Strategy",
+  "35": {
+    "skill_id": "35",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00046": {
-    "skill_id": "SKL-00046",
-    "skill_name": "Copywriting",
+  "36": {
+    "skill_id": "36",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00047": {
-    "skill_id": "SKL-00047",
-    "skill_name": "Social Media",
+  "37": {
+    "skill_id": "37",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00048": {
-    "skill_id": "SKL-00048",
-    "skill_name": "Excel",
+  "38": {
+    "skill_id": "38",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00049": {
-    "skill_id": "SKL-00049",
-    "skill_name": "Financial Modeling",
+  "39": {
+    "skill_id": "39",
+    "skill_name": "Project Management",
     "status": "active"
   },
-  "SKL-00050": {
-    "skill_id": "SKL-00050",
-    "skill_name": "Budgeting",
-    "status": "inactive"
-  },
-  "SKL-00051": {
-    "skill_id": "SKL-00051",
-    "skill_name": "Payroll",
+  "40": {
+    "skill_id": "40",
+    "skill_name": "Python",
     "status": "active"
   },
-  "SKL-00052": {
-    "skill_id": "SKL-00052",
-    "skill_name": "Risk Assessment",
+  "41": {
+    "skill_id": "41",
+    "skill_name": "Data Analysis",
     "status": "active"
   },
-  "SKL-00053": {
-    "skill_id": "SKL-00053",
-    "skill_name": "Policy Writing",
-    "status": "inactive"
-  },
-  "SKL-00054": {
-    "skill_id": "SKL-00054",
-    "skill_name": "Vendor Management",
+  "42": {
+    "skill_id": "42",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00055": {
-    "skill_id": "SKL-00055",
-    "skill_name": "Communication",
+  "43": {
+    "skill_id": "43",
+    "skill_name": "Team Leadership",
     "status": "active"
   },
-  "SKL-00056": {
-    "skill_id": "SKL-00056",
-    "skill_name": "Leadership",
+  "44": {
+    "skill_id": "44",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00057": {
-    "skill_id": "SKL-00057",
-    "skill_name": "Teamwork",
+  "45": {
+    "skill_id": "45",
+    "skill_name": "React",
     "status": "active"
   },
-  "SKL-00058": {
-    "skill_id": "SKL-00058",
-    "skill_name": "Problem Solving",
-    "status": "inactive"
+  "46": {
+    "skill_id": "46",
+    "skill_name": "Project Management",
+    "status": "active"
   },
-  "SKL-00059": {
-    "skill_id": "SKL-00059",
-    "skill_name": "Time Management",
+  "47": {
+    "skill_id": "47",
+    "skill_name": "Team Leadership",
+    "status": "active"
+  },
+  "48": {
+    "skill_id": "48",
+    "skill_name": "Python",
+    "status": "active"
+  },
+  "49": {
+    "skill_id": "49",
+    "skill_name": "Project Management",
+    "status": "active"
+  },
+  "50": {
+    "skill_id": "50",
+    "skill_name": "Python",
     "status": "active"
   }
 }

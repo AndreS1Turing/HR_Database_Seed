@@ -1,1198 +1,1052 @@
 {
-  "RMB-00001": {
-    "reimbursement_id": "RMB-00001",
-    "employee_id": "EMP-00001",
-    "expense_date": "2025-07-12",
-    "amount": 245.25,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00001.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-30T19:19:21",
-    "updated_at": "2025-08-05T19:19:21"
-  },
-  "RMB-00002": {
-    "reimbursement_id": "RMB-00002",
-    "employee_id": "EMP-00002",
-    "expense_date": "2025-06-28",
-    "amount": 194.25,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00002.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-20T19:19:21",
-    "updated_at": "2025-07-15T19:19:21"
-  },
-  "RMB-00003": {
-    "reimbursement_id": "RMB-00003",
-    "employee_id": "EMP-00002",
-    "expense_date": "2025-07-03",
-    "amount": 273.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00003.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-01T19:19:21",
-    "updated_at": "2025-07-17T19:19:21"
-  },
-  "RMB-00004": {
-    "reimbursement_id": "RMB-00004",
-    "employee_id": "EMP-00003",
-    "expense_date": "2025-06-17",
-    "amount": 815.25,
-    "expense_type": "equipment",
-    "receipt_file_path": null,
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-20T19:19:21",
-    "updated_at": "2025-06-20T19:19:21"
-  },
-  "RMB-00005": {
-    "reimbursement_id": "RMB-00005",
-    "employee_id": "EMP-00003",
-    "expense_date": "2025-08-09",
-    "amount": 270.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00005.pdf",
-    "status": "paid",
-    "approved_by": "USR-00038",
-    "payment_date": "2025-08-17",
-    "created_at": "2025-05-27T19:19:21",
-    "updated_at": "2025-06-20T19:19:21"
-  },
-  "RMB-00006": {
-    "reimbursement_id": "RMB-00006",
-    "employee_id": "EMP-00005",
-    "expense_date": "2025-06-30",
-    "amount": 259.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00006.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-05T19:19:21",
-    "updated_at": "2025-08-30T19:19:21"
-  },
-  "RMB-00007": {
-    "reimbursement_id": "RMB-00007",
-    "employee_id": "EMP-00006",
-    "expense_date": "2025-08-06",
-    "amount": 1283.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00007.pdf",
-    "status": "approved",
-    "approved_by": "USR-00027",
-    "payment_date": null,
-    "created_at": "2025-06-04T19:19:21",
-    "updated_at": "2025-07-19T19:19:21"
-  },
-  "RMB-00008": {
-    "reimbursement_id": "RMB-00008",
-    "employee_id": "EMP-00006",
-    "expense_date": "2025-07-04",
-    "amount": 1421.0,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00008.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-17T19:19:21",
-    "updated_at": "2025-08-20T19:19:21"
-  },
-  "RMB-00009": {
-    "reimbursement_id": "RMB-00009",
-    "employee_id": "EMP-00007",
-    "expense_date": "2025-04-14",
-    "amount": 164.75,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00009.pdf",
-    "status": "approved",
-    "approved_by": "USR-00027",
-    "payment_date": null,
-    "created_at": "2025-07-26T19:19:21",
-    "updated_at": "2025-07-26T19:19:21"
-  },
-  "RMB-00010": {
-    "reimbursement_id": "RMB-00010",
-    "employee_id": "EMP-00007",
-    "expense_date": "2025-04-04",
-    "amount": 56.75,
-    "expense_type": "meals",
-    "receipt_file_path": null,
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-30T19:19:21",
-    "updated_at": "2025-08-17T19:19:21"
-  },
-  "RMB-00011": {
-    "reimbursement_id": "RMB-00011",
-    "employee_id": "EMP-00009",
-    "expense_date": "2025-07-07",
-    "amount": 596.5,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00011.pdf",
-    "status": "approved",
-    "approved_by": "USR-00038",
-    "payment_date": null,
-    "created_at": "2025-04-10T19:19:21",
-    "updated_at": "2025-08-15T19:19:21"
-  },
-  "RMB-00012": {
-    "reimbursement_id": "RMB-00012",
-    "employee_id": "EMP-00009",
-    "expense_date": "2025-06-10",
-    "amount": 134.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00012.pdf",
-    "status": "approved",
-    "approved_by": "USR-00035",
-    "payment_date": null,
-    "created_at": "2025-07-21T19:19:21",
-    "updated_at": "2025-08-25T19:19:21"
-  },
-  "RMB-00013": {
-    "reimbursement_id": "RMB-00013",
-    "employee_id": "EMP-00012",
-    "expense_date": "2025-02-14",
-    "amount": 1271.75,
-    "expense_type": "other",
-    "receipt_file_path": null,
-    "status": "paid",
-    "approved_by": "USR-00033",
-    "payment_date": "2025-03-01",
-    "created_at": "2025-05-17T19:19:21",
-    "updated_at": "2025-08-31T19:19:21"
-  },
-  "RMB-00014": {
-    "reimbursement_id": "RMB-00014",
-    "employee_id": "EMP-00012",
-    "expense_date": "2025-07-15",
-    "amount": 618.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00014.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-06-02T19:19:21",
-    "updated_at": "2025-08-26T19:19:21"
-  },
-  "RMB-00015": {
-    "reimbursement_id": "RMB-00015",
-    "employee_id": "EMP-00015",
-    "expense_date": "2025-08-12",
-    "amount": 1268.25,
-    "expense_type": "other",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00006",
-    "payment_date": null,
-    "created_at": "2025-06-07T19:19:21",
-    "updated_at": "2025-08-31T19:19:21"
-  },
-  "RMB-00016": {
-    "reimbursement_id": "RMB-00016",
-    "employee_id": "EMP-00018",
-    "expense_date": "2025-06-25",
-    "amount": 1286.75,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00016.pdf",
-    "status": "approved",
-    "approved_by": "USR-00025",
-    "payment_date": null,
-    "created_at": "2025-05-22T19:19:21",
-    "updated_at": "2025-07-03T19:19:21"
-  },
-  "RMB-00017": {
-    "reimbursement_id": "RMB-00017",
-    "employee_id": "EMP-00019",
-    "expense_date": "2025-05-04",
-    "amount": 161.5,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00017.pdf",
-    "status": "paid",
-    "approved_by": "USR-00028",
-    "payment_date": "2025-05-15",
-    "created_at": "2025-07-14T19:19:21",
-    "updated_at": "2025-06-25T19:19:21"
-  },
-  "RMB-00018": {
-    "reimbursement_id": "RMB-00018",
-    "employee_id": "EMP-00020",
-    "expense_date": "2025-05-05",
-    "amount": 1261.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00018.pdf",
-    "status": "paid",
-    "approved_by": "USR-00005",
-    "payment_date": "2025-05-16",
-    "created_at": "2025-04-15T19:19:21",
-    "updated_at": "2025-07-02T19:19:21"
-  },
-  "RMB-00019": {
-    "reimbursement_id": "RMB-00019",
-    "employee_id": "EMP-00020",
-    "expense_date": "2025-07-10",
-    "amount": 1169.75,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00019.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-21T19:19:21",
-    "updated_at": "2025-08-29T19:19:21"
-  },
-  "RMB-00020": {
-    "reimbursement_id": "RMB-00020",
-    "employee_id": "EMP-00021",
-    "expense_date": "2025-05-04",
-    "amount": 266.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00020.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-23T19:19:21",
-    "updated_at": "2025-06-25T19:19:21"
-  },
-  "RMB-00021": {
-    "reimbursement_id": "RMB-00021",
-    "employee_id": "EMP-00022",
-    "expense_date": "2025-08-16",
-    "amount": 287.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00021.pdf",
-    "status": "approved",
-    "approved_by": "USR-00008",
-    "payment_date": null,
-    "created_at": "2025-06-27T19:19:21",
-    "updated_at": "2025-07-09T19:19:21"
-  },
-  "RMB-00022": {
-    "reimbursement_id": "RMB-00022",
-    "employee_id": "EMP-00022",
-    "expense_date": "2025-05-13",
-    "amount": 1189.25,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00022.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-06-23T19:19:21",
-    "updated_at": "2025-08-30T19:19:21"
-  },
-  "RMB-00023": {
-    "reimbursement_id": "RMB-00023",
-    "employee_id": "EMP-00023",
-    "expense_date": "2025-06-11",
-    "amount": 224.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00023.pdf",
-    "status": "paid",
-    "approved_by": "USR-00032",
-    "payment_date": "2025-06-21",
-    "created_at": "2025-04-09T19:19:21",
-    "updated_at": "2025-06-22T19:19:21"
-  },
-  "RMB-00024": {
-    "reimbursement_id": "RMB-00024",
-    "employee_id": "EMP-00023",
-    "expense_date": "2025-04-05",
-    "amount": 639.25,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00024.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-17T19:19:21",
-    "updated_at": "2025-06-14T19:19:21"
-  },
-  "RMB-00025": {
-    "reimbursement_id": "RMB-00025",
-    "employee_id": "EMP-00024",
-    "expense_date": "2025-08-22",
-    "amount": 987.5,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00025.pdf",
-    "status": "paid",
-    "approved_by": "USR-00027",
-    "payment_date": "2025-09-10",
-    "created_at": "2025-08-21T19:19:21",
-    "updated_at": "2025-08-31T19:19:21"
-  },
-  "RMB-00026": {
-    "reimbursement_id": "RMB-00026",
-    "employee_id": "EMP-00024",
-    "expense_date": "2025-02-20",
-    "amount": 670.5,
-    "expense_type": "other",
-    "receipt_file_path": null,
-    "status": "paid",
-    "approved_by": "USR-00003",
-    "payment_date": "2025-03-05",
-    "created_at": "2025-08-08T19:19:21",
-    "updated_at": "2025-07-02T19:19:21"
-  },
-  "RMB-00027": {
-    "reimbursement_id": "RMB-00027",
-    "employee_id": "EMP-00025",
-    "expense_date": "2025-06-08",
-    "amount": 843.5,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00027.pdf",
-    "status": "paid",
-    "approved_by": "USR-00033",
-    "payment_date": "2025-06-21",
-    "created_at": "2025-06-03T19:19:21",
-    "updated_at": "2025-06-15T19:19:21"
-  },
-  "RMB-00028": {
-    "reimbursement_id": "RMB-00028",
-    "employee_id": "EMP-00025",
-    "expense_date": "2025-03-17",
-    "amount": 349.0,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00028.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-28T19:19:21",
-    "updated_at": "2025-07-11T19:19:21"
-  },
-  "RMB-00029": {
-    "reimbursement_id": "RMB-00029",
-    "employee_id": "EMP-00026",
-    "expense_date": "2025-07-01",
-    "amount": 1207.5,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00029.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-06-28T19:19:21",
-    "updated_at": "2025-07-07T19:19:21"
-  },
-  "RMB-00030": {
-    "reimbursement_id": "RMB-00030",
-    "employee_id": "EMP-00028",
-    "expense_date": "2025-06-20",
-    "amount": 807.25,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00030.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-10T19:19:21",
-    "updated_at": "2025-06-24T19:19:21"
-  },
-  "RMB-00031": {
-    "reimbursement_id": "RMB-00031",
-    "employee_id": "EMP-00030",
-    "expense_date": "2025-04-28",
-    "amount": 891.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00031.pdf",
-    "status": "paid",
-    "approved_by": "USR-00040",
-    "payment_date": "2025-05-17",
-    "created_at": "2025-08-10T19:19:21",
-    "updated_at": "2025-07-09T19:19:21"
-  },
-  "RMB-00032": {
-    "reimbursement_id": "RMB-00032",
-    "employee_id": "EMP-00030",
-    "expense_date": "2025-07-31",
-    "amount": 362.0,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00032.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-28T19:19:21",
-    "updated_at": "2025-08-06T19:19:21"
-  },
-  "RMB-00033": {
-    "reimbursement_id": "RMB-00033",
-    "employee_id": "EMP-00031",
-    "expense_date": "2025-02-28",
-    "amount": 1396.25,
-    "expense_type": "training",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00031",
-    "payment_date": null,
-    "created_at": "2025-08-31T19:19:21",
-    "updated_at": "2025-08-28T19:19:21"
-  },
-  "RMB-00034": {
-    "reimbursement_id": "RMB-00034",
-    "employee_id": "EMP-00032",
-    "expense_date": "2025-02-18",
-    "amount": 724.25,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00034.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-23T19:19:21",
-    "updated_at": "2025-08-19T19:19:21"
-  },
-  "RMB-00035": {
-    "reimbursement_id": "RMB-00035",
-    "employee_id": "EMP-00032",
-    "expense_date": "2025-03-03",
-    "amount": 107.5,
-    "expense_type": "equipment",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00040",
-    "payment_date": null,
-    "created_at": "2025-05-05T19:19:21",
-    "updated_at": "2025-08-15T19:19:21"
-  },
-  "RMB-00036": {
-    "reimbursement_id": "RMB-00036",
-    "employee_id": "EMP-00033",
-    "expense_date": "2025-02-22",
-    "amount": 96.25,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00036.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-20T19:19:21",
-    "updated_at": "2025-08-28T19:19:21"
-  },
-  "RMB-00037": {
-    "reimbursement_id": "RMB-00037",
-    "employee_id": "EMP-00034",
-    "expense_date": "2025-03-31",
-    "amount": 319.25,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00037.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-08T19:19:21",
-    "updated_at": "2025-06-14T19:19:21"
-  },
-  "RMB-00038": {
-    "reimbursement_id": "RMB-00038",
-    "employee_id": "EMP-00036",
-    "expense_date": "2025-06-27",
-    "amount": 130.5,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00038.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-17T19:19:21",
-    "updated_at": "2025-06-16T19:19:21"
-  },
-  "RMB-00039": {
-    "reimbursement_id": "RMB-00039",
-    "employee_id": "EMP-00036",
-    "expense_date": "2025-05-15",
-    "amount": 158.75,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00039.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-20T19:19:21",
-    "updated_at": "2025-06-24T19:19:21"
-  },
-  "RMB-00040": {
-    "reimbursement_id": "RMB-00040",
-    "employee_id": "EMP-00037",
-    "expense_date": "2025-06-09",
-    "amount": 680.25,
-    "expense_type": "other",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00036",
-    "payment_date": null,
-    "created_at": "2025-04-19T19:19:21",
-    "updated_at": "2025-08-26T19:19:21"
-  },
-  "RMB-00041": {
-    "reimbursement_id": "RMB-00041",
-    "employee_id": "EMP-00037",
-    "expense_date": "2025-04-18",
-    "amount": 915.75,
-    "expense_type": "other",
-    "receipt_file_path": null,
-    "status": "paid",
-    "approved_by": "USR-00042",
-    "payment_date": "2025-04-28",
-    "created_at": "2025-05-22T19:19:21",
-    "updated_at": "2025-08-29T19:19:21"
-  },
-  "RMB-00042": {
-    "reimbursement_id": "RMB-00042",
-    "employee_id": "EMP-00039",
-    "expense_date": "2025-08-10",
-    "amount": 259.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00042.pdf",
-    "status": "paid",
-    "approved_by": "USR-00033",
-    "payment_date": "2025-08-29",
-    "created_at": "2025-05-02T19:19:21",
-    "updated_at": "2025-08-03T19:19:21"
-  },
-  "RMB-00043": {
-    "reimbursement_id": "RMB-00043",
-    "employee_id": "EMP-00044",
-    "expense_date": "2025-06-02",
-    "amount": 781.75,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00043.pdf",
-    "status": "approved",
-    "approved_by": "USR-00036",
-    "payment_date": null,
-    "created_at": "2025-07-22T19:19:21",
-    "updated_at": "2025-09-01T19:19:21"
-  },
-  "RMB-00044": {
-    "reimbursement_id": "RMB-00044",
-    "employee_id": "EMP-00045",
-    "expense_date": "2025-08-13",
-    "amount": 1048.0,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00044.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-15T19:19:21",
-    "updated_at": "2025-08-02T19:19:21"
-  },
-  "RMB-00045": {
-    "reimbursement_id": "RMB-00045",
-    "employee_id": "EMP-00047",
-    "expense_date": "2025-02-21",
-    "amount": 1281.25,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00045.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-28T19:19:21",
-    "updated_at": "2025-07-17T19:19:21"
-  },
-  "RMB-00046": {
-    "reimbursement_id": "RMB-00046",
-    "employee_id": "EMP-00049",
-    "expense_date": "2025-04-02",
-    "amount": 278.5,
-    "expense_type": "travel",
-    "receipt_file_path": null,
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-03T19:19:21",
-    "updated_at": "2025-07-21T19:19:21"
-  },
-  "RMB-00047": {
-    "reimbursement_id": "RMB-00047",
-    "employee_id": "EMP-00050",
-    "expense_date": "2025-07-30",
-    "amount": 575.75,
-    "expense_type": "travel",
-    "receipt_file_path": null,
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-10T19:19:21",
-    "updated_at": "2025-07-12T19:19:21"
-  },
-  "RMB-00048": {
-    "reimbursement_id": "RMB-00048",
-    "employee_id": "EMP-00051",
-    "expense_date": "2025-08-05",
-    "amount": 917.25,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00048.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-06-10T19:19:21",
-    "updated_at": "2025-07-31T19:19:21"
-  },
-  "RMB-00049": {
-    "reimbursement_id": "RMB-00049",
-    "employee_id": "EMP-00051",
-    "expense_date": "2025-08-15",
-    "amount": 823.5,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00049.pdf",
-    "status": "approved",
-    "approved_by": "USR-00025",
-    "payment_date": null,
-    "created_at": "2025-08-07T19:19:21",
-    "updated_at": "2025-08-07T19:19:21"
-  },
-  "RMB-00050": {
-    "reimbursement_id": "RMB-00050",
-    "employee_id": "EMP-00052",
-    "expense_date": "2025-07-28",
-    "amount": 327.75,
-    "expense_type": "training",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00039",
-    "payment_date": null,
-    "created_at": "2025-06-27T19:19:21",
-    "updated_at": "2025-08-19T19:19:21"
-  },
-  "RMB-00051": {
-    "reimbursement_id": "RMB-00051",
-    "employee_id": "EMP-00053",
-    "expense_date": "2025-08-25",
-    "amount": 145.25,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00051.pdf",
-    "status": "paid",
-    "approved_by": "USR-00008",
-    "payment_date": "2025-08-31",
-    "created_at": "2025-08-04T19:19:21",
-    "updated_at": "2025-07-30T19:19:21"
-  },
-  "RMB-00052": {
-    "reimbursement_id": "RMB-00052",
-    "employee_id": "EMP-00054",
-    "expense_date": "2025-05-06",
-    "amount": 466.0,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00052.pdf",
-    "status": "approved",
-    "approved_by": "USR-00027",
-    "payment_date": null,
-    "created_at": "2025-07-02T19:19:21",
-    "updated_at": "2025-08-26T19:19:21"
-  },
-  "RMB-00053": {
-    "reimbursement_id": "RMB-00053",
-    "employee_id": "EMP-00055",
-    "expense_date": "2025-03-19",
-    "amount": 1134.75,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00053.pdf",
-    "status": "approved",
-    "approved_by": "USR-00034",
-    "payment_date": null,
-    "created_at": "2025-04-28T19:19:21",
-    "updated_at": "2025-06-19T19:19:21"
-  },
-  "RMB-00054": {
-    "reimbursement_id": "RMB-00054",
-    "employee_id": "EMP-00056",
-    "expense_date": "2025-08-03",
-    "amount": 1450.75,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00054.pdf",
-    "status": "paid",
-    "approved_by": "USR-00035",
-    "payment_date": "2025-08-12",
-    "created_at": "2025-05-10T19:19:21",
-    "updated_at": "2025-07-31T19:19:21"
-  },
-  "RMB-00055": {
-    "reimbursement_id": "RMB-00055",
-    "employee_id": "EMP-00056",
-    "expense_date": "2025-04-02",
-    "amount": 33.5,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00055.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-01T19:19:21",
-    "updated_at": "2025-09-02T19:19:21"
-  },
-  "RMB-00056": {
-    "reimbursement_id": "RMB-00056",
-    "employee_id": "EMP-00057",
-    "expense_date": "2025-04-20",
-    "amount": 717.5,
-    "expense_type": "meals",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00025",
-    "payment_date": null,
-    "created_at": "2025-08-04T19:19:21",
-    "updated_at": "2025-07-17T19:19:21"
-  },
-  "RMB-00057": {
-    "reimbursement_id": "RMB-00057",
-    "employee_id": "EMP-00059",
-    "expense_date": "2025-08-08",
-    "amount": 758.25,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00057.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-12T19:19:21",
-    "updated_at": "2025-08-21T19:19:21"
-  },
-  "RMB-00058": {
-    "reimbursement_id": "RMB-00058",
-    "employee_id": "EMP-00059",
-    "expense_date": "2025-03-09",
-    "amount": 1049.0,
-    "expense_type": "meals",
-    "receipt_file_path": null,
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-04T19:19:21",
-    "updated_at": "2025-07-11T19:19:21"
-  },
-  "RMB-00059": {
-    "reimbursement_id": "RMB-00059",
-    "employee_id": "EMP-00060",
-    "expense_date": "2025-02-21",
-    "amount": 1190.5,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00059.pdf",
-    "status": "approved",
-    "approved_by": "USR-00006",
-    "payment_date": null,
-    "created_at": "2025-06-12T19:19:21",
-    "updated_at": "2025-08-10T19:19:21"
-  },
-  "RMB-00060": {
-    "reimbursement_id": "RMB-00060",
-    "employee_id": "EMP-00060",
-    "expense_date": "2025-04-24",
-    "amount": 727.5,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00060.pdf",
-    "status": "approved",
-    "approved_by": "USR-00024",
-    "payment_date": null,
-    "created_at": "2025-07-02T19:19:21",
-    "updated_at": "2025-08-17T19:19:21"
-  },
-  "RMB-00061": {
-    "reimbursement_id": "RMB-00061",
-    "employee_id": "EMP-00063",
-    "expense_date": "2025-04-13",
-    "amount": 1260.5,
-    "expense_type": "meals",
-    "receipt_file_path": null,
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-24T19:19:21",
-    "updated_at": "2025-08-05T19:19:21"
-  },
-  "RMB-00062": {
-    "reimbursement_id": "RMB-00062",
-    "employee_id": "EMP-00063",
-    "expense_date": "2025-03-10",
-    "amount": 620.75,
-    "expense_type": "equipment",
-    "receipt_file_path": null,
-    "status": "paid",
-    "approved_by": "USR-00008",
-    "payment_date": "2025-03-20",
-    "created_at": "2025-04-24T19:19:21",
-    "updated_at": "2025-07-25T19:19:21"
-  },
-  "RMB-00063": {
-    "reimbursement_id": "RMB-00063",
-    "employee_id": "EMP-00064",
-    "expense_date": "2025-07-30",
-    "amount": 1226.25,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00063.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-06T19:19:21",
-    "updated_at": "2025-08-23T19:19:21"
-  },
-  "RMB-00064": {
-    "reimbursement_id": "RMB-00064",
-    "employee_id": "EMP-00066",
-    "expense_date": "2025-04-01",
-    "amount": 551.5,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00064.pdf",
-    "status": "paid",
-    "approved_by": "USR-00023",
-    "payment_date": "2025-04-16",
-    "created_at": "2025-05-29T19:19:21",
-    "updated_at": "2025-07-20T19:19:21"
-  },
-  "RMB-00065": {
-    "reimbursement_id": "RMB-00065",
-    "employee_id": "EMP-00066",
-    "expense_date": "2025-06-10",
-    "amount": 1468.25,
-    "expense_type": "meals",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00037",
-    "payment_date": null,
-    "created_at": "2025-08-10T19:19:21",
-    "updated_at": "2025-07-02T19:19:21"
-  },
-  "RMB-00066": {
-    "reimbursement_id": "RMB-00066",
-    "employee_id": "EMP-00067",
-    "expense_date": "2025-03-14",
-    "amount": 748.0,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00066.pdf",
-    "status": "paid",
-    "approved_by": "USR-00032",
-    "payment_date": "2025-04-03",
-    "created_at": "2025-09-01T19:19:21",
-    "updated_at": "2025-06-24T19:19:21"
-  },
-  "RMB-00067": {
-    "reimbursement_id": "RMB-00067",
-    "employee_id": "EMP-00068",
-    "expense_date": "2025-05-18",
-    "amount": 180.5,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00067.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-09T19:19:21",
-    "updated_at": "2025-07-04T19:19:21"
-  },
-  "RMB-00068": {
-    "reimbursement_id": "RMB-00068",
-    "employee_id": "EMP-00069",
-    "expense_date": "2025-07-04",
-    "amount": 1469.0,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00068.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-25T19:19:21",
-    "updated_at": "2025-08-27T19:19:21"
-  },
-  "RMB-00069": {
-    "reimbursement_id": "RMB-00069",
-    "employee_id": "EMP-00070",
-    "expense_date": "2025-07-08",
-    "amount": 56.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00069.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-21T19:19:21",
-    "updated_at": "2025-08-15T19:19:21"
-  },
-  "RMB-00070": {
-    "reimbursement_id": "RMB-00070",
-    "employee_id": "EMP-00074",
-    "expense_date": "2025-05-12",
-    "amount": 1480.75,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00070.pdf",
-    "status": "approved",
-    "approved_by": "USR-00025",
-    "payment_date": null,
-    "created_at": "2025-07-23T19:19:21",
-    "updated_at": "2025-08-29T19:19:21"
-  },
-  "RMB-00071": {
-    "reimbursement_id": "RMB-00071",
-    "employee_id": "EMP-00074",
-    "expense_date": "2025-06-02",
-    "amount": 257.25,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00071.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-20T19:19:21",
-    "updated_at": "2025-08-23T19:19:21"
-  },
-  "RMB-00072": {
-    "reimbursement_id": "RMB-00072",
-    "employee_id": "EMP-00075",
-    "expense_date": "2025-07-21",
-    "amount": 799.75,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00072.pdf",
-    "status": "paid",
-    "approved_by": "USR-00035",
-    "payment_date": "2025-08-10",
-    "created_at": "2025-05-25T19:19:21",
-    "updated_at": "2025-06-21T19:19:21"
-  },
-  "RMB-00073": {
-    "reimbursement_id": "RMB-00073",
-    "employee_id": "EMP-00075",
-    "expense_date": "2025-02-18",
-    "amount": 1018.75,
-    "expense_type": "travel",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00036",
-    "payment_date": null,
-    "created_at": "2025-04-26T19:19:21",
-    "updated_at": "2025-06-15T19:19:21"
-  },
-  "RMB-00074": {
-    "reimbursement_id": "RMB-00074",
-    "employee_id": "EMP-00076",
-    "expense_date": "2025-06-08",
-    "amount": 733.75,
-    "expense_type": "training",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00024",
-    "payment_date": null,
-    "created_at": "2025-05-15T19:19:21",
-    "updated_at": "2025-07-10T19:19:21"
-  },
-  "RMB-00075": {
-    "reimbursement_id": "RMB-00075",
-    "employee_id": "EMP-00076",
-    "expense_date": "2025-06-03",
-    "amount": 1481.75,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00075.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-27T19:19:21",
-    "updated_at": "2025-06-29T19:19:21"
-  },
-  "RMB-00076": {
-    "reimbursement_id": "RMB-00076",
-    "employee_id": "EMP-00078",
-    "expense_date": "2025-04-02",
-    "amount": 1070.75,
-    "expense_type": "equipment",
-    "receipt_file_path": null,
-    "status": "approved",
-    "approved_by": "USR-00030",
-    "payment_date": null,
-    "created_at": "2025-05-31T19:19:21",
-    "updated_at": "2025-06-19T19:19:21"
-  },
-  "RMB-00077": {
-    "reimbursement_id": "RMB-00077",
-    "employee_id": "EMP-00079",
-    "expense_date": "2025-08-17",
-    "amount": 886.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00077.pdf",
-    "status": "approved",
-    "approved_by": "USR-00042",
-    "payment_date": null,
-    "created_at": "2025-08-25T19:19:21",
-    "updated_at": "2025-07-02T19:19:21"
-  },
-  "RMB-00078": {
-    "reimbursement_id": "RMB-00078",
-    "employee_id": "EMP-00079",
-    "expense_date": "2025-03-12",
-    "amount": 186.25,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00078.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-30T19:19:21",
-    "updated_at": "2025-06-18T19:19:21"
-  },
-  "RMB-00079": {
-    "reimbursement_id": "RMB-00079",
-    "employee_id": "EMP-00080",
-    "expense_date": "2025-04-14",
-    "amount": 354.25,
-    "expense_type": "travel",
-    "receipt_file_path": null,
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-06-26T19:19:21",
-    "updated_at": "2025-07-04T19:19:21"
-  },
-  "RMB-00080": {
-    "reimbursement_id": "RMB-00080",
-    "employee_id": "EMP-00082",
-    "expense_date": "2025-08-23",
-    "amount": 1350.25,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00080.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-19T19:19:21",
-    "updated_at": "2025-08-26T19:19:21"
-  },
-  "RMB-00081": {
-    "reimbursement_id": "RMB-00081",
-    "employee_id": "EMP-00083",
-    "expense_date": "2025-05-10",
-    "amount": 1095.0,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00081.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-04T19:19:21",
-    "updated_at": "2025-07-14T19:19:21"
-  },
-  "RMB-00082": {
-    "reimbursement_id": "RMB-00082",
-    "employee_id": "EMP-00083",
-    "expense_date": "2025-08-25",
-    "amount": 1475.25,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00082.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-04-30T19:19:21",
-    "updated_at": "2025-08-04T19:19:21"
-  },
-  "RMB-00083": {
-    "reimbursement_id": "RMB-00083",
-    "employee_id": "EMP-00085",
-    "expense_date": "2025-08-13",
-    "amount": 561.5,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00083.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-09T19:19:21",
-    "updated_at": "2025-08-12T19:19:21"
-  },
-  "RMB-00084": {
-    "reimbursement_id": "RMB-00084",
-    "employee_id": "EMP-00085",
-    "expense_date": "2025-04-05",
-    "amount": 150.75,
-    "expense_type": "training",
-    "receipt_file_path": null,
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-26T19:19:21",
-    "updated_at": "2025-06-25T19:19:21"
-  },
-  "RMB-00085": {
-    "reimbursement_id": "RMB-00085",
-    "employee_id": "EMP-00086",
-    "expense_date": "2025-02-18",
-    "amount": 1417.75,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00085.pdf",
-    "status": "approved",
-    "approved_by": "USR-00007",
-    "payment_date": null,
-    "created_at": "2025-08-12T19:19:21",
-    "updated_at": "2025-07-05T19:19:21"
-  },
-  "RMB-00086": {
-    "reimbursement_id": "RMB-00086",
-    "employee_id": "EMP-00086",
-    "expense_date": "2025-07-16",
-    "amount": 840.5,
-    "expense_type": "travel",
-    "receipt_file_path": "/receipts/RMB-00086.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-06-28T19:19:21",
-    "updated_at": "2025-06-22T19:19:21"
-  },
-  "RMB-00087": {
-    "reimbursement_id": "RMB-00087",
-    "employee_id": "EMP-00087",
-    "expense_date": "2025-05-01",
-    "amount": 1287.25,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00087.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-07T19:19:21",
-    "updated_at": "2025-08-02T19:19:21"
-  },
-  "RMB-00088": {
-    "reimbursement_id": "RMB-00088",
-    "employee_id": "EMP-00089",
-    "expense_date": "2025-03-06",
-    "amount": 1014.75,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00088.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-08-11T19:19:21",
-    "updated_at": "2025-06-22T19:19:21"
-  },
-  "RMB-00089": {
-    "reimbursement_id": "RMB-00089",
-    "employee_id": "EMP-00092",
-    "expense_date": "2025-04-12",
-    "amount": 738.75,
-    "expense_type": "training",
-    "receipt_file_path": "/receipts/RMB-00089.pdf",
-    "status": "submitted",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-05-19T19:19:21",
-    "updated_at": "2025-09-02T19:19:21"
-  },
-  "RMB-00090": {
-    "reimbursement_id": "RMB-00090",
-    "employee_id": "EMP-00092",
-    "expense_date": "2025-08-26",
-    "amount": 1042.5,
-    "expense_type": "equipment",
-    "receipt_file_path": "/receipts/RMB-00090.pdf",
-    "status": "rejected",
-    "approved_by": null,
-    "payment_date": null,
-    "created_at": "2025-07-14T19:19:21",
-    "updated_at": "2025-07-16T19:19:21"
-  },
-  "RMB-00091": {
-    "reimbursement_id": "RMB-00091",
-    "employee_id": "EMP-00093",
-    "expense_date": "2025-03-03",
-    "amount": 213.0,
-    "expense_type": "meals",
-    "receipt_file_path": "/receipts/RMB-00091.pdf",
-    "status": "approved",
-    "approved_by": "USR-00038",
-    "payment_date": null,
-    "created_at": "2025-07-09T19:19:21",
-    "updated_at": "2025-09-01T19:19:21"
-  },
-  "RMB-00092": {
-    "reimbursement_id": "RMB-00092",
-    "employee_id": "EMP-00097",
-    "expense_date": "2025-04-02",
-    "amount": 1019.0,
-    "expense_type": "other",
-    "receipt_file_path": "/receipts/RMB-00092.pdf",
-    "status": "paid",
-    "approved_by": "USR-00008",
-    "payment_date": "2025-04-08",
-    "created_at": "2025-08-28T19:19:21",
-    "updated_at": "2025-07-17T19:19:21"
+  "1": {
+    "reimbursement_id": "1",
+    "employee_id": "1",
+    "expense_date": "2025-09-01",
+    "amount": "596.44",
+    "approved_by": "120"
+  },
+  "2": {
+    "reimbursement_id": "2",
+    "employee_id": "2",
+    "expense_date": "2025-09-01",
+    "amount": "419.85",
+    "approved_by": "50"
+  },
+  "3": {
+    "reimbursement_id": "3",
+    "employee_id": "3",
+    "expense_date": "2025-09-01",
+    "amount": "267.24",
+    "approved_by": "103"
+  },
+  "4": {
+    "reimbursement_id": "4",
+    "employee_id": "4",
+    "expense_date": "2025-09-01",
+    "amount": "915.19",
+    "approved_by": "14"
+  },
+  "5": {
+    "reimbursement_id": "5",
+    "employee_id": "5",
+    "expense_date": "2025-09-01",
+    "amount": "887.10",
+    "approved_by": "110"
+  },
+  "6": {
+    "reimbursement_id": "6",
+    "employee_id": "6",
+    "expense_date": "2025-09-01",
+    "amount": "672.25",
+    "approved_by": "120"
+  },
+  "7": {
+    "reimbursement_id": "7",
+    "employee_id": "7",
+    "expense_date": "2025-09-01",
+    "amount": "677.81",
+    "approved_by": "109"
+  },
+  "8": {
+    "reimbursement_id": "8",
+    "employee_id": "8",
+    "expense_date": "2025-09-01",
+    "amount": "155.27",
+    "approved_by": "54"
+  },
+  "9": {
+    "reimbursement_id": "9",
+    "employee_id": "9",
+    "expense_date": "2025-09-01",
+    "amount": "939.33",
+    "approved_by": "50"
+  },
+  "10": {
+    "reimbursement_id": "10",
+    "employee_id": "10",
+    "expense_date": "2025-09-01",
+    "amount": "532.84",
+    "approved_by": "9"
+  },
+  "11": {
+    "reimbursement_id": "11",
+    "employee_id": "11",
+    "expense_date": "2025-09-01",
+    "amount": "789.67",
+    "approved_by": "10"
+  },
+  "12": {
+    "reimbursement_id": "12",
+    "employee_id": "12",
+    "expense_date": "2025-09-01",
+    "amount": "160.14",
+    "approved_by": "101"
+  },
+  "13": {
+    "reimbursement_id": "13",
+    "employee_id": "13",
+    "expense_date": "2025-09-01",
+    "amount": "862.58",
+    "approved_by": "138"
+  },
+  "14": {
+    "reimbursement_id": "14",
+    "employee_id": "14",
+    "expense_date": "2025-09-01",
+    "amount": "728.92",
+    "approved_by": "10"
+  },
+  "15": {
+    "reimbursement_id": "15",
+    "employee_id": "15",
+    "expense_date": "2025-09-01",
+    "amount": "522.60",
+    "approved_by": "104"
+  },
+  "16": {
+    "reimbursement_id": "16",
+    "employee_id": "16",
+    "expense_date": "2025-09-01",
+    "amount": "602.19",
+    "approved_by": "90"
+  },
+  "17": {
+    "reimbursement_id": "17",
+    "employee_id": "17",
+    "expense_date": "2025-09-01",
+    "amount": "546.00",
+    "approved_by": "110"
+  },
+  "18": {
+    "reimbursement_id": "18",
+    "employee_id": "18",
+    "expense_date": "2025-09-01",
+    "amount": "743.91",
+    "approved_by": "5"
+  },
+  "19": {
+    "reimbursement_id": "19",
+    "employee_id": "19",
+    "expense_date": "2025-09-01",
+    "amount": "221.37",
+    "approved_by": "40"
+  },
+  "20": {
+    "reimbursement_id": "20",
+    "employee_id": "20",
+    "expense_date": "2025-09-01",
+    "amount": "759.54",
+    "approved_by": "119"
+  },
+  "21": {
+    "reimbursement_id": "21",
+    "employee_id": "21",
+    "expense_date": "2025-09-01",
+    "amount": "949.86",
+    "approved_by": "75"
+  },
+  "22": {
+    "reimbursement_id": "22",
+    "employee_id": "22",
+    "expense_date": "2025-09-01",
+    "amount": "895.55",
+    "approved_by": "79"
+  },
+  "23": {
+    "reimbursement_id": "23",
+    "employee_id": "23",
+    "expense_date": "2025-09-01",
+    "amount": "744.69",
+    "approved_by": "69"
+  },
+  "24": {
+    "reimbursement_id": "24",
+    "employee_id": "24",
+    "expense_date": "2025-09-01",
+    "amount": "642.24",
+    "approved_by": "40"
+  },
+  "25": {
+    "reimbursement_id": "25",
+    "employee_id": "25",
+    "expense_date": "2025-09-01",
+    "amount": "411.70",
+    "approved_by": "110"
+  },
+  "26": {
+    "reimbursement_id": "26",
+    "employee_id": "26",
+    "expense_date": "2025-09-01",
+    "amount": "538.31",
+    "approved_by": "20"
+  },
+  "27": {
+    "reimbursement_id": "27",
+    "employee_id": "27",
+    "expense_date": "2025-09-01",
+    "amount": "211.00",
+    "approved_by": "9"
+  },
+  "28": {
+    "reimbursement_id": "28",
+    "employee_id": "28",
+    "expense_date": "2025-09-01",
+    "amount": "821.44",
+    "approved_by": "14"
+  },
+  "29": {
+    "reimbursement_id": "29",
+    "employee_id": "29",
+    "expense_date": "2025-09-01",
+    "amount": "896.34",
+    "approved_by": "10"
+  },
+  "30": {
+    "reimbursement_id": "30",
+    "employee_id": "30",
+    "expense_date": "2025-09-01",
+    "amount": "994.12",
+    "approved_by": "56"
+  },
+  "31": {
+    "reimbursement_id": "31",
+    "employee_id": "31",
+    "expense_date": "2025-09-01",
+    "amount": "690.03",
+    "approved_by": "56"
+  },
+  "32": {
+    "reimbursement_id": "32",
+    "employee_id": "32",
+    "expense_date": "2025-09-01",
+    "amount": "603.75",
+    "approved_by": "26"
+  },
+  "33": {
+    "reimbursement_id": "33",
+    "employee_id": "33",
+    "expense_date": "2025-09-01",
+    "amount": "930.25",
+    "approved_by": "109"
+  },
+  "34": {
+    "reimbursement_id": "34",
+    "employee_id": "34",
+    "expense_date": "2025-09-01",
+    "amount": "431.96",
+    "approved_by": "122"
+  },
+  "35": {
+    "reimbursement_id": "35",
+    "employee_id": "35",
+    "expense_date": "2025-09-01",
+    "amount": "720.08",
+    "approved_by": "120"
+  },
+  "36": {
+    "reimbursement_id": "36",
+    "employee_id": "36",
+    "expense_date": "2025-09-01",
+    "amount": "526.74",
+    "approved_by": "121"
+  },
+  "37": {
+    "reimbursement_id": "37",
+    "employee_id": "37",
+    "expense_date": "2025-09-01",
+    "amount": "589.37",
+    "approved_by": "12"
+  },
+  "38": {
+    "reimbursement_id": "38",
+    "employee_id": "38",
+    "expense_date": "2025-09-01",
+    "amount": "608.24",
+    "approved_by": "14"
+  },
+  "39": {
+    "reimbursement_id": "39",
+    "employee_id": "39",
+    "expense_date": "2025-09-01",
+    "amount": "229.75",
+    "approved_by": "9"
+  },
+  "40": {
+    "reimbursement_id": "40",
+    "employee_id": "40",
+    "expense_date": "2025-09-01",
+    "amount": "186.27",
+    "approved_by": "103"
+  },
+  "41": {
+    "reimbursement_id": "41",
+    "employee_id": "41",
+    "expense_date": "2025-09-01",
+    "amount": "112.90",
+    "approved_by": "10"
+  },
+  "42": {
+    "reimbursement_id": "42",
+    "employee_id": "42",
+    "expense_date": "2025-09-01",
+    "amount": "885.16",
+    "approved_by": "5"
+  },
+  "43": {
+    "reimbursement_id": "43",
+    "employee_id": "43",
+    "expense_date": "2025-09-01",
+    "amount": "212.65",
+    "approved_by": "110"
+  },
+  "44": {
+    "reimbursement_id": "44",
+    "employee_id": "44",
+    "expense_date": "2025-09-01",
+    "amount": "634.27",
+    "approved_by": "26"
+  },
+  "45": {
+    "reimbursement_id": "45",
+    "employee_id": "45",
+    "expense_date": "2025-09-01",
+    "amount": "772.38",
+    "approved_by": "121"
+  },
+  "46": {
+    "reimbursement_id": "46",
+    "employee_id": "46",
+    "expense_date": "2025-09-01",
+    "amount": "577.31",
+    "approved_by": "101"
+  },
+  "47": {
+    "reimbursement_id": "47",
+    "employee_id": "47",
+    "expense_date": "2025-09-01",
+    "amount": "275.21",
+    "approved_by": "14"
+  },
+  "48": {
+    "reimbursement_id": "48",
+    "employee_id": "48",
+    "expense_date": "2025-09-01",
+    "amount": "530.13",
+    "approved_by": "31"
+  },
+  "49": {
+    "reimbursement_id": "49",
+    "employee_id": "49",
+    "expense_date": "2025-09-01",
+    "amount": "692.63",
+    "approved_by": "109"
+  },
+  "50": {
+    "reimbursement_id": "50",
+    "employee_id": "50",
+    "expense_date": "2025-09-01",
+    "amount": "181.26",
+    "approved_by": "20"
+  },
+  "51": {
+    "reimbursement_id": "51",
+    "employee_id": "51",
+    "expense_date": "2025-09-01",
+    "amount": "344.21",
+    "approved_by": "12"
+  },
+  "52": {
+    "reimbursement_id": "52",
+    "employee_id": "52",
+    "expense_date": "2025-09-01",
+    "amount": "292.80",
+    "approved_by": "110"
+  },
+  "53": {
+    "reimbursement_id": "53",
+    "employee_id": "53",
+    "expense_date": "2025-09-01",
+    "amount": "273.22",
+    "approved_by": "101"
+  },
+  "54": {
+    "reimbursement_id": "54",
+    "employee_id": "54",
+    "expense_date": "2025-09-01",
+    "amount": "459.45",
+    "approved_by": "26"
+  },
+  "55": {
+    "reimbursement_id": "55",
+    "employee_id": "55",
+    "expense_date": "2025-09-01",
+    "amount": "220.05",
+    "approved_by": "138"
+  },
+  "56": {
+    "reimbursement_id": "56",
+    "employee_id": "56",
+    "expense_date": "2025-09-01",
+    "amount": "527.99",
+    "approved_by": "54"
+  },
+  "57": {
+    "reimbursement_id": "57",
+    "employee_id": "57",
+    "expense_date": "2025-09-01",
+    "amount": "720.28",
+    "approved_by": "79"
+  },
+  "58": {
+    "reimbursement_id": "58",
+    "employee_id": "58",
+    "expense_date": "2025-09-01",
+    "amount": "415.42",
+    "approved_by": "9"
+  },
+  "59": {
+    "reimbursement_id": "59",
+    "employee_id": "59",
+    "expense_date": "2025-09-01",
+    "amount": "101.27",
+    "approved_by": "79"
+  },
+  "60": {
+    "reimbursement_id": "60",
+    "employee_id": "60",
+    "expense_date": "2025-09-01",
+    "amount": "100.17",
+    "approved_by": "31"
+  },
+  "61": {
+    "reimbursement_id": "61",
+    "employee_id": "61",
+    "expense_date": "2025-09-01",
+    "amount": "569.44",
+    "approved_by": "12"
+  },
+  "62": {
+    "reimbursement_id": "62",
+    "employee_id": "62",
+    "expense_date": "2025-09-01",
+    "amount": "308.06",
+    "approved_by": "79"
+  },
+  "63": {
+    "reimbursement_id": "63",
+    "employee_id": "63",
+    "expense_date": "2025-09-01",
+    "amount": "526.46",
+    "approved_by": "119"
+  },
+  "64": {
+    "reimbursement_id": "64",
+    "employee_id": "64",
+    "expense_date": "2025-09-01",
+    "amount": "827.09",
+    "approved_by": "69"
+  },
+  "65": {
+    "reimbursement_id": "65",
+    "employee_id": "65",
+    "expense_date": "2025-09-01",
+    "amount": "784.67",
+    "approved_by": "100"
+  },
+  "66": {
+    "reimbursement_id": "66",
+    "employee_id": "66",
+    "expense_date": "2025-09-01",
+    "amount": "800.18",
+    "approved_by": "9"
+  },
+  "67": {
+    "reimbursement_id": "67",
+    "employee_id": "67",
+    "expense_date": "2025-09-01",
+    "amount": "266.67",
+    "approved_by": "121"
+  },
+  "68": {
+    "reimbursement_id": "68",
+    "employee_id": "68",
+    "expense_date": "2025-09-01",
+    "amount": "776.42",
+    "approved_by": "90"
+  },
+  "69": {
+    "reimbursement_id": "69",
+    "employee_id": "69",
+    "expense_date": "2025-09-01",
+    "amount": "425.48",
+    "approved_by": "9"
+  },
+  "70": {
+    "reimbursement_id": "70",
+    "employee_id": "70",
+    "expense_date": "2025-09-01",
+    "amount": "611.10",
+    "approved_by": "50"
+  },
+  "71": {
+    "reimbursement_id": "71",
+    "employee_id": "71",
+    "expense_date": "2025-09-01",
+    "amount": "237.66",
+    "approved_by": "12"
+  },
+  "72": {
+    "reimbursement_id": "72",
+    "employee_id": "72",
+    "expense_date": "2025-09-01",
+    "amount": "964.47",
+    "approved_by": "14"
+  },
+  "73": {
+    "reimbursement_id": "73",
+    "employee_id": "73",
+    "expense_date": "2025-09-01",
+    "amount": "240.53",
+    "approved_by": "110"
+  },
+  "74": {
+    "reimbursement_id": "74",
+    "employee_id": "74",
+    "expense_date": "2025-09-01",
+    "amount": "198.08",
+    "approved_by": "56"
+  },
+  "75": {
+    "reimbursement_id": "75",
+    "employee_id": "75",
+    "expense_date": "2025-09-01",
+    "amount": "327.63",
+    "approved_by": "118"
+  },
+  "76": {
+    "reimbursement_id": "76",
+    "employee_id": "76",
+    "expense_date": "2025-09-01",
+    "amount": "361.49",
+    "approved_by": "110"
+  },
+  "77": {
+    "reimbursement_id": "77",
+    "employee_id": "77",
+    "expense_date": "2025-09-01",
+    "amount": "255.09",
+    "approved_by": "122"
+  },
+  "78": {
+    "reimbursement_id": "78",
+    "employee_id": "78",
+    "expense_date": "2025-09-01",
+    "amount": "353.11",
+    "approved_by": "90"
+  },
+  "79": {
+    "reimbursement_id": "79",
+    "employee_id": "79",
+    "expense_date": "2025-09-01",
+    "amount": "105.57",
+    "approved_by": "104"
+  },
+  "80": {
+    "reimbursement_id": "80",
+    "employee_id": "80",
+    "expense_date": "2025-09-01",
+    "amount": "304.25",
+    "approved_by": "138"
+  },
+  "81": {
+    "reimbursement_id": "81",
+    "employee_id": "81",
+    "expense_date": "2025-09-01",
+    "amount": "380.95",
+    "approved_by": "122"
+  },
+  "82": {
+    "reimbursement_id": "82",
+    "employee_id": "82",
+    "expense_date": "2025-09-01",
+    "amount": "835.83",
+    "approved_by": "31"
+  },
+  "83": {
+    "reimbursement_id": "83",
+    "employee_id": "83",
+    "expense_date": "2025-09-01",
+    "amount": "776.83",
+    "approved_by": "130"
+  },
+  "84": {
+    "reimbursement_id": "84",
+    "employee_id": "84",
+    "expense_date": "2025-09-01",
+    "amount": "868.45",
+    "approved_by": "121"
+  },
+  "85": {
+    "reimbursement_id": "85",
+    "employee_id": "85",
+    "expense_date": "2025-09-01",
+    "amount": "460.93",
+    "approved_by": "138"
+  },
+  "86": {
+    "reimbursement_id": "86",
+    "employee_id": "86",
+    "expense_date": "2025-09-01",
+    "amount": "473.55",
+    "approved_by": "120"
+  },
+  "87": {
+    "reimbursement_id": "87",
+    "employee_id": "87",
+    "expense_date": "2025-09-01",
+    "amount": "304.28",
+    "approved_by": "120"
+  },
+  "88": {
+    "reimbursement_id": "88",
+    "employee_id": "88",
+    "expense_date": "2025-09-01",
+    "amount": "995.77",
+    "approved_by": "101"
+  },
+  "89": {
+    "reimbursement_id": "89",
+    "employee_id": "89",
+    "expense_date": "2025-09-01",
+    "amount": "899.71",
+    "approved_by": "75"
+  },
+  "90": {
+    "reimbursement_id": "90",
+    "employee_id": "90",
+    "expense_date": "2025-09-01",
+    "amount": "659.23",
+    "approved_by": "40"
+  },
+  "91": {
+    "reimbursement_id": "91",
+    "employee_id": "91",
+    "expense_date": "2025-09-01",
+    "amount": "932.84",
+    "approved_by": "40"
+  },
+  "92": {
+    "reimbursement_id": "92",
+    "employee_id": "92",
+    "expense_date": "2025-09-01",
+    "amount": "963.57",
+    "approved_by": "120"
+  },
+  "93": {
+    "reimbursement_id": "93",
+    "employee_id": "93",
+    "expense_date": "2025-09-01",
+    "amount": "927.29",
+    "approved_by": "103"
+  },
+  "94": {
+    "reimbursement_id": "94",
+    "employee_id": "94",
+    "expense_date": "2025-09-01",
+    "amount": "924.09",
+    "approved_by": "118"
+  },
+  "95": {
+    "reimbursement_id": "95",
+    "employee_id": "95",
+    "expense_date": "2025-09-01",
+    "amount": "268.19",
+    "approved_by": "9"
+  },
+  "96": {
+    "reimbursement_id": "96",
+    "employee_id": "96",
+    "expense_date": "2025-09-01",
+    "amount": "918.67",
+    "approved_by": "14"
+  },
+  "97": {
+    "reimbursement_id": "97",
+    "employee_id": "97",
+    "expense_date": "2025-09-01",
+    "amount": "797.68",
+    "approved_by": "104"
+  },
+  "98": {
+    "reimbursement_id": "98",
+    "employee_id": "98",
+    "expense_date": "2025-09-01",
+    "amount": "254.83",
+    "approved_by": "121"
+  },
+  "99": {
+    "reimbursement_id": "99",
+    "employee_id": "99",
+    "expense_date": "2025-09-01",
+    "amount": "644.10",
+    "approved_by": "110"
+  },
+  "100": {
+    "reimbursement_id": "100",
+    "employee_id": "100",
+    "expense_date": "2025-09-01",
+    "amount": "138.18",
+    "approved_by": "9"
+  },
+  "101": {
+    "reimbursement_id": "101",
+    "employee_id": "101",
+    "expense_date": "2025-09-01",
+    "amount": "935.53",
+    "approved_by": "103"
+  },
+  "102": {
+    "reimbursement_id": "102",
+    "employee_id": "102",
+    "expense_date": "2025-09-01",
+    "amount": "969.38",
+    "approved_by": "121"
+  },
+  "103": {
+    "reimbursement_id": "103",
+    "employee_id": "103",
+    "expense_date": "2025-09-01",
+    "amount": "571.08",
+    "approved_by": "69"
+  },
+  "104": {
+    "reimbursement_id": "104",
+    "employee_id": "104",
+    "expense_date": "2025-09-01",
+    "amount": "458.47",
+    "approved_by": "110"
+  },
+  "105": {
+    "reimbursement_id": "105",
+    "employee_id": "105",
+    "expense_date": "2025-09-01",
+    "amount": "244.01",
+    "approved_by": "119"
+  },
+  "106": {
+    "reimbursement_id": "106",
+    "employee_id": "106",
+    "expense_date": "2025-09-01",
+    "amount": "170.36",
+    "approved_by": "12"
+  },
+  "107": {
+    "reimbursement_id": "107",
+    "employee_id": "107",
+    "expense_date": "2025-09-01",
+    "amount": "621.88",
+    "approved_by": "110"
+  },
+  "108": {
+    "reimbursement_id": "108",
+    "employee_id": "108",
+    "expense_date": "2025-09-01",
+    "amount": "517.29",
+    "approved_by": "31"
+  },
+  "109": {
+    "reimbursement_id": "109",
+    "employee_id": "109",
+    "expense_date": "2025-09-01",
+    "amount": "486.76",
+    "approved_by": "12"
+  },
+  "110": {
+    "reimbursement_id": "110",
+    "employee_id": "110",
+    "expense_date": "2025-09-01",
+    "amount": "542.27",
+    "approved_by": "121"
+  },
+  "111": {
+    "reimbursement_id": "111",
+    "employee_id": "111",
+    "expense_date": "2025-09-01",
+    "amount": "674.80",
+    "approved_by": "75"
+  },
+  "112": {
+    "reimbursement_id": "112",
+    "employee_id": "112",
+    "expense_date": "2025-09-01",
+    "amount": "585.99",
+    "approved_by": "75"
+  },
+  "113": {
+    "reimbursement_id": "113",
+    "employee_id": "113",
+    "expense_date": "2025-09-01",
+    "amount": "315.02",
+    "approved_by": "75"
+  },
+  "114": {
+    "reimbursement_id": "114",
+    "employee_id": "114",
+    "expense_date": "2025-09-01",
+    "amount": "537.93",
+    "approved_by": "119"
+  },
+  "115": {
+    "reimbursement_id": "115",
+    "employee_id": "115",
+    "expense_date": "2025-09-01",
+    "amount": "351.46",
+    "approved_by": "113"
+  },
+  "116": {
+    "reimbursement_id": "116",
+    "employee_id": "116",
+    "expense_date": "2025-09-01",
+    "amount": "196.70",
+    "approved_by": "5"
+  },
+  "117": {
+    "reimbursement_id": "117",
+    "employee_id": "117",
+    "expense_date": "2025-09-01",
+    "amount": "895.33",
+    "approved_by": "135"
+  },
+  "118": {
+    "reimbursement_id": "118",
+    "employee_id": "118",
+    "expense_date": "2025-09-01",
+    "amount": "866.70",
+    "approved_by": "101"
+  },
+  "119": {
+    "reimbursement_id": "119",
+    "employee_id": "119",
+    "expense_date": "2025-09-01",
+    "amount": "452.80",
+    "approved_by": "31"
+  },
+  "120": {
+    "reimbursement_id": "120",
+    "employee_id": "120",
+    "expense_date": "2025-09-01",
+    "amount": "130.32",
+    "approved_by": "138"
+  },
+  "121": {
+    "reimbursement_id": "121",
+    "employee_id": "121",
+    "expense_date": "2025-09-01",
+    "amount": "365.44",
+    "approved_by": "119"
+  },
+  "122": {
+    "reimbursement_id": "122",
+    "employee_id": "122",
+    "expense_date": "2025-09-01",
+    "amount": "815.29",
+    "approved_by": "69"
+  },
+  "123": {
+    "reimbursement_id": "123",
+    "employee_id": "123",
+    "expense_date": "2025-09-01",
+    "amount": "346.36",
+    "approved_by": "31"
+  },
+  "124": {
+    "reimbursement_id": "124",
+    "employee_id": "124",
+    "expense_date": "2025-09-01",
+    "amount": "875.62",
+    "approved_by": "122"
+  },
+  "125": {
+    "reimbursement_id": "125",
+    "employee_id": "125",
+    "expense_date": "2025-09-01",
+    "amount": "896.69",
+    "approved_by": "90"
+  },
+  "126": {
+    "reimbursement_id": "126",
+    "employee_id": "126",
+    "expense_date": "2025-09-01",
+    "amount": "628.76",
+    "approved_by": "50"
+  },
+  "127": {
+    "reimbursement_id": "127",
+    "employee_id": "127",
+    "expense_date": "2025-09-01",
+    "amount": "882.23",
+    "approved_by": "119"
+  },
+  "128": {
+    "reimbursement_id": "128",
+    "employee_id": "128",
+    "expense_date": "2025-09-01",
+    "amount": "374.85",
+    "approved_by": "5"
+  },
+  "129": {
+    "reimbursement_id": "129",
+    "employee_id": "129",
+    "expense_date": "2025-09-01",
+    "amount": "103.16",
+    "approved_by": "9"
+  },
+  "130": {
+    "reimbursement_id": "130",
+    "employee_id": "130",
+    "expense_date": "2025-09-01",
+    "amount": "116.24",
+    "approved_by": "12"
+  },
+  "131": {
+    "reimbursement_id": "131",
+    "employee_id": "131",
+    "expense_date": "2025-09-01",
+    "amount": "107.29",
+    "approved_by": "101"
+  },
+  "132": {
+    "reimbursement_id": "132",
+    "employee_id": "132",
+    "expense_date": "2025-09-01",
+    "amount": "726.98",
+    "approved_by": "50"
+  },
+  "133": {
+    "reimbursement_id": "133",
+    "employee_id": "133",
+    "expense_date": "2025-09-01",
+    "amount": "845.33",
+    "approved_by": "14"
+  },
+  "134": {
+    "reimbursement_id": "134",
+    "employee_id": "134",
+    "expense_date": "2025-09-01",
+    "amount": "629.72",
+    "approved_by": "12"
+  },
+  "135": {
+    "reimbursement_id": "135",
+    "employee_id": "135",
+    "expense_date": "2025-09-01",
+    "amount": "191.78",
+    "approved_by": "121"
+  },
+  "136": {
+    "reimbursement_id": "136",
+    "employee_id": "136",
+    "expense_date": "2025-09-01",
+    "amount": "738.50",
+    "approved_by": "119"
+  },
+  "137": {
+    "reimbursement_id": "137",
+    "employee_id": "137",
+    "expense_date": "2025-09-01",
+    "amount": "476.94",
+    "approved_by": "56"
+  },
+  "138": {
+    "reimbursement_id": "138",
+    "employee_id": "138",
+    "expense_date": "2025-09-01",
+    "amount": "428.82",
+    "approved_by": "9"
+  },
+  "139": {
+    "reimbursement_id": "139",
+    "employee_id": "139",
+    "expense_date": "2025-09-01",
+    "amount": "288.96",
+    "approved_by": "69"
+  },
+  "140": {
+    "reimbursement_id": "140",
+    "employee_id": "140",
+    "expense_date": "2025-09-01",
+    "amount": "496.75",
+    "approved_by": "109"
+  },
+  "141": {
+    "reimbursement_id": "141",
+    "employee_id": "141",
+    "expense_date": "2025-09-01",
+    "amount": "208.13",
+    "approved_by": "104"
+  },
+  "142": {
+    "reimbursement_id": "142",
+    "employee_id": "142",
+    "expense_date": "2025-09-01",
+    "amount": "676.74",
+    "approved_by": "130"
+  },
+  "143": {
+    "reimbursement_id": "143",
+    "employee_id": "143",
+    "expense_date": "2025-09-01",
+    "amount": "710.51",
+    "approved_by": "40"
+  },
+  "144": {
+    "reimbursement_id": "144",
+    "employee_id": "144",
+    "expense_date": "2025-09-01",
+    "amount": "326.05",
+    "approved_by": "120"
+  },
+  "145": {
+    "reimbursement_id": "145",
+    "employee_id": "145",
+    "expense_date": "2025-09-01",
+    "amount": "898.09",
+    "approved_by": "101"
+  },
+  "146": {
+    "reimbursement_id": "146",
+    "employee_id": "146",
+    "expense_date": "2025-09-01",
+    "amount": "684.40",
+    "approved_by": "26"
+  },
+  "147": {
+    "reimbursement_id": "147",
+    "employee_id": "147",
+    "expense_date": "2025-09-01",
+    "amount": "332.04",
+    "approved_by": "75"
+  },
+  "148": {
+    "reimbursement_id": "148",
+    "employee_id": "148",
+    "expense_date": "2025-09-01",
+    "amount": "519.16",
+    "approved_by": "12"
+  },
+  "149": {
+    "reimbursement_id": "149",
+    "employee_id": "149",
+    "expense_date": "2025-09-01",
+    "amount": "208.25",
+    "approved_by": "12"
+  },
+  "150": {
+    "reimbursement_id": "150",
+    "employee_id": "150",
+    "expense_date": "2025-09-01",
+    "amount": "795.45",
+    "approved_by": "75"
   }
 }

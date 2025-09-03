@@ -1,74 +1,65 @@
 {
-  "DEP-00001": {
-    "department_id": "DEP-00001",
+  "1": {
+    "department_id": "1",
     "department_name": "Human Resources",
-    "manager_id": "EMP-00001",
-    "budget": 1204560.74,
+    "manager_id": "105",
+    "budget": 1877402.83,
     "status": "active",
-    "created_at": "2024-03-04T19:19:21",
-    "updated_at": "2024-12-18T19:19:21"
+    "created_at": "2022-12-04 15:12:58.482871",
+    "updated_at": "2025-08-09 16:57:58.749390"
   },
-  "DEP-00002": {
-    "department_id": "DEP-00002",
+  "2": {
+    "department_id": "2",
     "department_name": "Engineering",
-    "manager_id": "EMP-00024",
-    "budget": 1191048.16,
+    "manager_id": "42",
+    "budget": 402670.22,
     "status": "active",
-    "created_at": "2023-06-01T19:19:21",
-    "updated_at": "2025-01-02T19:19:21"
+    "created_at": "2024-05-18 22:08:14.134195",
+    "updated_at": "2024-09-26 05:01:01.076038"
   },
-  "DEP-00003": {
-    "department_id": "DEP-00003",
-    "department_name": "Sales",
-    "manager_id": "EMP-00097",
-    "budget": 2896887.56,
-    "status": "active",
-    "created_at": "2024-03-17T19:19:21",
-    "updated_at": "2025-06-20T19:19:21"
-  },
-  "DEP-00004": {
-    "department_id": "DEP-00004",
+  "3": {
+    "department_id": "3",
     "department_name": "Marketing",
-    "manager_id": "EMP-00023",
-    "budget": 3597481.35,
+    "manager_id": "105",
+    "budget": 537688.3,
     "status": "active",
-    "created_at": "2025-02-12T19:19:21",
-    "updated_at": "2025-08-26T19:19:21"
+    "created_at": "2022-09-16 17:03:57.517871",
+    "updated_at": "2024-01-06 02:34:57.586986"
   },
-  "DEP-00005": {
-    "department_id": "DEP-00005",
+  "4": {
+    "department_id": "4",
+    "department_name": "Sales",
+    "manager_id": "21",
+    "budget": 1834103.79,
+    "status": "active",
+    "created_at": "2022-01-20 14:55:30.224135",
+    "updated_at": "2023-12-16 00:37:41.823833"
+  },
+  "5": {
+    "department_id": "5",
     "department_name": "Finance",
-    "manager_id": "EMP-00031",
-    "budget": 436926.43,
+    "manager_id": "149",
+    "budget": 1901140.79,
     "status": "active",
-    "created_at": "2023-07-02T19:19:21",
-    "updated_at": "2024-09-10T19:19:21"
+    "created_at": "2021-07-03 08:23:09.195785",
+    "updated_at": "2023-01-03 17:27:48.032026"
   },
-  "DEP-00006": {
-    "department_id": "DEP-00006",
-    "department_name": "IT",
-    "manager_id": "EMP-00045",
-    "budget": 3277887.63,
+  "6": {
+    "department_id": "6",
+    "department_name": "IT Operations",
+    "manager_id": "78",
+    "budget": 1966233.5,
     "status": "active",
-    "created_at": "2023-06-05T19:19:21",
-    "updated_at": "2024-11-08T19:19:21"
+    "created_at": "2024-12-05 01:44:15.045043",
+    "updated_at": "2025-06-18 13:29:37.933012"
   },
-  "DEP-00007": {
-    "department_id": "DEP-00007",
+  "7": {
+    "department_id": "7",
     "department_name": "Compliance",
-    "manager_id": "EMP-00050",
-    "budget": 775608.8,
+    "manager_id": "145",
+    "budget": 508531.53,
     "status": "active",
-    "created_at": "2023-04-16T19:19:21",
-    "updated_at": "2025-05-19T19:19:21"
-  },
-  "DEP-00008": {
-    "department_id": "DEP-00008",
-    "department_name": "Operations",
-    "manager_id": "EMP-00026",
-    "budget": 1780911.31,
-    "status": "active",
-    "created_at": "2023-06-26T19:19:21",
-    "updated_at": "2025-07-17T19:19:21"
+    "created_at": "2023-10-12 04:31:44.885677",
+    "updated_at": "2025-08-14 13:17:24.943073"
   }
 }

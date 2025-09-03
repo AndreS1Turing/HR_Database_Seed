@@ -1,2298 +1,1052 @@
 {
-  "DED-00001": {
-    "deduction_id": "DED-00001",
-    "payroll_id": "PYR-00001",
-    "deduction_type": "tax",
-    "amount": 376.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-15T19:19:21"
-  },
-  "DED-00002": {
-    "deduction_id": "DED-00002",
-    "payroll_id": "PYR-00001",
-    "deduction_type": "equipment",
-    "amount": 105.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-15T19:19:21"
-  },
-  "DED-00003": {
-    "deduction_id": "DED-00003",
-    "payroll_id": "PYR-00001",
-    "deduction_type": "other",
-    "amount": 97.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-05T19:19:21"
-  },
-  "DED-00004": {
-    "deduction_id": "DED-00004",
-    "payroll_id": "PYR-00002",
-    "deduction_type": "tax",
-    "amount": 343.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-11T19:19:21"
-  },
-  "DED-00005": {
-    "deduction_id": "DED-00005",
-    "payroll_id": "PYR-00002",
-    "deduction_type": "retirement",
-    "amount": 168.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-20T19:19:21"
-  },
-  "DED-00006": {
-    "deduction_id": "DED-00006",
-    "payroll_id": "PYR-00002",
-    "deduction_type": "insurance",
-    "amount": 140.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-08T19:19:21"
-  },
-  "DED-00007": {
-    "deduction_id": "DED-00007",
-    "payroll_id": "PYR-00003",
-    "deduction_type": "tax",
-    "amount": 259.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-17T19:19:21"
-  },
-  "DED-00008": {
-    "deduction_id": "DED-00008",
-    "payroll_id": "PYR-00003",
-    "deduction_type": "other",
-    "amount": 63.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-09T19:19:21"
-  },
-  "DED-00009": {
-    "deduction_id": "DED-00009",
-    "payroll_id": "PYR-00004",
-    "deduction_type": "tax",
-    "amount": 556.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-07T19:19:21"
-  },
-  "DED-00010": {
-    "deduction_id": "DED-00010",
-    "payroll_id": "PYR-00005",
-    "deduction_type": "tax",
-    "amount": 590.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-20T19:19:21"
-  },
-  "DED-00011": {
-    "deduction_id": "DED-00011",
-    "payroll_id": "PYR-00005",
-    "deduction_type": "equipment",
-    "amount": 119.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-21T19:19:21"
-  },
-  "DED-00012": {
-    "deduction_id": "DED-00012",
-    "payroll_id": "PYR-00006",
-    "deduction_type": "tax",
-    "amount": 241.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-27T19:19:21"
-  },
-  "DED-00013": {
-    "deduction_id": "DED-00013",
-    "payroll_id": "PYR-00007",
-    "deduction_type": "tax",
-    "amount": 352.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-21T19:19:21"
-  },
-  "DED-00014": {
-    "deduction_id": "DED-00014",
-    "payroll_id": "PYR-00008",
-    "deduction_type": "tax",
-    "amount": 385.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-05T19:19:21"
-  },
-  "DED-00015": {
-    "deduction_id": "DED-00015",
-    "payroll_id": "PYR-00008",
-    "deduction_type": "retirement",
-    "amount": 206.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-03T19:19:21"
-  },
-  "DED-00016": {
-    "deduction_id": "DED-00016",
-    "payroll_id": "PYR-00008",
-    "deduction_type": "equipment",
-    "amount": 124.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-31T19:19:21"
-  },
-  "DED-00017": {
-    "deduction_id": "DED-00017",
-    "payroll_id": "PYR-00009",
-    "deduction_type": "tax",
-    "amount": 399.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-05T19:19:21"
-  },
-  "DED-00018": {
-    "deduction_id": "DED-00018",
-    "payroll_id": "PYR-00010",
-    "deduction_type": "tax",
-    "amount": 542.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00019": {
-    "deduction_id": "DED-00019",
-    "payroll_id": "PYR-00010",
-    "deduction_type": "retirement",
-    "amount": 162.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00020": {
-    "deduction_id": "DED-00020",
-    "payroll_id": "PYR-00011",
-    "deduction_type": "tax",
-    "amount": 230.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-13T19:19:21"
-  },
-  "DED-00021": {
-    "deduction_id": "DED-00021",
-    "payroll_id": "PYR-00012",
-    "deduction_type": "tax",
-    "amount": 264.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00022": {
-    "deduction_id": "DED-00022",
-    "payroll_id": "PYR-00012",
-    "deduction_type": "retirement",
-    "amount": 275.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-22T19:19:21"
-  },
-  "DED-00023": {
-    "deduction_id": "DED-00023",
-    "payroll_id": "PYR-00013",
-    "deduction_type": "tax",
-    "amount": 403.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-27T19:19:21"
-  },
-  "DED-00024": {
-    "deduction_id": "DED-00024",
-    "payroll_id": "PYR-00014",
-    "deduction_type": "tax",
-    "amount": 166.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-05-28T19:19:21"
-  },
-  "DED-00025": {
-    "deduction_id": "DED-00025",
-    "payroll_id": "PYR-00014",
-    "deduction_type": "insurance",
-    "amount": 104.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-01T19:19:21"
-  },
-  "DED-00026": {
-    "deduction_id": "DED-00026",
-    "payroll_id": "PYR-00015",
-    "deduction_type": "tax",
-    "amount": 309.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-30T19:19:21"
-  },
-  "DED-00027": {
-    "deduction_id": "DED-00027",
-    "payroll_id": "PYR-00016",
-    "deduction_type": "tax",
-    "amount": 390.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00028": {
-    "deduction_id": "DED-00028",
-    "payroll_id": "PYR-00017",
-    "deduction_type": "tax",
-    "amount": 271.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-15T19:19:21"
-  },
-  "DED-00029": {
-    "deduction_id": "DED-00029",
-    "payroll_id": "PYR-00017",
-    "deduction_type": "insurance",
-    "amount": 140.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-16T19:19:21"
-  },
-  "DED-00030": {
-    "deduction_id": "DED-00030",
-    "payroll_id": "PYR-00018",
-    "deduction_type": "tax",
-    "amount": 554.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-29T19:19:21"
-  },
-  "DED-00031": {
-    "deduction_id": "DED-00031",
-    "payroll_id": "PYR-00019",
-    "deduction_type": "tax",
-    "amount": 266.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-14T19:19:21"
-  },
-  "DED-00032": {
-    "deduction_id": "DED-00032",
-    "payroll_id": "PYR-00019",
-    "deduction_type": "retirement",
-    "amount": 251.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00033": {
-    "deduction_id": "DED-00033",
-    "payroll_id": "PYR-00019",
-    "deduction_type": "equipment",
-    "amount": 106.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-01T19:19:21"
-  },
-  "DED-00034": {
-    "deduction_id": "DED-00034",
-    "payroll_id": "PYR-00020",
-    "deduction_type": "tax",
-    "amount": 387.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-23T19:19:21"
-  },
-  "DED-00035": {
-    "deduction_id": "DED-00035",
-    "payroll_id": "PYR-00020",
-    "deduction_type": "other",
-    "amount": 30.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-10T19:19:21"
-  },
-  "DED-00036": {
-    "deduction_id": "DED-00036",
-    "payroll_id": "PYR-00021",
-    "deduction_type": "tax",
-    "amount": 502.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-11T19:19:21"
-  },
-  "DED-00037": {
-    "deduction_id": "DED-00037",
-    "payroll_id": "PYR-00021",
-    "deduction_type": "equipment",
-    "amount": 89.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-02T19:19:21"
-  },
-  "DED-00038": {
-    "deduction_id": "DED-00038",
-    "payroll_id": "PYR-00021",
-    "deduction_type": "retirement",
-    "amount": 102.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-19T19:19:21"
-  },
-  "DED-00039": {
-    "deduction_id": "DED-00039",
-    "payroll_id": "PYR-00022",
-    "deduction_type": "tax",
-    "amount": 311.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-19T19:19:21"
-  },
-  "DED-00040": {
-    "deduction_id": "DED-00040",
-    "payroll_id": "PYR-00022",
-    "deduction_type": "insurance",
-    "amount": 70.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-20T19:19:21"
-  },
-  "DED-00041": {
-    "deduction_id": "DED-00041",
-    "payroll_id": "PYR-00022",
-    "deduction_type": "equipment",
-    "amount": 37.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-05T19:19:21"
-  },
-  "DED-00042": {
-    "deduction_id": "DED-00042",
-    "payroll_id": "PYR-00023",
-    "deduction_type": "tax",
-    "amount": 338.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-14T19:19:21"
-  },
-  "DED-00043": {
-    "deduction_id": "DED-00043",
-    "payroll_id": "PYR-00023",
-    "deduction_type": "retirement",
-    "amount": 126.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-05T19:19:21"
-  },
-  "DED-00044": {
-    "deduction_id": "DED-00044",
-    "payroll_id": "PYR-00023",
-    "deduction_type": "insurance",
-    "amount": 145.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-09T19:19:21"
-  },
-  "DED-00045": {
-    "deduction_id": "DED-00045",
-    "payroll_id": "PYR-00024",
-    "deduction_type": "tax",
-    "amount": 400.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-14T19:19:21"
-  },
-  "DED-00046": {
-    "deduction_id": "DED-00046",
-    "payroll_id": "PYR-00025",
-    "deduction_type": "tax",
-    "amount": 158.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-12T19:19:21"
-  },
-  "DED-00047": {
-    "deduction_id": "DED-00047",
-    "payroll_id": "PYR-00025",
-    "deduction_type": "insurance",
-    "amount": 161.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-02T19:19:21"
-  },
-  "DED-00048": {
-    "deduction_id": "DED-00048",
-    "payroll_id": "PYR-00025",
-    "deduction_type": "other",
-    "amount": 51.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-23T19:19:21"
-  },
-  "DED-00049": {
-    "deduction_id": "DED-00049",
-    "payroll_id": "PYR-00026",
-    "deduction_type": "tax",
-    "amount": 268.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-30T19:19:21"
-  },
-  "DED-00050": {
-    "deduction_id": "DED-00050",
-    "payroll_id": "PYR-00026",
-    "deduction_type": "insurance",
-    "amount": 175.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-23T19:19:21"
-  },
-  "DED-00051": {
-    "deduction_id": "DED-00051",
-    "payroll_id": "PYR-00027",
-    "deduction_type": "tax",
-    "amount": 546.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-05T19:19:21"
-  },
-  "DED-00052": {
-    "deduction_id": "DED-00052",
-    "payroll_id": "PYR-00027",
-    "deduction_type": "other",
-    "amount": 10.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-02T19:19:21"
-  },
-  "DED-00053": {
-    "deduction_id": "DED-00053",
-    "payroll_id": "PYR-00027",
-    "deduction_type": "retirement",
-    "amount": 252.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-05-27T19:19:21"
-  },
-  "DED-00054": {
-    "deduction_id": "DED-00054",
-    "payroll_id": "PYR-00028",
-    "deduction_type": "tax",
-    "amount": 214.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-18T19:19:21"
-  },
-  "DED-00055": {
-    "deduction_id": "DED-00055",
-    "payroll_id": "PYR-00028",
-    "deduction_type": "equipment",
-    "amount": 45.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00056": {
-    "deduction_id": "DED-00056",
-    "payroll_id": "PYR-00028",
-    "deduction_type": "retirement",
-    "amount": 130.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-12T19:19:21"
-  },
-  "DED-00057": {
-    "deduction_id": "DED-00057",
-    "payroll_id": "PYR-00029",
-    "deduction_type": "tax",
-    "amount": 570.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-26T19:19:21"
-  },
-  "DED-00058": {
-    "deduction_id": "DED-00058",
-    "payroll_id": "PYR-00029",
-    "deduction_type": "other",
-    "amount": 75.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-30T19:19:21"
-  },
-  "DED-00059": {
-    "deduction_id": "DED-00059",
-    "payroll_id": "PYR-00029",
-    "deduction_type": "insurance",
-    "amount": 57.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-14T19:19:21"
-  },
-  "DED-00060": {
-    "deduction_id": "DED-00060",
-    "payroll_id": "PYR-00030",
-    "deduction_type": "tax",
-    "amount": 216.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-18T19:19:21"
-  },
-  "DED-00061": {
-    "deduction_id": "DED-00061",
-    "payroll_id": "PYR-00030",
-    "deduction_type": "other",
-    "amount": 30.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-02T19:19:21"
-  },
-  "DED-00062": {
-    "deduction_id": "DED-00062",
-    "payroll_id": "PYR-00031",
-    "deduction_type": "tax",
-    "amount": 236.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-29T19:19:21"
-  },
-  "DED-00063": {
-    "deduction_id": "DED-00063",
-    "payroll_id": "PYR-00031",
-    "deduction_type": "retirement",
-    "amount": 192.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-28T19:19:21"
-  },
-  "DED-00064": {
-    "deduction_id": "DED-00064",
-    "payroll_id": "PYR-00032",
-    "deduction_type": "tax",
-    "amount": 449.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-14T19:19:21"
-  },
-  "DED-00065": {
-    "deduction_id": "DED-00065",
-    "payroll_id": "PYR-00032",
-    "deduction_type": "equipment",
-    "amount": 45.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-10T19:19:21"
-  },
-  "DED-00066": {
-    "deduction_id": "DED-00066",
-    "payroll_id": "PYR-00032",
-    "deduction_type": "retirement",
-    "amount": 128.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-26T19:19:21"
-  },
-  "DED-00067": {
-    "deduction_id": "DED-00067",
-    "payroll_id": "PYR-00033",
-    "deduction_type": "tax",
-    "amount": 546.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-03T19:19:21"
-  },
-  "DED-00068": {
-    "deduction_id": "DED-00068",
-    "payroll_id": "PYR-00033",
-    "deduction_type": "other",
-    "amount": 86.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-21T19:19:21"
-  },
-  "DED-00069": {
-    "deduction_id": "DED-00069",
-    "payroll_id": "PYR-00033",
-    "deduction_type": "insurance",
-    "amount": 104.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-01T19:19:21"
-  },
-  "DED-00070": {
-    "deduction_id": "DED-00070",
-    "payroll_id": "PYR-00034",
-    "deduction_type": "tax",
-    "amount": 438.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-20T19:19:21"
-  },
-  "DED-00071": {
-    "deduction_id": "DED-00071",
-    "payroll_id": "PYR-00034",
-    "deduction_type": "retirement",
-    "amount": 289.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-21T19:19:21"
-  },
-  "DED-00072": {
-    "deduction_id": "DED-00072",
-    "payroll_id": "PYR-00034",
-    "deduction_type": "equipment",
-    "amount": 67.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-02T19:19:21"
-  },
-  "DED-00073": {
-    "deduction_id": "DED-00073",
-    "payroll_id": "PYR-00035",
-    "deduction_type": "tax",
-    "amount": 243.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-19T19:19:21"
-  },
-  "DED-00074": {
-    "deduction_id": "DED-00074",
-    "payroll_id": "PYR-00035",
-    "deduction_type": "equipment",
-    "amount": 86.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-22T19:19:21"
-  },
-  "DED-00075": {
-    "deduction_id": "DED-00075",
-    "payroll_id": "PYR-00035",
-    "deduction_type": "retirement",
-    "amount": 220.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-15T19:19:21"
-  },
-  "DED-00076": {
-    "deduction_id": "DED-00076",
-    "payroll_id": "PYR-00036",
-    "deduction_type": "tax",
-    "amount": 303.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-03T19:19:21"
-  },
-  "DED-00077": {
-    "deduction_id": "DED-00077",
-    "payroll_id": "PYR-00036",
-    "deduction_type": "other",
-    "amount": 28.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-07T19:19:21"
-  },
-  "DED-00078": {
-    "deduction_id": "DED-00078",
-    "payroll_id": "PYR-00037",
-    "deduction_type": "tax",
-    "amount": 547.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00079": {
-    "deduction_id": "DED-00079",
-    "payroll_id": "PYR-00037",
-    "deduction_type": "equipment",
-    "amount": 121.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-20T19:19:21"
-  },
-  "DED-00080": {
-    "deduction_id": "DED-00080",
-    "payroll_id": "PYR-00038",
-    "deduction_type": "tax",
-    "amount": 155.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00081": {
-    "deduction_id": "DED-00081",
-    "payroll_id": "PYR-00038",
-    "deduction_type": "other",
-    "amount": 52.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-18T19:19:21"
-  },
-  "DED-00082": {
-    "deduction_id": "DED-00082",
-    "payroll_id": "PYR-00039",
-    "deduction_type": "tax",
-    "amount": 512.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-05T19:19:21"
-  },
-  "DED-00083": {
-    "deduction_id": "DED-00083",
-    "payroll_id": "PYR-00040",
-    "deduction_type": "tax",
-    "amount": 363.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-05-30T19:19:21"
-  },
-  "DED-00084": {
-    "deduction_id": "DED-00084",
-    "payroll_id": "PYR-00040",
-    "deduction_type": "insurance",
-    "amount": 121.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00085": {
-    "deduction_id": "DED-00085",
-    "payroll_id": "PYR-00040",
-    "deduction_type": "equipment",
-    "amount": 30.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-10T19:19:21"
-  },
-  "DED-00086": {
-    "deduction_id": "DED-00086",
-    "payroll_id": "PYR-00041",
-    "deduction_type": "tax",
-    "amount": 207.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-27T19:19:21"
-  },
-  "DED-00087": {
-    "deduction_id": "DED-00087",
-    "payroll_id": "PYR-00041",
-    "deduction_type": "retirement",
-    "amount": 219.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-10T19:19:21"
-  },
-  "DED-00088": {
-    "deduction_id": "DED-00088",
-    "payroll_id": "PYR-00041",
-    "deduction_type": "equipment",
-    "amount": 137.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-14T19:19:21"
-  },
-  "DED-00089": {
-    "deduction_id": "DED-00089",
-    "payroll_id": "PYR-00042",
-    "deduction_type": "tax",
-    "amount": 579.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-30T19:19:21"
-  },
-  "DED-00090": {
-    "deduction_id": "DED-00090",
-    "payroll_id": "PYR-00043",
-    "deduction_type": "tax",
-    "amount": 325.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-10T19:19:21"
-  },
-  "DED-00091": {
-    "deduction_id": "DED-00091",
-    "payroll_id": "PYR-00044",
-    "deduction_type": "tax",
-    "amount": 592.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-16T19:19:21"
-  },
-  "DED-00092": {
-    "deduction_id": "DED-00092",
-    "payroll_id": "PYR-00044",
-    "deduction_type": "other",
-    "amount": 48.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-05T19:19:21"
-  },
-  "DED-00093": {
-    "deduction_id": "DED-00093",
-    "payroll_id": "PYR-00045",
-    "deduction_type": "tax",
-    "amount": 184.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-01T19:19:21"
-  },
-  "DED-00094": {
-    "deduction_id": "DED-00094",
-    "payroll_id": "PYR-00046",
-    "deduction_type": "tax",
-    "amount": 494.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-27T19:19:21"
-  },
-  "DED-00095": {
-    "deduction_id": "DED-00095",
-    "payroll_id": "PYR-00047",
-    "deduction_type": "tax",
-    "amount": 531.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-16T19:19:21"
-  },
-  "DED-00096": {
-    "deduction_id": "DED-00096",
-    "payroll_id": "PYR-00048",
-    "deduction_type": "tax",
-    "amount": 199.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00097": {
-    "deduction_id": "DED-00097",
-    "payroll_id": "PYR-00048",
-    "deduction_type": "insurance",
-    "amount": 64.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-05T19:19:21"
-  },
-  "DED-00098": {
-    "deduction_id": "DED-00098",
-    "payroll_id": "PYR-00048",
-    "deduction_type": "retirement",
-    "amount": 70.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-09T19:19:21"
-  },
-  "DED-00099": {
-    "deduction_id": "DED-00099",
-    "payroll_id": "PYR-00049",
-    "deduction_type": "tax",
-    "amount": 516.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-11T19:19:21"
-  },
-  "DED-00100": {
-    "deduction_id": "DED-00100",
-    "payroll_id": "PYR-00049",
-    "deduction_type": "insurance",
-    "amount": 152.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-27T19:19:21"
-  },
-  "DED-00101": {
-    "deduction_id": "DED-00101",
-    "payroll_id": "PYR-00049",
-    "deduction_type": "other",
-    "amount": 89.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-25T19:19:21"
-  },
-  "DED-00102": {
-    "deduction_id": "DED-00102",
-    "payroll_id": "PYR-00050",
-    "deduction_type": "tax",
-    "amount": 531.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-17T19:19:21"
-  },
-  "DED-00103": {
-    "deduction_id": "DED-00103",
-    "payroll_id": "PYR-00051",
-    "deduction_type": "tax",
-    "amount": 265.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-19T19:19:21"
-  },
-  "DED-00104": {
-    "deduction_id": "DED-00104",
-    "payroll_id": "PYR-00051",
-    "deduction_type": "retirement",
-    "amount": 102.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-26T19:19:21"
-  },
-  "DED-00105": {
-    "deduction_id": "DED-00105",
-    "payroll_id": "PYR-00052",
-    "deduction_type": "tax",
-    "amount": 259.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00106": {
-    "deduction_id": "DED-00106",
-    "payroll_id": "PYR-00052",
-    "deduction_type": "retirement",
-    "amount": 114.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-23T19:19:21"
-  },
-  "DED-00107": {
-    "deduction_id": "DED-00107",
-    "payroll_id": "PYR-00053",
-    "deduction_type": "tax",
-    "amount": 272.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-04T19:19:21"
-  },
-  "DED-00108": {
-    "deduction_id": "DED-00108",
-    "payroll_id": "PYR-00053",
-    "deduction_type": "equipment",
-    "amount": 32.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-01T19:19:21"
-  },
-  "DED-00109": {
-    "deduction_id": "DED-00109",
-    "payroll_id": "PYR-00053",
-    "deduction_type": "insurance",
-    "amount": 101.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00110": {
-    "deduction_id": "DED-00110",
-    "payroll_id": "PYR-00054",
-    "deduction_type": "tax",
-    "amount": 173.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-13T19:19:21"
-  },
-  "DED-00111": {
-    "deduction_id": "DED-00111",
-    "payroll_id": "PYR-00054",
-    "deduction_type": "insurance",
-    "amount": 179.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-29T19:19:21"
-  },
-  "DED-00112": {
-    "deduction_id": "DED-00112",
-    "payroll_id": "PYR-00054",
-    "deduction_type": "equipment",
-    "amount": 139.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-04T19:19:21"
-  },
-  "DED-00113": {
-    "deduction_id": "DED-00113",
-    "payroll_id": "PYR-00055",
-    "deduction_type": "tax",
-    "amount": 377.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-30T19:19:21"
-  },
-  "DED-00114": {
-    "deduction_id": "DED-00114",
-    "payroll_id": "PYR-00055",
-    "deduction_type": "equipment",
-    "amount": 120.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-11T19:19:21"
-  },
-  "DED-00115": {
-    "deduction_id": "DED-00115",
-    "payroll_id": "PYR-00056",
-    "deduction_type": "tax",
-    "amount": 184.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-01T19:19:21"
-  },
-  "DED-00116": {
-    "deduction_id": "DED-00116",
-    "payroll_id": "PYR-00056",
-    "deduction_type": "retirement",
-    "amount": 87.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-09-01T19:19:21"
-  },
-  "DED-00117": {
-    "deduction_id": "DED-00117",
-    "payroll_id": "PYR-00057",
-    "deduction_type": "tax",
-    "amount": 520.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-24T19:19:21"
-  },
-  "DED-00118": {
-    "deduction_id": "DED-00118",
-    "payroll_id": "PYR-00057",
-    "deduction_type": "equipment",
-    "amount": 61.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-15T19:19:21"
-  },
-  "DED-00119": {
-    "deduction_id": "DED-00119",
-    "payroll_id": "PYR-00058",
-    "deduction_type": "tax",
-    "amount": 585.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-17T19:19:21"
-  },
-  "DED-00120": {
-    "deduction_id": "DED-00120",
-    "payroll_id": "PYR-00058",
-    "deduction_type": "retirement",
-    "amount": 259.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-26T19:19:21"
-  },
-  "DED-00121": {
-    "deduction_id": "DED-00121",
-    "payroll_id": "PYR-00059",
-    "deduction_type": "tax",
-    "amount": 218.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-19T19:19:21"
-  },
-  "DED-00122": {
-    "deduction_id": "DED-00122",
-    "payroll_id": "PYR-00059",
-    "deduction_type": "equipment",
-    "amount": 100.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-28T19:19:21"
-  },
-  "DED-00123": {
-    "deduction_id": "DED-00123",
-    "payroll_id": "PYR-00060",
-    "deduction_type": "tax",
-    "amount": 447.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-18T19:19:21"
-  },
-  "DED-00124": {
-    "deduction_id": "DED-00124",
-    "payroll_id": "PYR-00061",
-    "deduction_type": "tax",
-    "amount": 531.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-08T19:19:21"
-  },
-  "DED-00125": {
-    "deduction_id": "DED-00125",
-    "payroll_id": "PYR-00061",
-    "deduction_type": "equipment",
-    "amount": 80.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-21T19:19:21"
-  },
-  "DED-00126": {
-    "deduction_id": "DED-00126",
-    "payroll_id": "PYR-00061",
-    "deduction_type": "retirement",
-    "amount": 286.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-07T19:19:21"
-  },
-  "DED-00127": {
-    "deduction_id": "DED-00127",
-    "payroll_id": "PYR-00062",
-    "deduction_type": "tax",
-    "amount": 382.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-05-25T19:19:21"
-  },
-  "DED-00128": {
-    "deduction_id": "DED-00128",
-    "payroll_id": "PYR-00062",
-    "deduction_type": "other",
-    "amount": 84.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-09T19:19:21"
-  },
-  "DED-00129": {
-    "deduction_id": "DED-00129",
-    "payroll_id": "PYR-00063",
-    "deduction_type": "tax",
-    "amount": 174.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-17T19:19:21"
-  },
-  "DED-00130": {
-    "deduction_id": "DED-00130",
-    "payroll_id": "PYR-00063",
-    "deduction_type": "equipment",
-    "amount": 27.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-01T19:19:21"
-  },
-  "DED-00131": {
-    "deduction_id": "DED-00131",
-    "payroll_id": "PYR-00064",
-    "deduction_type": "tax",
-    "amount": 489.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-24T19:19:21"
-  },
-  "DED-00132": {
-    "deduction_id": "DED-00132",
-    "payroll_id": "PYR-00064",
-    "deduction_type": "other",
-    "amount": 32.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-22T19:19:21"
-  },
-  "DED-00133": {
-    "deduction_id": "DED-00133",
-    "payroll_id": "PYR-00065",
-    "deduction_type": "tax",
-    "amount": 525.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00134": {
-    "deduction_id": "DED-00134",
-    "payroll_id": "PYR-00065",
-    "deduction_type": "insurance",
-    "amount": 91.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-24T19:19:21"
-  },
-  "DED-00135": {
-    "deduction_id": "DED-00135",
-    "payroll_id": "PYR-00065",
-    "deduction_type": "other",
-    "amount": 99.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-07T19:19:21"
-  },
-  "DED-00136": {
-    "deduction_id": "DED-00136",
-    "payroll_id": "PYR-00066",
-    "deduction_type": "tax",
-    "amount": 292.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-18T19:19:21"
-  },
-  "DED-00137": {
-    "deduction_id": "DED-00137",
-    "payroll_id": "PYR-00066",
-    "deduction_type": "retirement",
-    "amount": 179.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-21T19:19:21"
-  },
-  "DED-00138": {
-    "deduction_id": "DED-00138",
-    "payroll_id": "PYR-00067",
-    "deduction_type": "tax",
-    "amount": 289.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-22T19:19:21"
-  },
-  "DED-00139": {
-    "deduction_id": "DED-00139",
-    "payroll_id": "PYR-00068",
-    "deduction_type": "tax",
-    "amount": 249.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-28T19:19:21"
-  },
-  "DED-00140": {
-    "deduction_id": "DED-00140",
-    "payroll_id": "PYR-00068",
-    "deduction_type": "equipment",
-    "amount": 80.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-18T19:19:21"
-  },
-  "DED-00141": {
-    "deduction_id": "DED-00141",
-    "payroll_id": "PYR-00068",
-    "deduction_type": "insurance",
-    "amount": 168.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-23T19:19:21"
-  },
-  "DED-00142": {
-    "deduction_id": "DED-00142",
-    "payroll_id": "PYR-00069",
-    "deduction_type": "tax",
-    "amount": 227.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-08T19:19:21"
-  },
-  "DED-00143": {
-    "deduction_id": "DED-00143",
-    "payroll_id": "PYR-00069",
-    "deduction_type": "insurance",
-    "amount": 166.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-21T19:19:21"
-  },
-  "DED-00144": {
-    "deduction_id": "DED-00144",
-    "payroll_id": "PYR-00069",
-    "deduction_type": "retirement",
-    "amount": 81.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-05T19:19:21"
-  },
-  "DED-00145": {
-    "deduction_id": "DED-00145",
-    "payroll_id": "PYR-00070",
-    "deduction_type": "tax",
-    "amount": 251.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00146": {
-    "deduction_id": "DED-00146",
-    "payroll_id": "PYR-00070",
-    "deduction_type": "equipment",
-    "amount": 118.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-12T19:19:21"
-  },
-  "DED-00147": {
-    "deduction_id": "DED-00147",
-    "payroll_id": "PYR-00071",
-    "deduction_type": "tax",
-    "amount": 319.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-31T19:19:21"
-  },
-  "DED-00148": {
-    "deduction_id": "DED-00148",
-    "payroll_id": "PYR-00071",
-    "deduction_type": "equipment",
-    "amount": 46.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-03T19:19:21"
-  },
-  "DED-00149": {
-    "deduction_id": "DED-00149",
-    "payroll_id": "PYR-00071",
-    "deduction_type": "other",
-    "amount": 46.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-01T19:19:21"
-  },
-  "DED-00150": {
-    "deduction_id": "DED-00150",
-    "payroll_id": "PYR-00072",
-    "deduction_type": "tax",
-    "amount": 253.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-24T19:19:21"
-  },
-  "DED-00151": {
-    "deduction_id": "DED-00151",
-    "payroll_id": "PYR-00073",
-    "deduction_type": "tax",
-    "amount": 249.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-14T19:19:21"
-  },
-  "DED-00152": {
-    "deduction_id": "DED-00152",
-    "payroll_id": "PYR-00074",
-    "deduction_type": "tax",
-    "amount": 525.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-22T19:19:21"
-  },
-  "DED-00153": {
-    "deduction_id": "DED-00153",
-    "payroll_id": "PYR-00075",
-    "deduction_type": "tax",
-    "amount": 342.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-25T19:19:21"
-  },
-  "DED-00154": {
-    "deduction_id": "DED-00154",
-    "payroll_id": "PYR-00075",
-    "deduction_type": "retirement",
-    "amount": 145.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-12T19:19:21"
-  },
-  "DED-00155": {
-    "deduction_id": "DED-00155",
-    "payroll_id": "PYR-00075",
-    "deduction_type": "other",
-    "amount": 74.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-20T19:19:21"
-  },
-  "DED-00156": {
-    "deduction_id": "DED-00156",
-    "payroll_id": "PYR-00076",
-    "deduction_type": "tax",
-    "amount": 585.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-05-28T19:19:21"
-  },
-  "DED-00157": {
-    "deduction_id": "DED-00157",
-    "payroll_id": "PYR-00076",
-    "deduction_type": "insurance",
-    "amount": 97.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-25T19:19:21"
-  },
-  "DED-00158": {
-    "deduction_id": "DED-00158",
-    "payroll_id": "PYR-00077",
-    "deduction_type": "tax",
-    "amount": 505.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-21T19:19:21"
-  },
-  "DED-00159": {
-    "deduction_id": "DED-00159",
-    "payroll_id": "PYR-00077",
-    "deduction_type": "retirement",
-    "amount": 107.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-06T19:19:21"
-  },
-  "DED-00160": {
-    "deduction_id": "DED-00160",
-    "payroll_id": "PYR-00077",
-    "deduction_type": "equipment",
-    "amount": 98.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-30T19:19:21"
-  },
-  "DED-00161": {
-    "deduction_id": "DED-00161",
-    "payroll_id": "PYR-00078",
-    "deduction_type": "tax",
-    "amount": 559.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-22T19:19:21"
-  },
-  "DED-00162": {
-    "deduction_id": "DED-00162",
-    "payroll_id": "PYR-00078",
-    "deduction_type": "other",
-    "amount": 35.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-26T19:19:21"
-  },
-  "DED-00163": {
-    "deduction_id": "DED-00163",
-    "payroll_id": "PYR-00079",
-    "deduction_type": "tax",
-    "amount": 395.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-23T19:19:21"
-  },
-  "DED-00164": {
-    "deduction_id": "DED-00164",
-    "payroll_id": "PYR-00079",
-    "deduction_type": "insurance",
-    "amount": 65.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-30T19:19:21"
-  },
-  "DED-00165": {
-    "deduction_id": "DED-00165",
-    "payroll_id": "PYR-00080",
-    "deduction_type": "tax",
-    "amount": 427.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-13T19:19:21"
-  },
-  "DED-00166": {
-    "deduction_id": "DED-00166",
-    "payroll_id": "PYR-00080",
-    "deduction_type": "other",
-    "amount": 47.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-16T19:19:21"
-  },
-  "DED-00167": {
-    "deduction_id": "DED-00167",
-    "payroll_id": "PYR-00081",
-    "deduction_type": "tax",
-    "amount": 218.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-14T19:19:21"
-  },
-  "DED-00168": {
-    "deduction_id": "DED-00168",
-    "payroll_id": "PYR-00082",
-    "deduction_type": "tax",
-    "amount": 305.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-05T19:19:21"
-  },
-  "DED-00169": {
-    "deduction_id": "DED-00169",
-    "payroll_id": "PYR-00083",
-    "deduction_type": "tax",
-    "amount": 225.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-29T19:19:21"
-  },
-  "DED-00170": {
-    "deduction_id": "DED-00170",
-    "payroll_id": "PYR-00083",
-    "deduction_type": "insurance",
-    "amount": 61.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-20T19:19:21"
-  },
-  "DED-00171": {
-    "deduction_id": "DED-00171",
-    "payroll_id": "PYR-00083",
-    "deduction_type": "other",
-    "amount": 95.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-12T19:19:21"
-  },
-  "DED-00172": {
-    "deduction_id": "DED-00172",
-    "payroll_id": "PYR-00084",
-    "deduction_type": "tax",
-    "amount": 403.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-28T19:19:21"
-  },
-  "DED-00173": {
-    "deduction_id": "DED-00173",
-    "payroll_id": "PYR-00085",
-    "deduction_type": "tax",
-    "amount": 457.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-22T19:19:21"
-  },
-  "DED-00174": {
-    "deduction_id": "DED-00174",
-    "payroll_id": "PYR-00085",
-    "deduction_type": "other",
-    "amount": 19.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-13T19:19:21"
-  },
-  "DED-00175": {
-    "deduction_id": "DED-00175",
-    "payroll_id": "PYR-00086",
-    "deduction_type": "tax",
-    "amount": 461.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-05T19:19:21"
-  },
-  "DED-00176": {
-    "deduction_id": "DED-00176",
-    "payroll_id": "PYR-00086",
-    "deduction_type": "retirement",
-    "amount": 257.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-09T19:19:21"
-  },
-  "DED-00177": {
-    "deduction_id": "DED-00177",
-    "payroll_id": "PYR-00086",
-    "deduction_type": "equipment",
-    "amount": 85.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-07T19:19:21"
-  },
-  "DED-00178": {
-    "deduction_id": "DED-00178",
-    "payroll_id": "PYR-00087",
-    "deduction_type": "tax",
-    "amount": 175.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-23T19:19:21"
-  },
-  "DED-00179": {
-    "deduction_id": "DED-00179",
-    "payroll_id": "PYR-00087",
-    "deduction_type": "insurance",
-    "amount": 50.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-08T19:19:21"
-  },
-  "DED-00180": {
-    "deduction_id": "DED-00180",
-    "payroll_id": "PYR-00087",
-    "deduction_type": "retirement",
-    "amount": 229.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-10T19:19:21"
-  },
-  "DED-00181": {
-    "deduction_id": "DED-00181",
-    "payroll_id": "PYR-00088",
-    "deduction_type": "tax",
-    "amount": 213.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-08T19:19:21"
-  },
-  "DED-00182": {
-    "deduction_id": "DED-00182",
-    "payroll_id": "PYR-00089",
-    "deduction_type": "tax",
-    "amount": 463.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00183": {
-    "deduction_id": "DED-00183",
-    "payroll_id": "PYR-00089",
-    "deduction_type": "retirement",
-    "amount": 251.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-11T19:19:21"
-  },
-  "DED-00184": {
-    "deduction_id": "DED-00184",
-    "payroll_id": "PYR-00090",
-    "deduction_type": "tax",
-    "amount": 326.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-30T19:19:21"
-  },
-  "DED-00185": {
-    "deduction_id": "DED-00185",
-    "payroll_id": "PYR-00090",
-    "deduction_type": "retirement",
-    "amount": 259.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-15T19:19:21"
-  },
-  "DED-00186": {
-    "deduction_id": "DED-00186",
-    "payroll_id": "PYR-00091",
-    "deduction_type": "tax",
-    "amount": 385.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-21T19:19:21"
-  },
-  "DED-00187": {
-    "deduction_id": "DED-00187",
-    "payroll_id": "PYR-00092",
-    "deduction_type": "tax",
-    "amount": 528.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-21T19:19:21"
-  },
-  "DED-00188": {
-    "deduction_id": "DED-00188",
-    "payroll_id": "PYR-00092",
-    "deduction_type": "other",
-    "amount": 34.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-11T19:19:21"
-  },
-  "DED-00189": {
-    "deduction_id": "DED-00189",
-    "payroll_id": "PYR-00093",
-    "deduction_type": "tax",
-    "amount": 383.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-15T19:19:21"
-  },
-  "DED-00190": {
-    "deduction_id": "DED-00190",
-    "payroll_id": "PYR-00094",
-    "deduction_type": "tax",
-    "amount": 393.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-15T19:19:21"
-  },
-  "DED-00191": {
-    "deduction_id": "DED-00191",
-    "payroll_id": "PYR-00094",
-    "deduction_type": "insurance",
-    "amount": 149.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-22T19:19:21"
-  },
-  "DED-00192": {
-    "deduction_id": "DED-00192",
-    "payroll_id": "PYR-00094",
-    "deduction_type": "other",
-    "amount": 55.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-26T19:19:21"
-  },
-  "DED-00193": {
-    "deduction_id": "DED-00193",
-    "payroll_id": "PYR-00095",
-    "deduction_type": "tax",
-    "amount": 217.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-14T19:19:21"
-  },
-  "DED-00194": {
-    "deduction_id": "DED-00194",
-    "payroll_id": "PYR-00095",
-    "deduction_type": "equipment",
-    "amount": 78.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-03T19:19:21"
-  },
-  "DED-00195": {
-    "deduction_id": "DED-00195",
-    "payroll_id": "PYR-00095",
-    "deduction_type": "insurance",
-    "amount": 66.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-22T19:19:21"
-  },
-  "DED-00196": {
-    "deduction_id": "DED-00196",
-    "payroll_id": "PYR-00096",
-    "deduction_type": "tax",
-    "amount": 293.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-23T19:19:21"
-  },
-  "DED-00197": {
-    "deduction_id": "DED-00197",
-    "payroll_id": "PYR-00096",
-    "deduction_type": "insurance",
-    "amount": 131.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-09T19:19:21"
-  },
-  "DED-00198": {
-    "deduction_id": "DED-00198",
-    "payroll_id": "PYR-00097",
-    "deduction_type": "tax",
-    "amount": 172.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-21T19:19:21"
-  },
-  "DED-00199": {
-    "deduction_id": "DED-00199",
-    "payroll_id": "PYR-00097",
-    "deduction_type": "insurance",
-    "amount": 149.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-08T19:19:21"
-  },
-  "DED-00200": {
-    "deduction_id": "DED-00200",
-    "payroll_id": "PYR-00097",
-    "deduction_type": "retirement",
-    "amount": 72.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-05-29T19:19:21"
-  },
-  "DED-00201": {
-    "deduction_id": "DED-00201",
-    "payroll_id": "PYR-00098",
-    "deduction_type": "tax",
-    "amount": 344.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-28T19:19:21"
-  },
-  "DED-00202": {
-    "deduction_id": "DED-00202",
-    "payroll_id": "PYR-00098",
-    "deduction_type": "other",
-    "amount": 90.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-19T19:19:21"
-  },
-  "DED-00203": {
-    "deduction_id": "DED-00203",
-    "payroll_id": "PYR-00098",
-    "deduction_type": "retirement",
-    "amount": 287.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-05T19:19:21"
-  },
-  "DED-00204": {
-    "deduction_id": "DED-00204",
-    "payroll_id": "PYR-00099",
-    "deduction_type": "tax",
-    "amount": 473.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-02T19:19:21"
-  },
-  "DED-00205": {
-    "deduction_id": "DED-00205",
-    "payroll_id": "PYR-00100",
-    "deduction_type": "tax",
-    "amount": 485.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-14T19:19:21"
-  },
-  "DED-00206": {
-    "deduction_id": "DED-00206",
-    "payroll_id": "PYR-00100",
-    "deduction_type": "insurance",
-    "amount": 166.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-25T19:19:21"
-  },
-  "DED-00207": {
-    "deduction_id": "DED-00207",
-    "payroll_id": "PYR-00101",
-    "deduction_type": "tax",
-    "amount": 464.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-14T19:19:21"
-  },
-  "DED-00208": {
-    "deduction_id": "DED-00208",
-    "payroll_id": "PYR-00102",
-    "deduction_type": "tax",
-    "amount": 595.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-22T19:19:21"
-  },
-  "DED-00209": {
-    "deduction_id": "DED-00209",
-    "payroll_id": "PYR-00103",
-    "deduction_type": "tax",
-    "amount": 212.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-21T19:19:21"
-  },
-  "DED-00210": {
-    "deduction_id": "DED-00210",
-    "payroll_id": "PYR-00104",
-    "deduction_type": "tax",
-    "amount": 596.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-23T19:19:21"
-  },
-  "DED-00211": {
-    "deduction_id": "DED-00211",
-    "payroll_id": "PYR-00105",
-    "deduction_type": "tax",
-    "amount": 413.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-01T19:19:21"
-  },
-  "DED-00212": {
-    "deduction_id": "DED-00212",
-    "payroll_id": "PYR-00105",
-    "deduction_type": "other",
-    "amount": 72.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-01T19:19:21"
-  },
-  "DED-00213": {
-    "deduction_id": "DED-00213",
-    "payroll_id": "PYR-00106",
-    "deduction_type": "tax",
-    "amount": 412.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-20T19:19:21"
-  },
-  "DED-00214": {
-    "deduction_id": "DED-00214",
-    "payroll_id": "PYR-00106",
-    "deduction_type": "other",
-    "amount": 78.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-26T19:19:21"
-  },
-  "DED-00215": {
-    "deduction_id": "DED-00215",
-    "payroll_id": "PYR-00106",
-    "deduction_type": "insurance",
-    "amount": 136.0,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-16T19:19:21"
-  },
-  "DED-00216": {
-    "deduction_id": "DED-00216",
-    "payroll_id": "PYR-00107",
-    "deduction_type": "tax",
-    "amount": 543.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-31T19:19:21"
-  },
-  "DED-00217": {
-    "deduction_id": "DED-00217",
-    "payroll_id": "PYR-00108",
-    "deduction_type": "tax",
-    "amount": 177.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-21T19:19:21"
-  },
-  "DED-00218": {
-    "deduction_id": "DED-00218",
-    "payroll_id": "PYR-00108",
-    "deduction_type": "equipment",
-    "amount": 65.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-30T19:19:21"
-  },
-  "DED-00219": {
-    "deduction_id": "DED-00219",
-    "payroll_id": "PYR-00109",
-    "deduction_type": "tax",
-    "amount": 166.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-25T19:19:21"
-  },
-  "DED-00220": {
-    "deduction_id": "DED-00220",
-    "payroll_id": "PYR-00110",
-    "deduction_type": "tax",
-    "amount": 420.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-27T19:19:21"
-  },
-  "DED-00221": {
-    "deduction_id": "DED-00221",
-    "payroll_id": "PYR-00110",
-    "deduction_type": "equipment",
-    "amount": 83.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-17T19:19:21"
-  },
-  "DED-00222": {
-    "deduction_id": "DED-00222",
-    "payroll_id": "PYR-00111",
-    "deduction_type": "tax",
-    "amount": 567.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-20T19:19:21"
-  },
-  "DED-00223": {
-    "deduction_id": "DED-00223",
-    "payroll_id": "PYR-00112",
-    "deduction_type": "tax",
-    "amount": 506.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-05-31T19:19:21"
-  },
-  "DED-00224": {
-    "deduction_id": "DED-00224",
-    "payroll_id": "PYR-00112",
-    "deduction_type": "other",
-    "amount": 89.0,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00225": {
-    "deduction_id": "DED-00225",
-    "payroll_id": "PYR-00113",
-    "deduction_type": "tax",
-    "amount": 511.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-30T19:19:21"
-  },
-  "DED-00226": {
-    "deduction_id": "DED-00226",
-    "payroll_id": "PYR-00113",
-    "deduction_type": "insurance",
-    "amount": 197.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-16T19:19:21"
-  },
-  "DED-00227": {
-    "deduction_id": "DED-00227",
-    "payroll_id": "PYR-00113",
-    "deduction_type": "retirement",
-    "amount": 126.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-26T19:19:21"
-  },
-  "DED-00228": {
-    "deduction_id": "DED-00228",
-    "payroll_id": "PYR-00114",
-    "deduction_type": "tax",
-    "amount": 198.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-24T19:19:21"
-  },
-  "DED-00229": {
-    "deduction_id": "DED-00229",
-    "payroll_id": "PYR-00115",
-    "deduction_type": "tax",
-    "amount": 261.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-08T19:19:21"
-  },
-  "DED-00230": {
-    "deduction_id": "DED-00230",
-    "payroll_id": "PYR-00115",
-    "deduction_type": "other",
-    "amount": 90.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-25T19:19:21"
-  },
-  "DED-00231": {
-    "deduction_id": "DED-00231",
-    "payroll_id": "PYR-00116",
-    "deduction_type": "tax",
-    "amount": 259.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-16T19:19:21"
-  },
-  "DED-00232": {
-    "deduction_id": "DED-00232",
-    "payroll_id": "PYR-00116",
-    "deduction_type": "other",
-    "amount": 28.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-29T19:19:21"
-  },
-  "DED-00233": {
-    "deduction_id": "DED-00233",
-    "payroll_id": "PYR-00116",
-    "deduction_type": "equipment",
-    "amount": 46.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-05-27T19:19:21"
-  },
-  "DED-00234": {
-    "deduction_id": "DED-00234",
-    "payroll_id": "PYR-00117",
-    "deduction_type": "tax",
-    "amount": 470.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00235": {
-    "deduction_id": "DED-00235",
-    "payroll_id": "PYR-00118",
-    "deduction_type": "tax",
-    "amount": 550.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-28T19:19:21"
-  },
-  "DED-00236": {
-    "deduction_id": "DED-00236",
-    "payroll_id": "PYR-00119",
-    "deduction_type": "tax",
-    "amount": 456.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-16T19:19:21"
-  },
-  "DED-00237": {
-    "deduction_id": "DED-00237",
-    "payroll_id": "PYR-00119",
-    "deduction_type": "insurance",
-    "amount": 118.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-19T19:19:21"
-  },
-  "DED-00238": {
-    "deduction_id": "DED-00238",
-    "payroll_id": "PYR-00120",
-    "deduction_type": "tax",
-    "amount": 471.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-26T19:19:21"
-  },
-  "DED-00239": {
-    "deduction_id": "DED-00239",
-    "payroll_id": "PYR-00120",
-    "deduction_type": "retirement",
-    "amount": 265.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-14T19:19:21"
-  },
-  "DED-00240": {
-    "deduction_id": "DED-00240",
-    "payroll_id": "PYR-00120",
-    "deduction_type": "other",
-    "amount": 96.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-05T19:19:21"
-  },
-  "DED-00241": {
-    "deduction_id": "DED-00241",
-    "payroll_id": "PYR-00121",
-    "deduction_type": "tax",
-    "amount": 305.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-28T19:19:21"
-  },
-  "DED-00242": {
-    "deduction_id": "DED-00242",
-    "payroll_id": "PYR-00122",
-    "deduction_type": "tax",
-    "amount": 469.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-22T19:19:21"
-  },
-  "DED-00243": {
-    "deduction_id": "DED-00243",
-    "payroll_id": "PYR-00122",
-    "deduction_type": "other",
-    "amount": 15.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-12T19:19:21"
-  },
-  "DED-00244": {
-    "deduction_id": "DED-00244",
-    "payroll_id": "PYR-00123",
-    "deduction_type": "tax",
-    "amount": 405.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-15T19:19:21"
-  },
-  "DED-00245": {
-    "deduction_id": "DED-00245",
-    "payroll_id": "PYR-00123",
-    "deduction_type": "equipment",
-    "amount": 142.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-04T19:19:21"
-  },
-  "DED-00246": {
-    "deduction_id": "DED-00246",
-    "payroll_id": "PYR-00124",
-    "deduction_type": "tax",
-    "amount": 368.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-26T19:19:21"
-  },
-  "DED-00247": {
-    "deduction_id": "DED-00247",
-    "payroll_id": "PYR-00124",
-    "deduction_type": "retirement",
-    "amount": 117.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-23T19:19:21"
-  },
-  "DED-00248": {
-    "deduction_id": "DED-00248",
-    "payroll_id": "PYR-00125",
-    "deduction_type": "tax",
-    "amount": 523.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00249": {
-    "deduction_id": "DED-00249",
-    "payroll_id": "PYR-00126",
-    "deduction_type": "tax",
-    "amount": 360.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-12T19:19:21"
-  },
-  "DED-00250": {
-    "deduction_id": "DED-00250",
-    "payroll_id": "PYR-00126",
-    "deduction_type": "other",
-    "amount": 36.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-25T19:19:21"
-  },
-  "DED-00251": {
-    "deduction_id": "DED-00251",
-    "payroll_id": "PYR-00127",
-    "deduction_type": "tax",
-    "amount": 353.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-12T19:19:21"
-  },
-  "DED-00252": {
-    "deduction_id": "DED-00252",
-    "payroll_id": "PYR-00127",
-    "deduction_type": "other",
-    "amount": 81.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-18T19:19:21"
-  },
-  "DED-00253": {
-    "deduction_id": "DED-00253",
-    "payroll_id": "PYR-00127",
-    "deduction_type": "retirement",
-    "amount": 267.5,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-09T19:19:21"
-  },
-  "DED-00254": {
-    "deduction_id": "DED-00254",
-    "payroll_id": "PYR-00128",
-    "deduction_type": "tax",
-    "amount": 529.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-17T19:19:21"
-  },
-  "DED-00255": {
-    "deduction_id": "DED-00255",
-    "payroll_id": "PYR-00128",
-    "deduction_type": "equipment",
-    "amount": 76.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-11T19:19:21"
-  },
-  "DED-00256": {
-    "deduction_id": "DED-00256",
-    "payroll_id": "PYR-00128",
-    "deduction_type": "other",
-    "amount": 14.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-01T19:19:21"
-  },
-  "DED-00257": {
-    "deduction_id": "DED-00257",
-    "payroll_id": "PYR-00129",
-    "deduction_type": "tax",
-    "amount": 445.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-17T19:19:21"
-  },
-  "DED-00258": {
-    "deduction_id": "DED-00258",
-    "payroll_id": "PYR-00129",
-    "deduction_type": "other",
-    "amount": 38.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-05T19:19:21"
-  },
-  "DED-00259": {
-    "deduction_id": "DED-00259",
-    "payroll_id": "PYR-00130",
-    "deduction_type": "tax",
-    "amount": 572.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-12T19:19:21"
-  },
-  "DED-00260": {
-    "deduction_id": "DED-00260",
-    "payroll_id": "PYR-00130",
-    "deduction_type": "insurance",
-    "amount": 75.75,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-29T19:19:21"
-  },
-  "DED-00261": {
-    "deduction_id": "DED-00261",
-    "payroll_id": "PYR-00130",
-    "deduction_type": "retirement",
-    "amount": 149.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-13T19:19:21"
-  },
-  "DED-00262": {
-    "deduction_id": "DED-00262",
-    "payroll_id": "PYR-00131",
-    "deduction_type": "tax",
-    "amount": 474.25,
-    "created_by": "USR-00021",
-    "created_at": "2025-07-10T19:19:21"
-  },
-  "DED-00263": {
-    "deduction_id": "DED-00263",
-    "payroll_id": "PYR-00132",
-    "deduction_type": "tax",
-    "amount": 234.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-06-08T19:19:21"
-  },
-  "DED-00264": {
-    "deduction_id": "DED-00264",
-    "payroll_id": "PYR-00133",
-    "deduction_type": "tax",
-    "amount": 489.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-23T19:19:21"
-  },
-  "DED-00265": {
-    "deduction_id": "DED-00265",
-    "payroll_id": "PYR-00133",
-    "deduction_type": "retirement",
-    "amount": 91.25,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-31T19:19:21"
-  },
-  "DED-00266": {
-    "deduction_id": "DED-00266",
-    "payroll_id": "PYR-00133",
-    "deduction_type": "equipment",
-    "amount": 99.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-31T19:19:21"
-  },
-  "DED-00267": {
-    "deduction_id": "DED-00267",
-    "payroll_id": "PYR-00134",
-    "deduction_type": "tax",
-    "amount": 307.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-14T19:19:21"
-  },
-  "DED-00268": {
-    "deduction_id": "DED-00268",
-    "payroll_id": "PYR-00134",
-    "deduction_type": "retirement",
-    "amount": 231.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-21T19:19:21"
-  },
-  "DED-00269": {
-    "deduction_id": "DED-00269",
-    "payroll_id": "PYR-00135",
-    "deduction_type": "tax",
-    "amount": 320.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-22T19:19:21"
-  },
-  "DED-00270": {
-    "deduction_id": "DED-00270",
-    "payroll_id": "PYR-00135",
-    "deduction_type": "equipment",
-    "amount": 97.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-21T19:19:21"
-  },
-  "DED-00271": {
-    "deduction_id": "DED-00271",
-    "payroll_id": "PYR-00135",
-    "deduction_type": "insurance",
-    "amount": 166.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-25T19:19:21"
-  },
-  "DED-00272": {
-    "deduction_id": "DED-00272",
-    "payroll_id": "PYR-00136",
-    "deduction_type": "tax",
-    "amount": 524.25,
-    "created_by": "USR-00020",
-    "created_at": "2025-06-03T19:19:21"
-  },
-  "DED-00273": {
-    "deduction_id": "DED-00273",
-    "payroll_id": "PYR-00136",
-    "deduction_type": "insurance",
-    "amount": 125.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-12T19:19:21"
-  },
-  "DED-00274": {
-    "deduction_id": "DED-00274",
-    "payroll_id": "PYR-00137",
-    "deduction_type": "tax",
-    "amount": 244.5,
-    "created_by": "USR-00020",
-    "created_at": "2025-08-28T19:19:21"
-  },
-  "DED-00275": {
-    "deduction_id": "DED-00275",
-    "payroll_id": "PYR-00137",
-    "deduction_type": "equipment",
-    "amount": 92.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-07-07T19:19:21"
-  },
-  "DED-00276": {
-    "deduction_id": "DED-00276",
-    "payroll_id": "PYR-00138",
-    "deduction_type": "tax",
-    "amount": 579.75,
-    "created_by": "USR-00022",
-    "created_at": "2025-05-30T19:19:21"
-  },
-  "DED-00277": {
-    "deduction_id": "DED-00277",
-    "payroll_id": "PYR-00138",
-    "deduction_type": "equipment",
-    "amount": 64.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-07T19:19:21"
-  },
-  "DED-00278": {
-    "deduction_id": "DED-00278",
-    "payroll_id": "PYR-00138",
-    "deduction_type": "insurance",
-    "amount": 85.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-24T19:19:21"
-  },
-  "DED-00279": {
-    "deduction_id": "DED-00279",
-    "payroll_id": "PYR-00139",
-    "deduction_type": "tax",
-    "amount": 503.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-20T19:19:21"
-  },
-  "DED-00280": {
-    "deduction_id": "DED-00280",
-    "payroll_id": "PYR-00139",
-    "deduction_type": "insurance",
-    "amount": 134.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-06-14T19:19:21"
-  },
-  "DED-00281": {
-    "deduction_id": "DED-00281",
-    "payroll_id": "PYR-00140",
-    "deduction_type": "tax",
-    "amount": 412.5,
-    "created_by": "USR-00019",
-    "created_at": "2025-08-06T19:19:21"
-  },
-  "DED-00282": {
-    "deduction_id": "DED-00282",
-    "payroll_id": "PYR-00140",
-    "deduction_type": "retirement",
-    "amount": 251.5,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-17T19:19:21"
-  },
-  "DED-00283": {
-    "deduction_id": "DED-00283",
-    "payroll_id": "PYR-00140",
-    "deduction_type": "equipment",
-    "amount": 66.75,
-    "created_by": "USR-00020",
-    "created_at": "2025-07-17T19:19:21"
-  },
-  "DED-00284": {
-    "deduction_id": "DED-00284",
-    "payroll_id": "PYR-00141",
-    "deduction_type": "tax",
-    "amount": 539.25,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-06T19:19:21"
-  },
-  "DED-00285": {
-    "deduction_id": "DED-00285",
-    "payroll_id": "PYR-00141",
-    "deduction_type": "retirement",
-    "amount": 240.0,
-    "created_by": "USR-00021",
-    "created_at": "2025-08-08T19:19:21"
-  },
-  "DED-00286": {
-    "deduction_id": "DED-00286",
-    "payroll_id": "PYR-00141",
-    "deduction_type": "other",
-    "amount": 10.0,
-    "created_by": "USR-00022",
-    "created_at": "2025-07-14T19:19:21"
-  },
-  "DED-00287": {
-    "deduction_id": "DED-00287",
-    "payroll_id": "PYR-00142",
-    "deduction_type": "tax",
-    "amount": 405.75,
-    "created_by": "USR-00019",
-    "created_at": "2025-06-23T19:19:21"
+  "1": {
+    "deduction_id": "1",
+    "payroll_id": "1",
+    "deduction_type": "tax",
+    "amount": "929.95",
+    "created_by": "26"
+  },
+  "2": {
+    "deduction_id": "2",
+    "payroll_id": "2",
+    "deduction_type": "tax",
+    "amount": "841.04",
+    "created_by": "90"
+  },
+  "3": {
+    "deduction_id": "3",
+    "payroll_id": "3",
+    "deduction_type": "tax",
+    "amount": "229.82",
+    "created_by": "109"
+  },
+  "4": {
+    "deduction_id": "4",
+    "payroll_id": "4",
+    "deduction_type": "tax",
+    "amount": "988.13",
+    "created_by": "9"
+  },
+  "5": {
+    "deduction_id": "5",
+    "payroll_id": "5",
+    "deduction_type": "tax",
+    "amount": "990.46",
+    "created_by": "54"
+  },
+  "6": {
+    "deduction_id": "6",
+    "payroll_id": "6",
+    "deduction_type": "tax",
+    "amount": "930.44",
+    "created_by": "103"
+  },
+  "7": {
+    "deduction_id": "7",
+    "payroll_id": "7",
+    "deduction_type": "tax",
+    "amount": "241.32",
+    "created_by": "12"
+  },
+  "8": {
+    "deduction_id": "8",
+    "payroll_id": "8",
+    "deduction_type": "tax",
+    "amount": "358.50",
+    "created_by": "118"
+  },
+  "9": {
+    "deduction_id": "9",
+    "payroll_id": "9",
+    "deduction_type": "tax",
+    "amount": "563.20",
+    "created_by": "101"
+  },
+  "10": {
+    "deduction_id": "10",
+    "payroll_id": "10",
+    "deduction_type": "tax",
+    "amount": "836.73",
+    "created_by": "101"
+  },
+  "11": {
+    "deduction_id": "11",
+    "payroll_id": "11",
+    "deduction_type": "tax",
+    "amount": "139.41",
+    "created_by": "118"
+  },
+  "12": {
+    "deduction_id": "12",
+    "payroll_id": "12",
+    "deduction_type": "tax",
+    "amount": "167.55",
+    "created_by": "113"
+  },
+  "13": {
+    "deduction_id": "13",
+    "payroll_id": "13",
+    "deduction_type": "tax",
+    "amount": "124.35",
+    "created_by": "135"
+  },
+  "14": {
+    "deduction_id": "14",
+    "payroll_id": "14",
+    "deduction_type": "tax",
+    "amount": "939.96",
+    "created_by": "100"
+  },
+  "15": {
+    "deduction_id": "15",
+    "payroll_id": "15",
+    "deduction_type": "tax",
+    "amount": "209.16",
+    "created_by": "100"
+  },
+  "16": {
+    "deduction_id": "16",
+    "payroll_id": "16",
+    "deduction_type": "tax",
+    "amount": "904.00",
+    "created_by": "135"
+  },
+  "17": {
+    "deduction_id": "17",
+    "payroll_id": "17",
+    "deduction_type": "tax",
+    "amount": "489.52",
+    "created_by": "113"
+  },
+  "18": {
+    "deduction_id": "18",
+    "payroll_id": "18",
+    "deduction_type": "tax",
+    "amount": "398.29",
+    "created_by": "113"
+  },
+  "19": {
+    "deduction_id": "19",
+    "payroll_id": "19",
+    "deduction_type": "tax",
+    "amount": "827.73",
+    "created_by": "101"
+  },
+  "20": {
+    "deduction_id": "20",
+    "payroll_id": "20",
+    "deduction_type": "tax",
+    "amount": "717.05",
+    "created_by": "5"
+  },
+  "21": {
+    "deduction_id": "21",
+    "payroll_id": "21",
+    "deduction_type": "tax",
+    "amount": "792.34",
+    "created_by": "40"
+  },
+  "22": {
+    "deduction_id": "22",
+    "payroll_id": "22",
+    "deduction_type": "tax",
+    "amount": "736.64",
+    "created_by": "138"
+  },
+  "23": {
+    "deduction_id": "23",
+    "payroll_id": "23",
+    "deduction_type": "tax",
+    "amount": "806.24",
+    "created_by": "120"
+  },
+  "24": {
+    "deduction_id": "24",
+    "payroll_id": "24",
+    "deduction_type": "tax",
+    "amount": "491.23",
+    "created_by": "79"
+  },
+  "25": {
+    "deduction_id": "25",
+    "payroll_id": "25",
+    "deduction_type": "tax",
+    "amount": "304.18",
+    "created_by": "138"
+  },
+  "26": {
+    "deduction_id": "26",
+    "payroll_id": "26",
+    "deduction_type": "tax",
+    "amount": "916.49",
+    "created_by": "118"
+  },
+  "27": {
+    "deduction_id": "27",
+    "payroll_id": "27",
+    "deduction_type": "tax",
+    "amount": "251.74",
+    "created_by": "109"
+  },
+  "28": {
+    "deduction_id": "28",
+    "payroll_id": "28",
+    "deduction_type": "tax",
+    "amount": "298.32",
+    "created_by": "122"
+  },
+  "29": {
+    "deduction_id": "29",
+    "payroll_id": "29",
+    "deduction_type": "tax",
+    "amount": "646.09",
+    "created_by": "135"
+  },
+  "30": {
+    "deduction_id": "30",
+    "payroll_id": "30",
+    "deduction_type": "tax",
+    "amount": "699.93",
+    "created_by": "101"
+  },
+  "31": {
+    "deduction_id": "31",
+    "payroll_id": "31",
+    "deduction_type": "tax",
+    "amount": "207.91",
+    "created_by": "79"
+  },
+  "32": {
+    "deduction_id": "32",
+    "payroll_id": "32",
+    "deduction_type": "tax",
+    "amount": "462.64",
+    "created_by": "56"
+  },
+  "33": {
+    "deduction_id": "33",
+    "payroll_id": "33",
+    "deduction_type": "tax",
+    "amount": "847.45",
+    "created_by": "40"
+  },
+  "34": {
+    "deduction_id": "34",
+    "payroll_id": "34",
+    "deduction_type": "tax",
+    "amount": "676.15",
+    "created_by": "50"
+  },
+  "35": {
+    "deduction_id": "35",
+    "payroll_id": "35",
+    "deduction_type": "tax",
+    "amount": "516.68",
+    "created_by": "138"
+  },
+  "36": {
+    "deduction_id": "36",
+    "payroll_id": "36",
+    "deduction_type": "tax",
+    "amount": "983.29",
+    "created_by": "50"
+  },
+  "37": {
+    "deduction_id": "37",
+    "payroll_id": "37",
+    "deduction_type": "tax",
+    "amount": "241.22",
+    "created_by": "5"
+  },
+  "38": {
+    "deduction_id": "38",
+    "payroll_id": "38",
+    "deduction_type": "tax",
+    "amount": "508.20",
+    "created_by": "20"
+  },
+  "39": {
+    "deduction_id": "39",
+    "payroll_id": "39",
+    "deduction_type": "tax",
+    "amount": "590.51",
+    "created_by": "31"
+  },
+  "40": {
+    "deduction_id": "40",
+    "payroll_id": "40",
+    "deduction_type": "tax",
+    "amount": "180.18",
+    "created_by": "121"
+  },
+  "41": {
+    "deduction_id": "41",
+    "payroll_id": "41",
+    "deduction_type": "tax",
+    "amount": "223.17",
+    "created_by": "122"
+  },
+  "42": {
+    "deduction_id": "42",
+    "payroll_id": "42",
+    "deduction_type": "tax",
+    "amount": "292.65",
+    "created_by": "104"
+  },
+  "43": {
+    "deduction_id": "43",
+    "payroll_id": "43",
+    "deduction_type": "tax",
+    "amount": "829.05",
+    "created_by": "54"
+  },
+  "44": {
+    "deduction_id": "44",
+    "payroll_id": "44",
+    "deduction_type": "tax",
+    "amount": "412.41",
+    "created_by": "75"
+  },
+  "45": {
+    "deduction_id": "45",
+    "payroll_id": "45",
+    "deduction_type": "tax",
+    "amount": "450.91",
+    "created_by": "120"
+  },
+  "46": {
+    "deduction_id": "46",
+    "payroll_id": "46",
+    "deduction_type": "tax",
+    "amount": "919.16",
+    "created_by": "138"
+  },
+  "47": {
+    "deduction_id": "47",
+    "payroll_id": "47",
+    "deduction_type": "tax",
+    "amount": "312.17",
+    "created_by": "121"
+  },
+  "48": {
+    "deduction_id": "48",
+    "payroll_id": "48",
+    "deduction_type": "tax",
+    "amount": "719.31",
+    "created_by": "31"
+  },
+  "49": {
+    "deduction_id": "49",
+    "payroll_id": "49",
+    "deduction_type": "tax",
+    "amount": "511.08",
+    "created_by": "101"
+  },
+  "50": {
+    "deduction_id": "50",
+    "payroll_id": "50",
+    "deduction_type": "tax",
+    "amount": "780.10",
+    "created_by": "103"
+  },
+  "51": {
+    "deduction_id": "51",
+    "payroll_id": "51",
+    "deduction_type": "tax",
+    "amount": "754.07",
+    "created_by": "118"
+  },
+  "52": {
+    "deduction_id": "52",
+    "payroll_id": "52",
+    "deduction_type": "tax",
+    "amount": "966.88",
+    "created_by": "10"
+  },
+  "53": {
+    "deduction_id": "53",
+    "payroll_id": "53",
+    "deduction_type": "tax",
+    "amount": "936.88",
+    "created_by": "103"
+  },
+  "54": {
+    "deduction_id": "54",
+    "payroll_id": "54",
+    "deduction_type": "tax",
+    "amount": "230.66",
+    "created_by": "31"
+  },
+  "55": {
+    "deduction_id": "55",
+    "payroll_id": "55",
+    "deduction_type": "tax",
+    "amount": "112.61",
+    "created_by": "104"
+  },
+  "56": {
+    "deduction_id": "56",
+    "payroll_id": "56",
+    "deduction_type": "tax",
+    "amount": "195.32",
+    "created_by": "101"
+  },
+  "57": {
+    "deduction_id": "57",
+    "payroll_id": "57",
+    "deduction_type": "tax",
+    "amount": "845.62",
+    "created_by": "9"
+  },
+  "58": {
+    "deduction_id": "58",
+    "payroll_id": "58",
+    "deduction_type": "tax",
+    "amount": "879.19",
+    "created_by": "104"
+  },
+  "59": {
+    "deduction_id": "59",
+    "payroll_id": "59",
+    "deduction_type": "tax",
+    "amount": "254.21",
+    "created_by": "135"
+  },
+  "60": {
+    "deduction_id": "60",
+    "payroll_id": "60",
+    "deduction_type": "tax",
+    "amount": "241.02",
+    "created_by": "14"
+  },
+  "61": {
+    "deduction_id": "61",
+    "payroll_id": "61",
+    "deduction_type": "tax",
+    "amount": "223.51",
+    "created_by": "101"
+  },
+  "62": {
+    "deduction_id": "62",
+    "payroll_id": "62",
+    "deduction_type": "tax",
+    "amount": "276.72",
+    "created_by": "54"
+  },
+  "63": {
+    "deduction_id": "63",
+    "payroll_id": "63",
+    "deduction_type": "tax",
+    "amount": "294.31",
+    "created_by": "138"
+  },
+  "64": {
+    "deduction_id": "64",
+    "payroll_id": "64",
+    "deduction_type": "tax",
+    "amount": "228.04",
+    "created_by": "130"
+  },
+  "65": {
+    "deduction_id": "65",
+    "payroll_id": "65",
+    "deduction_type": "tax",
+    "amount": "535.77",
+    "created_by": "54"
+  },
+  "66": {
+    "deduction_id": "66",
+    "payroll_id": "66",
+    "deduction_type": "tax",
+    "amount": "504.60",
+    "created_by": "120"
+  },
+  "67": {
+    "deduction_id": "67",
+    "payroll_id": "67",
+    "deduction_type": "tax",
+    "amount": "205.02",
+    "created_by": "5"
+  },
+  "68": {
+    "deduction_id": "68",
+    "payroll_id": "68",
+    "deduction_type": "tax",
+    "amount": "763.39",
+    "created_by": "20"
+  },
+  "69": {
+    "deduction_id": "69",
+    "payroll_id": "69",
+    "deduction_type": "tax",
+    "amount": "464.59",
+    "created_by": "103"
+  },
+  "70": {
+    "deduction_id": "70",
+    "payroll_id": "70",
+    "deduction_type": "tax",
+    "amount": "138.11",
+    "created_by": "138"
+  },
+  "71": {
+    "deduction_id": "71",
+    "payroll_id": "71",
+    "deduction_type": "tax",
+    "amount": "405.43",
+    "created_by": "118"
+  },
+  "72": {
+    "deduction_id": "72",
+    "payroll_id": "72",
+    "deduction_type": "tax",
+    "amount": "699.87",
+    "created_by": "50"
+  },
+  "73": {
+    "deduction_id": "73",
+    "payroll_id": "73",
+    "deduction_type": "tax",
+    "amount": "631.71",
+    "created_by": "69"
+  },
+  "74": {
+    "deduction_id": "74",
+    "payroll_id": "74",
+    "deduction_type": "tax",
+    "amount": "195.25",
+    "created_by": "119"
+  },
+  "75": {
+    "deduction_id": "75",
+    "payroll_id": "75",
+    "deduction_type": "tax",
+    "amount": "293.70",
+    "created_by": "26"
+  },
+  "76": {
+    "deduction_id": "76",
+    "payroll_id": "76",
+    "deduction_type": "tax",
+    "amount": "966.83",
+    "created_by": "14"
+  },
+  "77": {
+    "deduction_id": "77",
+    "payroll_id": "77",
+    "deduction_type": "tax",
+    "amount": "573.66",
+    "created_by": "110"
+  },
+  "78": {
+    "deduction_id": "78",
+    "payroll_id": "78",
+    "deduction_type": "tax",
+    "amount": "644.15",
+    "created_by": "50"
+  },
+  "79": {
+    "deduction_id": "79",
+    "payroll_id": "79",
+    "deduction_type": "tax",
+    "amount": "106.63",
+    "created_by": "109"
+  },
+  "80": {
+    "deduction_id": "80",
+    "payroll_id": "80",
+    "deduction_type": "tax",
+    "amount": "868.89",
+    "created_by": "104"
+  },
+  "81": {
+    "deduction_id": "81",
+    "payroll_id": "81",
+    "deduction_type": "tax",
+    "amount": "701.48",
+    "created_by": "103"
+  },
+  "82": {
+    "deduction_id": "82",
+    "payroll_id": "82",
+    "deduction_type": "tax",
+    "amount": "175.38",
+    "created_by": "40"
+  },
+  "83": {
+    "deduction_id": "83",
+    "payroll_id": "83",
+    "deduction_type": "tax",
+    "amount": "729.30",
+    "created_by": "120"
+  },
+  "84": {
+    "deduction_id": "84",
+    "payroll_id": "84",
+    "deduction_type": "tax",
+    "amount": "136.47",
+    "created_by": "75"
+  },
+  "85": {
+    "deduction_id": "85",
+    "payroll_id": "85",
+    "deduction_type": "tax",
+    "amount": "250.27",
+    "created_by": "50"
+  },
+  "86": {
+    "deduction_id": "86",
+    "payroll_id": "86",
+    "deduction_type": "tax",
+    "amount": "689.03",
+    "created_by": "138"
+  },
+  "87": {
+    "deduction_id": "87",
+    "payroll_id": "87",
+    "deduction_type": "tax",
+    "amount": "730.06",
+    "created_by": "12"
+  },
+  "88": {
+    "deduction_id": "88",
+    "payroll_id": "88",
+    "deduction_type": "tax",
+    "amount": "863.03",
+    "created_by": "9"
+  },
+  "89": {
+    "deduction_id": "89",
+    "payroll_id": "89",
+    "deduction_type": "tax",
+    "amount": "591.80",
+    "created_by": "40"
+  },
+  "90": {
+    "deduction_id": "90",
+    "payroll_id": "90",
+    "deduction_type": "tax",
+    "amount": "594.57",
+    "created_by": "109"
+  },
+  "91": {
+    "deduction_id": "91",
+    "payroll_id": "91",
+    "deduction_type": "tax",
+    "amount": "893.98",
+    "created_by": "101"
+  },
+  "92": {
+    "deduction_id": "92",
+    "payroll_id": "92",
+    "deduction_type": "tax",
+    "amount": "550.79",
+    "created_by": "130"
+  },
+  "93": {
+    "deduction_id": "93",
+    "payroll_id": "93",
+    "deduction_type": "tax",
+    "amount": "257.57",
+    "created_by": "122"
+  },
+  "94": {
+    "deduction_id": "94",
+    "payroll_id": "94",
+    "deduction_type": "tax",
+    "amount": "606.03",
+    "created_by": "31"
+  },
+  "95": {
+    "deduction_id": "95",
+    "payroll_id": "95",
+    "deduction_type": "tax",
+    "amount": "605.52",
+    "created_by": "50"
+  },
+  "96": {
+    "deduction_id": "96",
+    "payroll_id": "96",
+    "deduction_type": "tax",
+    "amount": "858.75",
+    "created_by": "130"
+  },
+  "97": {
+    "deduction_id": "97",
+    "payroll_id": "97",
+    "deduction_type": "tax",
+    "amount": "502.49",
+    "created_by": "119"
+  },
+  "98": {
+    "deduction_id": "98",
+    "payroll_id": "98",
+    "deduction_type": "tax",
+    "amount": "405.49",
+    "created_by": "10"
+  },
+  "99": {
+    "deduction_id": "99",
+    "payroll_id": "99",
+    "deduction_type": "tax",
+    "amount": "750.36",
+    "created_by": "113"
+  },
+  "100": {
+    "deduction_id": "100",
+    "payroll_id": "100",
+    "deduction_type": "tax",
+    "amount": "166.55",
+    "created_by": "109"
+  },
+  "101": {
+    "deduction_id": "101",
+    "payroll_id": "101",
+    "deduction_type": "tax",
+    "amount": "959.51",
+    "created_by": "120"
+  },
+  "102": {
+    "deduction_id": "102",
+    "payroll_id": "102",
+    "deduction_type": "tax",
+    "amount": "813.35",
+    "created_by": "20"
+  },
+  "103": {
+    "deduction_id": "103",
+    "payroll_id": "103",
+    "deduction_type": "tax",
+    "amount": "783.27",
+    "created_by": "79"
+  },
+  "104": {
+    "deduction_id": "104",
+    "payroll_id": "104",
+    "deduction_type": "tax",
+    "amount": "194.99",
+    "created_by": "103"
+  },
+  "105": {
+    "deduction_id": "105",
+    "payroll_id": "105",
+    "deduction_type": "tax",
+    "amount": "690.02",
+    "created_by": "122"
+  },
+  "106": {
+    "deduction_id": "106",
+    "payroll_id": "106",
+    "deduction_type": "tax",
+    "amount": "477.54",
+    "created_by": "69"
+  },
+  "107": {
+    "deduction_id": "107",
+    "payroll_id": "107",
+    "deduction_type": "tax",
+    "amount": "528.88",
+    "created_by": "50"
+  },
+  "108": {
+    "deduction_id": "108",
+    "payroll_id": "108",
+    "deduction_type": "tax",
+    "amount": "872.55",
+    "created_by": "110"
+  },
+  "109": {
+    "deduction_id": "109",
+    "payroll_id": "109",
+    "deduction_type": "tax",
+    "amount": "742.91",
+    "created_by": "109"
+  },
+  "110": {
+    "deduction_id": "110",
+    "payroll_id": "110",
+    "deduction_type": "tax",
+    "amount": "311.36",
+    "created_by": "26"
+  },
+  "111": {
+    "deduction_id": "111",
+    "payroll_id": "111",
+    "deduction_type": "tax",
+    "amount": "998.49",
+    "created_by": "120"
+  },
+  "112": {
+    "deduction_id": "112",
+    "payroll_id": "112",
+    "deduction_type": "tax",
+    "amount": "223.97",
+    "created_by": "110"
+  },
+  "113": {
+    "deduction_id": "113",
+    "payroll_id": "113",
+    "deduction_type": "tax",
+    "amount": "837.58",
+    "created_by": "90"
+  },
+  "114": {
+    "deduction_id": "114",
+    "payroll_id": "114",
+    "deduction_type": "tax",
+    "amount": "165.87",
+    "created_by": "12"
+  },
+  "115": {
+    "deduction_id": "115",
+    "payroll_id": "115",
+    "deduction_type": "tax",
+    "amount": "449.89",
+    "created_by": "110"
+  },
+  "116": {
+    "deduction_id": "116",
+    "payroll_id": "116",
+    "deduction_type": "tax",
+    "amount": "982.75",
+    "created_by": "100"
+  },
+  "117": {
+    "deduction_id": "117",
+    "payroll_id": "117",
+    "deduction_type": "tax",
+    "amount": "296.79",
+    "created_by": "50"
+  },
+  "118": {
+    "deduction_id": "118",
+    "payroll_id": "118",
+    "deduction_type": "tax",
+    "amount": "289.21",
+    "created_by": "9"
+  },
+  "119": {
+    "deduction_id": "119",
+    "payroll_id": "119",
+    "deduction_type": "tax",
+    "amount": "453.17",
+    "created_by": "50"
+  },
+  "120": {
+    "deduction_id": "120",
+    "payroll_id": "120",
+    "deduction_type": "tax",
+    "amount": "548.08",
+    "created_by": "54"
+  },
+  "121": {
+    "deduction_id": "121",
+    "payroll_id": "121",
+    "deduction_type": "tax",
+    "amount": "291.03",
+    "created_by": "119"
+  },
+  "122": {
+    "deduction_id": "122",
+    "payroll_id": "122",
+    "deduction_type": "tax",
+    "amount": "642.30",
+    "created_by": "113"
+  },
+  "123": {
+    "deduction_id": "123",
+    "payroll_id": "123",
+    "deduction_type": "tax",
+    "amount": "836.65",
+    "created_by": "121"
+  },
+  "124": {
+    "deduction_id": "124",
+    "payroll_id": "124",
+    "deduction_type": "tax",
+    "amount": "358.08",
+    "created_by": "5"
+  },
+  "125": {
+    "deduction_id": "125",
+    "payroll_id": "125",
+    "deduction_type": "tax",
+    "amount": "356.52",
+    "created_by": "56"
+  },
+  "126": {
+    "deduction_id": "126",
+    "payroll_id": "126",
+    "deduction_type": "tax",
+    "amount": "881.21",
+    "created_by": "10"
+  },
+  "127": {
+    "deduction_id": "127",
+    "payroll_id": "127",
+    "deduction_type": "tax",
+    "amount": "325.99",
+    "created_by": "118"
+  },
+  "128": {
+    "deduction_id": "128",
+    "payroll_id": "128",
+    "deduction_type": "tax",
+    "amount": "843.43",
+    "created_by": "75"
+  },
+  "129": {
+    "deduction_id": "129",
+    "payroll_id": "129",
+    "deduction_type": "tax",
+    "amount": "413.53",
+    "created_by": "10"
+  },
+  "130": {
+    "deduction_id": "130",
+    "payroll_id": "130",
+    "deduction_type": "tax",
+    "amount": "823.98",
+    "created_by": "119"
+  },
+  "131": {
+    "deduction_id": "131",
+    "payroll_id": "131",
+    "deduction_type": "tax",
+    "amount": "152.68",
+    "created_by": "109"
+  },
+  "132": {
+    "deduction_id": "132",
+    "payroll_id": "132",
+    "deduction_type": "tax",
+    "amount": "808.27",
+    "created_by": "121"
+  },
+  "133": {
+    "deduction_id": "133",
+    "payroll_id": "133",
+    "deduction_type": "tax",
+    "amount": "176.22",
+    "created_by": "104"
+  },
+  "134": {
+    "deduction_id": "134",
+    "payroll_id": "134",
+    "deduction_type": "tax",
+    "amount": "699.50",
+    "created_by": "90"
+  },
+  "135": {
+    "deduction_id": "135",
+    "payroll_id": "135",
+    "deduction_type": "tax",
+    "amount": "161.86",
+    "created_by": "100"
+  },
+  "136": {
+    "deduction_id": "136",
+    "payroll_id": "136",
+    "deduction_type": "tax",
+    "amount": "625.41",
+    "created_by": "118"
+  },
+  "137": {
+    "deduction_id": "137",
+    "payroll_id": "137",
+    "deduction_type": "tax",
+    "amount": "186.35",
+    "created_by": "9"
+  },
+  "138": {
+    "deduction_id": "138",
+    "payroll_id": "138",
+    "deduction_type": "tax",
+    "amount": "611.17",
+    "created_by": "130"
+  },
+  "139": {
+    "deduction_id": "139",
+    "payroll_id": "139",
+    "deduction_type": "tax",
+    "amount": "459.97",
+    "created_by": "54"
+  },
+  "140": {
+    "deduction_id": "140",
+    "payroll_id": "140",
+    "deduction_type": "tax",
+    "amount": "497.09",
+    "created_by": "26"
+  },
+  "141": {
+    "deduction_id": "141",
+    "payroll_id": "141",
+    "deduction_type": "tax",
+    "amount": "911.94",
+    "created_by": "101"
+  },
+  "142": {
+    "deduction_id": "142",
+    "payroll_id": "142",
+    "deduction_type": "tax",
+    "amount": "403.42",
+    "created_by": "135"
+  },
+  "143": {
+    "deduction_id": "143",
+    "payroll_id": "143",
+    "deduction_type": "tax",
+    "amount": "883.28",
+    "created_by": "103"
+  },
+  "144": {
+    "deduction_id": "144",
+    "payroll_id": "144",
+    "deduction_type": "tax",
+    "amount": "601.93",
+    "created_by": "90"
+  },
+  "145": {
+    "deduction_id": "145",
+    "payroll_id": "145",
+    "deduction_type": "tax",
+    "amount": "750.17",
+    "created_by": "110"
+  },
+  "146": {
+    "deduction_id": "146",
+    "payroll_id": "146",
+    "deduction_type": "tax",
+    "amount": "953.95",
+    "created_by": "118"
+  },
+  "147": {
+    "deduction_id": "147",
+    "payroll_id": "147",
+    "deduction_type": "tax",
+    "amount": "990.36",
+    "created_by": "50"
+  },
+  "148": {
+    "deduction_id": "148",
+    "payroll_id": "148",
+    "deduction_type": "tax",
+    "amount": "142.23",
+    "created_by": "101"
+  },
+  "149": {
+    "deduction_id": "149",
+    "payroll_id": "149",
+    "deduction_type": "tax",
+    "amount": "213.03",
+    "created_by": "90"
+  },
+  "150": {
+    "deduction_id": "150",
+    "payroll_id": "150",
+    "deduction_type": "tax",
+    "amount": "952.06",
+    "created_by": "54"
   }
 }

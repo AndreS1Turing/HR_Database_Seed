@@ -1,90 +1,222 @@
 {
-  "PRG-00001": {
-    "program_id": "PRG-00001",
-    "program_name": "New Hire Onboarding",
+  "1": {
+    "program_id": "1",
+    "program_name": "Optimize Visionary Channels Workshop",
     "program_type": "onboarding",
-    "duration_hours": 8,
-    "delivery_method": "online",
-    "mandatory": true,
-    "status": "active",
-    "created_at": "2025-01-22T19:19:21",
-    "updated_at": "2025-06-30T19:19:21"
-  },
-  "PRG-00002": {
-    "program_id": "PRG-00002",
-    "program_name": "Security Awareness",
-    "program_type": "compliance",
-    "duration_hours": 2,
-    "delivery_method": "online",
-    "mandatory": true,
-    "status": "active",
-    "created_at": "2025-08-16T19:19:21",
-    "updated_at": "2025-06-27T19:19:21"
-  },
-  "PRG-00003": {
-    "program_id": "PRG-00003",
-    "program_name": "Code Quality & Testing",
-    "program_type": "technical",
-    "duration_hours": 6,
+    "duration_hours": 40,
     "delivery_method": "hybrid",
     "mandatory": false,
     "status": "active",
-    "created_at": "2025-02-19T19:19:21",
-    "updated_at": "2025-02-14T19:19:21"
+    "created_at": "2023-03-30 14:02:25.088177",
+    "updated_at": "2024-07-26 05:04:06.780069"
   },
-  "PRG-00004": {
-    "program_id": "PRG-00004",
-    "program_name": "Leadership Foundations",
-    "program_type": "leadership",
-    "duration_hours": 10,
-    "delivery_method": "in_person",
+  "2": {
+    "program_id": "2",
+    "program_name": "Benchmark Bleeding-Edge Channels Workshop",
+    "program_type": "diversity",
+    "duration_hours": 40,
+    "delivery_method": "hybrid",
     "mandatory": false,
     "status": "active",
-    "created_at": "2024-09-16T19:19:21",
-    "updated_at": "2025-06-21T19:19:21"
+    "created_at": "2023-09-20 07:21:32.213796",
+    "updated_at": "2023-10-04 17:48:52.799340"
   },
-  "PRG-00005": {
-    "program_id": "PRG-00005",
-    "program_name": "Workplace Safety 101",
-    "program_type": "safety",
-    "duration_hours": 3,
+  "3": {
+    "program_id": "3",
+    "program_name": "Envisioneer Distributed Deliverables Workshop",
+    "program_type": "ai_ethics",
+    "duration_hours": 24,
     "delivery_method": "online",
     "mandatory": true,
     "status": "active",
-    "created_at": "2024-10-17T19:19:21",
-    "updated_at": "2025-03-15T19:19:21"
+    "created_at": "2025-06-04 21:37:33.675782",
+    "updated_at": "2025-06-17 00:26:33.536336"
   },
-  "PRG-00006": {
-    "program_id": "PRG-00006",
-    "program_name": "Inclusive Teams",
+  "4": {
+    "program_id": "4",
+    "program_name": "Enhance Magnetic E-Business Workshop",
     "program_type": "diversity",
-    "duration_hours": 4,
+    "duration_hours": 40,
+    "delivery_method": "hybrid",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2022-11-14 01:00:49.019915",
+    "updated_at": "2024-08-22 08:31:03.914441"
+  },
+  "5": {
+    "program_id": "5",
+    "program_name": "Whiteboard Mission-Critical E-Markets Workshop",
+    "program_type": "diversity",
+    "duration_hours": 16,
+    "delivery_method": "in_person",
+    "mandatory": true,
+    "status": "active",
+    "created_at": "2024-04-22 18:52:34.442405",
+    "updated_at": "2024-06-16 17:03:20.575374"
+  },
+  "6": {
+    "program_id": "6",
+    "program_name": "Utilize Magnetic Action-Items Workshop",
+    "program_type": "compliance",
+    "duration_hours": 8,
     "delivery_method": "self_paced",
     "mandatory": false,
     "status": "active",
-    "created_at": "2024-10-26T19:19:21",
-    "updated_at": "2025-07-05T19:19:21"
+    "created_at": "2024-02-02 06:01:37.245052",
+    "updated_at": "2024-12-13 00:31:12.795022"
   },
-  "PRG-00007": {
-    "program_id": "PRG-00007",
-    "program_name": "AI Ethics for HR",
+  "7": {
+    "program_id": "7",
+    "program_name": "Orchestrate Out-Of-The-Box Users Workshop",
     "program_type": "ai_ethics",
-    "duration_hours": 3,
-    "delivery_method": "online",
+    "duration_hours": 16,
+    "delivery_method": "in_person",
     "mandatory": false,
     "status": "active",
-    "created_at": "2024-07-30T19:19:21",
-    "updated_at": "2025-07-23T19:19:21"
+    "created_at": "2023-10-15 04:20:23.308233",
+    "updated_at": "2024-08-05 21:52:26.365904"
   },
-  "PRG-00008": {
-    "program_id": "PRG-00008",
-    "program_name": "Advanced Cloud Ops",
-    "program_type": "technical",
-    "duration_hours": 12,
+  "8": {
+    "program_id": "8",
+    "program_name": "Utilize Compelling Functionalities Workshop",
+    "program_type": "ai_ethics",
+    "duration_hours": 24,
+    "delivery_method": "self_paced",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2024-01-13 12:44:03.915007",
+    "updated_at": "2024-03-19 10:20:55.192612"
+  },
+  "9": {
+    "program_id": "9",
+    "program_name": "Re-Intermediate Holistic E-Services Workshop",
+    "program_type": "diversity",
+    "duration_hours": 8,
     "delivery_method": "hybrid",
     "mandatory": false,
     "status": "active",
-    "created_at": "2025-06-14T19:19:21",
-    "updated_at": "2025-03-12T19:19:21"
+    "created_at": "2022-10-14 12:37:10.304547",
+    "updated_at": "2023-02-17 12:21:40.475844"
+  },
+  "10": {
+    "program_id": "10",
+    "program_name": "Reinvent Integrated Communities Workshop",
+    "program_type": "diversity",
+    "duration_hours": 16,
+    "delivery_method": "in_person",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2025-06-03 16:13:36.475660",
+    "updated_at": "2025-08-24 03:16:44.592594"
+  },
+  "11": {
+    "program_id": "11",
+    "program_name": "Enable Next-Generation E-Markets Workshop",
+    "program_type": "ai_ethics",
+    "duration_hours": 40,
+    "delivery_method": "hybrid",
+    "mandatory": true,
+    "status": "active",
+    "created_at": "2023-01-11 00:00:18.065180",
+    "updated_at": "2025-01-18 09:26:32.859898"
+  },
+  "12": {
+    "program_id": "12",
+    "program_name": "Deliver Efficient E-Business Workshop",
+    "program_type": "diversity",
+    "duration_hours": 24,
+    "delivery_method": "hybrid",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2023-11-07 03:56:18.496493",
+    "updated_at": "2025-06-03 13:58:49.267088"
+  },
+  "13": {
+    "program_id": "13",
+    "program_name": "Syndicate Rich Users Workshop",
+    "program_type": "ai_ethics",
+    "duration_hours": 16,
+    "delivery_method": "in_person",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2024-06-30 06:44:57.167175",
+    "updated_at": "2025-08-09 12:51:08.191328"
+  },
+  "14": {
+    "program_id": "14",
+    "program_name": "Target 24/7 Synergies Workshop",
+    "program_type": "safety",
+    "duration_hours": 16,
+    "delivery_method": "self_paced",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2024-12-13 14:20:29.914288",
+    "updated_at": "2025-07-30 19:19:48.071976"
+  },
+  "15": {
+    "program_id": "15",
+    "program_name": "Disintermediate User-Centric Infrastructures Workshop",
+    "program_type": "leadership",
+    "duration_hours": 4,
+    "delivery_method": "in_person",
+    "mandatory": true,
+    "status": "active",
+    "created_at": "2024-03-07 17:27:30.945357",
+    "updated_at": "2024-10-28 10:18:39.055604"
+  },
+  "16": {
+    "program_id": "16",
+    "program_name": "Drive Seamless Methodologies Workshop",
+    "program_type": "compliance",
+    "duration_hours": 40,
+    "delivery_method": "self_paced",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2023-12-21 03:34:27.817981",
+    "updated_at": "2024-12-04 03:35:07.985120"
+  },
+  "17": {
+    "program_id": "17",
+    "program_name": "Cultivate Leading-Edge Models Workshop",
+    "program_type": "technical",
+    "duration_hours": 24,
+    "delivery_method": "online",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2023-10-31 02:44:59.453784",
+    "updated_at": "2024-02-18 13:14:15.803425"
+  },
+  "18": {
+    "program_id": "18",
+    "program_name": "Enhance Compelling Methodologies Workshop",
+    "program_type": "ai_ethics",
+    "duration_hours": 4,
+    "delivery_method": "in_person",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2025-04-04 19:46:28.404710",
+    "updated_at": "2025-04-12 18:13:26.299903"
+  },
+  "19": {
+    "program_id": "19",
+    "program_name": "Orchestrate Collaborative Initiatives Workshop",
+    "program_type": "leadership",
+    "duration_hours": 40,
+    "delivery_method": "hybrid",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2023-04-29 23:48:45.613436",
+    "updated_at": "2025-06-22 02:15:37.208203"
+  },
+  "20": {
+    "program_id": "20",
+    "program_name": "Transition Virtual Synergies Workshop",
+    "program_type": "safety",
+    "duration_hours": 4,
+    "delivery_method": "in_person",
+    "mandatory": false,
+    "status": "active",
+    "created_at": "2025-05-22 17:10:10.695351",
+    "updated_at": "2025-06-13 23:11:19.598845"
   }
 }

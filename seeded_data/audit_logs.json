@@ -1,2752 +1,4002 @@
 {
-  "LOG-00001": {
-    "log_id": "LOG-00001",
-    "user_id": "USR-00092",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00198",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-20T02:37:23"
-  },
-  "LOG-00002": {
-    "log_id": "LOG-00002",
-    "user_id": "USR-00096",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00008",
-    "field_name": null,
-    "old_value": "22",
-    "new_value": null,
-    "timestamp": "2024-11-19T23:48:02"
-  },
-  "LOG-00003": {
-    "log_id": "LOG-00003",
-    "user_id": "USR-00043",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00005",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "149",
-    "timestamp": "2024-10-13T10:38:39"
-  },
-  "LOG-00004": {
-    "log_id": "LOG-00004",
-    "user_id": "USR-00035",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00184",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-01-03T09:45:05"
-  },
-  "LOG-00005": {
-    "log_id": "LOG-00005",
-    "user_id": "USR-00029",
-    "action": "approve",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00067",
-    "field_name": null,
-    "old_value": "76",
-    "new_value": null,
-    "timestamp": "2025-03-19T18:28:37"
-  },
-  "LOG-00006": {
-    "log_id": "LOG-00006",
-    "user_id": "USR-00001",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00118",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": "131",
-    "timestamp": "2025-08-24T11:44:37"
-  },
-  "LOG-00007": {
-    "log_id": "LOG-00007",
-    "user_id": "USR-00098",
-    "action": "reject",
-    "reference_type": "employees",
-    "reference_id": "EMP-00023",
-    "field_name": "hourly_rate",
-    "old_value": "6",
-    "new_value": null,
-    "timestamp": "2025-01-13T02:46:16"
-  },
-  "LOG-00008": {
-    "log_id": "LOG-00008",
-    "user_id": "USR-00035",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00029",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "193",
-    "timestamp": "2024-09-05T14:13:55"
-  },
-  "LOG-00009": {
-    "log_id": "LOG-00009",
-    "user_id": "USR-00036",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00185",
-    "field_name": null,
-    "old_value": "61",
-    "new_value": null,
-    "timestamp": "2025-05-13T10:13:30"
-  },
-  "LOG-00010": {
-    "log_id": "LOG-00010",
-    "user_id": "USR-00038",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00037",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-18T13:07:06"
-  },
-  "LOG-00011": {
-    "log_id": "LOG-00011",
-    "user_id": "USR-00084",
-    "action": "delete",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00009",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "191",
-    "timestamp": "2025-04-10T10:27:42"
-  },
-  "LOG-00012": {
-    "log_id": "LOG-00012",
-    "user_id": "USR-00064",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00032",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-06-03T13:41:50"
-  },
-  "LOG-00013": {
-    "log_id": "LOG-00013",
-    "user_id": "USR-00037",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00082",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-05T00:35:53"
-  },
-  "LOG-00014": {
-    "log_id": "LOG-00014",
-    "user_id": "USR-00025",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00141",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "149",
-    "timestamp": "2025-07-28T23:26:54"
-  },
-  "LOG-00015": {
-    "log_id": "LOG-00015",
-    "user_id": "USR-00040",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00008",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-23T01:13:05"
-  },
-  "LOG-00016": {
-    "log_id": "LOG-00016",
-    "user_id": "USR-00082",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00044",
-    "field_name": "none",
-    "old_value": "3",
-    "new_value": null,
-    "timestamp": "2025-08-02T04:20:47"
-  },
-  "LOG-00017": {
-    "log_id": "LOG-00017",
-    "user_id": "USR-00094",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00145",
-    "field_name": "status",
-    "old_value": "6",
-    "new_value": null,
-    "timestamp": "2025-08-21T11:46:05"
-  },
-  "LOG-00018": {
-    "log_id": "LOG-00018",
-    "user_id": "USR-00061",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00144",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "126",
-    "timestamp": "2025-08-27T00:49:42"
-  },
-  "LOG-00019": {
-    "log_id": "LOG-00019",
-    "user_id": "USR-00035",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00057",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "174",
-    "timestamp": "2024-11-13T22:56:48"
-  },
-  "LOG-00020": {
-    "log_id": "LOG-00020",
-    "user_id": "USR-00008",
-    "action": "reject",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00077",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-01T05:51:10"
-  },
-  "LOG-00021": {
-    "log_id": "LOG-00021",
-    "user_id": "USR-00090",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00001",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-26T01:20:43"
-  },
-  "LOG-00022": {
-    "log_id": "LOG-00022",
-    "user_id": "USR-00015",
-    "action": "delete",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00079",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-09T16:37:16"
-  },
-  "LOG-00023": {
-    "log_id": "LOG-00023",
-    "user_id": "USR-00007",
-    "action": "update",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00062",
-    "field_name": "none",
-    "old_value": "41",
-    "new_value": null,
-    "timestamp": "2025-05-12T14:08:26"
-  },
-  "LOG-00024": {
-    "log_id": "LOG-00024",
-    "user_id": "USR-00047",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00127",
-    "field_name": null,
-    "old_value": "8",
-    "new_value": "110",
-    "timestamp": "2025-01-12T06:45:02"
-  },
-  "LOG-00025": {
-    "log_id": "LOG-00025",
-    "user_id": "USR-00034",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00003",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-16T14:57:53"
-  },
-  "LOG-00026": {
-    "log_id": "LOG-00026",
-    "user_id": "USR-00081",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00050",
-    "field_name": "none",
-    "old_value": "31",
-    "new_value": null,
-    "timestamp": "2025-08-21T16:31:57"
-  },
-  "LOG-00027": {
-    "log_id": "LOG-00027",
-    "user_id": "USR-00001",
-    "action": "create",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00089",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-02T01:41:25"
-  },
-  "LOG-00028": {
-    "log_id": "LOG-00028",
-    "user_id": "USR-00008",
-    "action": "create",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00115",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "190",
-    "timestamp": "2025-07-21T12:29:33"
-  },
-  "LOG-00029": {
-    "log_id": "LOG-00029",
-    "user_id": "USR-00013",
-    "action": "approve",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00053",
-    "field_name": "status",
-    "old_value": "38",
-    "new_value": "120",
-    "timestamp": "2025-01-31T14:55:39"
-  },
-  "LOG-00030": {
-    "log_id": "LOG-00030",
-    "user_id": "USR-00025",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00043",
-    "field_name": "hourly_rate",
-    "old_value": "26",
-    "new_value": null,
-    "timestamp": "2025-01-28T14:03:46"
-  },
-  "LOG-00031": {
-    "log_id": "LOG-00031",
-    "user_id": "USR-00062",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00234",
-    "field_name": null,
-    "old_value": "84",
-    "new_value": "128",
-    "timestamp": "2024-12-08T20:39:57"
-  },
-  "LOG-00032": {
-    "log_id": "LOG-00032",
-    "user_id": "USR-00005",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00018",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-13T14:29:24"
-  },
-  "LOG-00033": {
-    "log_id": "LOG-00033",
-    "user_id": "USR-00039",
-    "action": "create",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00041",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "145",
-    "timestamp": "2025-01-11T01:00:19"
-  },
-  "LOG-00034": {
-    "log_id": "LOG-00034",
-    "user_id": "USR-00082",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00021",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "195",
-    "timestamp": "2025-07-23T15:54:40"
-  },
-  "LOG-00035": {
-    "log_id": "LOG-00035",
-    "user_id": "USR-00046",
-    "action": "reject",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00085",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-07T09:04:14"
-  },
-  "LOG-00036": {
-    "log_id": "LOG-00036",
-    "user_id": "USR-00064",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00070",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-01T05:36:41"
-  },
-  "LOG-00037": {
-    "log_id": "LOG-00037",
-    "user_id": "USR-00038",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00054",
-    "field_name": "none",
-    "old_value": "8",
-    "new_value": null,
-    "timestamp": "2025-02-06T08:16:57"
-  },
-  "LOG-00038": {
-    "log_id": "LOG-00038",
-    "user_id": "USR-00041",
-    "action": "create",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00126",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-04-05T04:29:23"
-  },
-  "LOG-00039": {
-    "log_id": "LOG-00039",
-    "user_id": "USR-00056",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00069",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-09T06:54:38"
-  },
-  "LOG-00040": {
-    "log_id": "LOG-00040",
-    "user_id": "USR-00069",
-    "action": "reject",
-    "reference_type": "employees",
-    "reference_id": "EMP-00035",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-04T16:27:35"
-  },
-  "LOG-00041": {
-    "log_id": "LOG-00041",
-    "user_id": "USR-00005",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00085",
-    "field_name": null,
-    "old_value": "79",
-    "new_value": null,
-    "timestamp": "2025-07-07T15:02:24"
-  },
-  "LOG-00042": {
-    "log_id": "LOG-00042",
-    "user_id": "USR-00066",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00094",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "175",
-    "timestamp": "2025-08-30T08:12:38"
-  },
-  "LOG-00043": {
-    "log_id": "LOG-00043",
-    "user_id": "USR-00071",
-    "action": "read",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00065",
-    "field_name": null,
-    "old_value": "86",
-    "new_value": null,
-    "timestamp": "2025-05-21T22:27:44"
-  },
-  "LOG-00044": {
-    "log_id": "LOG-00044",
-    "user_id": "USR-00022",
-    "action": "update",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00068",
-    "field_name": "overall_rating",
-    "old_value": "94",
-    "new_value": null,
-    "timestamp": "2024-12-18T07:12:22"
-  },
-  "LOG-00045": {
-    "log_id": "LOG-00045",
-    "user_id": "USR-00071",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00138",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-13T23:50:56"
-  },
-  "LOG-00046": {
-    "log_id": "LOG-00046",
-    "user_id": "USR-00093",
-    "action": "approve",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00005",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": "122",
-    "timestamp": "2025-02-17T12:59:05"
-  },
-  "LOG-00047": {
-    "log_id": "LOG-00047",
-    "user_id": "USR-00060",
-    "action": "delete",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00138",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-15T08:46:52"
-  },
-  "LOG-00048": {
-    "log_id": "LOG-00048",
-    "user_id": "USR-00046",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00003",
-    "field_name": "none",
-    "old_value": "79",
-    "new_value": null,
-    "timestamp": "2024-11-27T22:06:38"
-  },
-  "LOG-00049": {
-    "log_id": "LOG-00049",
-    "user_id": "USR-00071",
-    "action": "approve",
-    "reference_type": "employees",
-    "reference_id": "EMP-00039",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-08T15:24:49"
-  },
-  "LOG-00050": {
-    "log_id": "LOG-00050",
-    "user_id": "USR-00077",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00110",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "181",
-    "timestamp": "2025-08-09T16:22:09"
-  },
-  "LOG-00051": {
-    "log_id": "LOG-00051",
-    "user_id": "USR-00087",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00079",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "118",
-    "timestamp": "2025-02-14T09:51:12"
-  },
-  "LOG-00052": {
-    "log_id": "LOG-00052",
-    "user_id": "USR-00028",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00095",
-    "field_name": "amount",
-    "old_value": "23",
-    "new_value": null,
-    "timestamp": "2025-05-06T00:16:25"
-  },
-  "LOG-00053": {
-    "log_id": "LOG-00053",
-    "user_id": "USR-00028",
-    "action": "update",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00108",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-09-27T09:14:39"
-  },
-  "LOG-00054": {
-    "log_id": "LOG-00054",
-    "user_id": "USR-00032",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00134",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "152",
-    "timestamp": "2025-04-18T14:31:38"
-  },
-  "LOG-00055": {
-    "log_id": "LOG-00055",
-    "user_id": "USR-00037",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00068",
-    "field_name": null,
-    "old_value": "99",
-    "new_value": null,
-    "timestamp": "2024-12-19T03:04:22"
-  },
-  "LOG-00056": {
-    "log_id": "LOG-00056",
-    "user_id": "USR-00092",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00042",
-    "field_name": "overall_rating",
-    "old_value": "4",
-    "new_value": "143",
-    "timestamp": "2025-03-23T23:57:24"
-  },
-  "LOG-00057": {
-    "log_id": "LOG-00057",
-    "user_id": "USR-00058",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00024",
-    "field_name": "overall_rating",
-    "old_value": "3",
-    "new_value": "154",
-    "timestamp": "2024-11-06T13:26:58"
-  },
-  "LOG-00058": {
-    "log_id": "LOG-00058",
-    "user_id": "USR-00052",
-    "action": "approve",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00057",
-    "field_name": "amount",
-    "old_value": "14",
-    "new_value": null,
-    "timestamp": "2025-04-12T03:58:00"
-  },
-  "LOG-00059": {
-    "log_id": "LOG-00059",
-    "user_id": "USR-00084",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00070",
-    "field_name": "overall_rating",
-    "old_value": "42",
-    "new_value": null,
-    "timestamp": "2024-10-04T10:05:48"
-  },
-  "LOG-00060": {
-    "log_id": "LOG-00060",
-    "user_id": "USR-00015",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00031",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-05-27T17:42:41"
-  },
-  "LOG-00061": {
-    "log_id": "LOG-00061",
-    "user_id": "USR-00017",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00109",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-04T00:57:23"
-  },
-  "LOG-00062": {
-    "log_id": "LOG-00062",
-    "user_id": "USR-00080",
-    "action": "reject",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00139",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": "190",
-    "timestamp": "2024-11-19T08:20:45"
-  },
-  "LOG-00063": {
-    "log_id": "LOG-00063",
-    "user_id": "USR-00068",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00179",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": "180",
-    "timestamp": "2025-01-05T00:11:03"
-  },
-  "LOG-00064": {
-    "log_id": "LOG-00064",
-    "user_id": "USR-00084",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00020",
-    "field_name": "hourly_rate",
-    "old_value": "81",
-    "new_value": null,
-    "timestamp": "2024-11-26T13:01:43"
-  },
-  "LOG-00065": {
-    "log_id": "LOG-00065",
-    "user_id": "USR-00054",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00071",
-    "field_name": "none",
-    "old_value": "2",
-    "new_value": null,
-    "timestamp": "2024-12-06T10:36:31"
-  },
-  "LOG-00066": {
-    "log_id": "LOG-00066",
-    "user_id": "USR-00094",
-    "action": "approve",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00078",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-01-27T13:12:02"
-  },
-  "LOG-00067": {
-    "log_id": "LOG-00067",
-    "user_id": "USR-00014",
+  "1": {
+    "log_id": "1",
+    "user_id": "116",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00079",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-01-25T05:10:01"
+    "reference_id": "2",
+    "timestamp": "2025-01-29 12:07:55.278582"
   },
-  "LOG-00068": {
-    "log_id": "LOG-00068",
-    "user_id": "USR-00030",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00063",
-    "field_name": "overall_rating",
-    "old_value": "57",
-    "new_value": null,
-    "timestamp": "2024-11-14T16:57:54"
-  },
-  "LOG-00069": {
-    "log_id": "LOG-00069",
-    "user_id": "USR-00082",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00082",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "159",
-    "timestamp": "2025-06-09T16:33:05"
-  },
-  "LOG-00070": {
-    "log_id": "LOG-00070",
-    "user_id": "USR-00046",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00090",
-    "field_name": null,
-    "old_value": "27",
-    "new_value": null,
-    "timestamp": "2025-05-09T00:31:27"
-  },
-  "LOG-00071": {
-    "log_id": "LOG-00071",
-    "user_id": "USR-00048",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00139",
-    "field_name": null,
-    "old_value": "83",
-    "new_value": "182",
-    "timestamp": "2025-05-21T12:13:06"
-  },
-  "LOG-00072": {
-    "log_id": "LOG-00072",
-    "user_id": "USR-00085",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00018",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-12T17:30:06"
-  },
-  "LOG-00073": {
-    "log_id": "LOG-00073",
-    "user_id": "USR-00083",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00040",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-17T07:50:59"
-  },
-  "LOG-00074": {
-    "log_id": "LOG-00074",
-    "user_id": "USR-00045",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00087",
-    "field_name": null,
-    "old_value": "57",
-    "new_value": "132",
-    "timestamp": "2025-01-14T05:51:15"
-  },
-  "LOG-00075": {
-    "log_id": "LOG-00075",
-    "user_id": "USR-00085",
-    "action": "update",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00036",
-    "field_name": "hourly_rate",
-    "old_value": "44",
-    "new_value": null,
-    "timestamp": "2025-02-01T21:18:24"
-  },
-  "LOG-00076": {
-    "log_id": "LOG-00076",
-    "user_id": "USR-00013",
+  "2": {
+    "log_id": "2",
+    "user_id": "86",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00062",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "188",
-    "timestamp": "2025-06-13T15:22:27"
+    "reference_id": "83",
+    "timestamp": "2025-01-29 18:42:36.467746"
   },
-  "LOG-00077": {
-    "log_id": "LOG-00077",
-    "user_id": "USR-00030",
+  "3": {
+    "log_id": "3",
+    "user_id": "80",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00045",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-09T20:16:08"
+    "reference_id": "36",
+    "timestamp": "2025-06-06 16:42:01.314060"
   },
-  "LOG-00078": {
-    "log_id": "LOG-00078",
-    "user_id": "USR-00082",
-    "action": "create",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00020",
-    "field_name": null,
-    "old_value": "88",
-    "new_value": null,
-    "timestamp": "2025-08-12T00:22:42"
-  },
-  "LOG-00079": {
-    "log_id": "LOG-00079",
-    "user_id": "USR-00064",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00100",
-    "field_name": null,
-    "old_value": "44",
-    "new_value": "174",
-    "timestamp": "2024-12-13T11:28:49"
-  },
-  "LOG-00080": {
-    "log_id": "LOG-00080",
-    "user_id": "USR-00098",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00051",
-    "field_name": "amount",
-    "old_value": "86",
-    "new_value": null,
-    "timestamp": "2024-11-13T01:36:39"
-  },
-  "LOG-00081": {
-    "log_id": "LOG-00081",
-    "user_id": "USR-00066",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00023",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-13T14:06:20"
-  },
-  "LOG-00082": {
-    "log_id": "LOG-00082",
-    "user_id": "USR-00067",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00021",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-19T18:29:58"
-  },
-  "LOG-00083": {
-    "log_id": "LOG-00083",
-    "user_id": "USR-00078",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00042",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-09T20:10:36"
-  },
-  "LOG-00084": {
-    "log_id": "LOG-00084",
-    "user_id": "USR-00056",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00005",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-19T04:58:06"
-  },
-  "LOG-00085": {
-    "log_id": "LOG-00085",
-    "user_id": "USR-00016",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00032",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "185",
-    "timestamp": "2024-11-21T04:19:14"
-  },
-  "LOG-00086": {
-    "log_id": "LOG-00086",
-    "user_id": "USR-00057",
-    "action": "approve",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00084",
-    "field_name": null,
-    "old_value": "3",
-    "new_value": null,
-    "timestamp": "2025-05-17T02:58:12"
-  },
-  "LOG-00087": {
-    "log_id": "LOG-00087",
-    "user_id": "USR-00010",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00070",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-21T17:59:03"
-  },
-  "LOG-00088": {
-    "log_id": "LOG-00088",
-    "user_id": "USR-00061",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00088",
-    "field_name": "manager_id",
-    "old_value": "15",
-    "new_value": null,
-    "timestamp": "2025-05-30T21:53:38"
-  },
-  "LOG-00089": {
-    "log_id": "LOG-00089",
-    "user_id": "USR-00083",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00072",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-18T12:36:55"
-  },
-  "LOG-00090": {
-    "log_id": "LOG-00090",
-    "user_id": "USR-00087",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00064",
-    "field_name": null,
-    "old_value": "28",
-    "new_value": null,
-    "timestamp": "2025-05-07T09:54:53"
-  },
-  "LOG-00091": {
-    "log_id": "LOG-00091",
-    "user_id": "USR-00059",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00051",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-09T06:22:54"
-  },
-  "LOG-00092": {
-    "log_id": "LOG-00092",
-    "user_id": "USR-00032",
-    "action": "approve",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00098",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "131",
-    "timestamp": "2025-02-15T12:00:02"
-  },
-  "LOG-00093": {
-    "log_id": "LOG-00093",
-    "user_id": "USR-00088",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00080",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-23T20:18:57"
-  },
-  "LOG-00094": {
-    "log_id": "LOG-00094",
-    "user_id": "USR-00096",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00024",
-    "field_name": "manager_id",
-    "old_value": "3",
-    "new_value": null,
-    "timestamp": "2024-09-19T19:37:32"
-  },
-  "LOG-00095": {
-    "log_id": "LOG-00095",
-    "user_id": "USR-00040",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00193",
-    "field_name": "overall_rating",
-    "old_value": "73",
-    "new_value": null,
-    "timestamp": "2025-01-30T10:40:56"
-  },
-  "LOG-00096": {
-    "log_id": "LOG-00096",
-    "user_id": "USR-00013",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00047",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-01-03T14:39:31"
-  },
-  "LOG-00097": {
-    "log_id": "LOG-00097",
-    "user_id": "USR-00093",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00094",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "200",
-    "timestamp": "2024-09-15T19:17:21"
-  },
-  "LOG-00098": {
-    "log_id": "LOG-00098",
-    "user_id": "USR-00046",
-    "action": "create",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00048",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "142",
-    "timestamp": "2025-01-08T15:54:32"
-  },
-  "LOG-00099": {
-    "log_id": "LOG-00099",
-    "user_id": "USR-00017",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00058",
-    "field_name": "none",
-    "old_value": "36",
-    "new_value": "104",
-    "timestamp": "2025-04-08T07:45:33"
-  },
-  "LOG-00100": {
-    "log_id": "LOG-00100",
-    "user_id": "USR-00087",
+  "4": {
+    "log_id": "4",
+    "user_id": "31",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00021",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-17T01:11:34"
+    "reference_id": "68",
+    "timestamp": "2025-04-17 02:30:41.992629"
   },
-  "LOG-00101": {
-    "log_id": "LOG-00101",
-    "user_id": "USR-00050",
-    "action": "approve",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00108",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": "198",
-    "timestamp": "2025-08-28T02:04:40"
-  },
-  "LOG-00102": {
-    "log_id": "LOG-00102",
-    "user_id": "USR-00032",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00056",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "189",
-    "timestamp": "2024-10-11T12:10:40"
-  },
-  "LOG-00103": {
-    "log_id": "LOG-00103",
-    "user_id": "USR-00048",
-    "action": "approve",
-    "reference_type": "employees",
-    "reference_id": "EMP-00012",
-    "field_name": "status",
-    "old_value": "74",
-    "new_value": "114",
-    "timestamp": "2025-03-17T00:24:47"
-  },
-  "LOG-00104": {
-    "log_id": "LOG-00104",
-    "user_id": "USR-00035",
-    "action": "approve",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00018",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": "127",
-    "timestamp": "2025-03-15T09:47:01"
-  },
-  "LOG-00105": {
-    "log_id": "LOG-00105",
-    "user_id": "USR-00037",
-    "action": "delete",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00009",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-12T08:45:06"
-  },
-  "LOG-00106": {
-    "log_id": "LOG-00106",
-    "user_id": "USR-00053",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00008",
-    "field_name": null,
-    "old_value": "5",
-    "new_value": null,
-    "timestamp": "2025-06-13T17:29:35"
-  },
-  "LOG-00107": {
-    "log_id": "LOG-00107",
-    "user_id": "USR-00006",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00037",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-05-12T15:38:02"
-  },
-  "LOG-00108": {
-    "log_id": "LOG-00108",
-    "user_id": "USR-00080",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00101",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-23T00:56:56"
-  },
-  "LOG-00109": {
-    "log_id": "LOG-00109",
-    "user_id": "USR-00006",
-    "action": "read",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00063",
-    "field_name": null,
-    "old_value": "24",
-    "new_value": "123",
-    "timestamp": "2025-02-09T18:23:10"
-  },
-  "LOG-00110": {
-    "log_id": "LOG-00110",
-    "user_id": "USR-00013",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00060",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": "158",
-    "timestamp": "2024-11-07T16:58:38"
-  },
-  "LOG-00111": {
-    "log_id": "LOG-00111",
-    "user_id": "USR-00003",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00058",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-06-18T13:26:51"
-  },
-  "LOG-00112": {
-    "log_id": "LOG-00112",
-    "user_id": "USR-00094",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00192",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-01-06T23:10:49"
-  },
-  "LOG-00113": {
-    "log_id": "LOG-00113",
-    "user_id": "USR-00064",
-    "action": "approve",
-    "reference_type": "employees",
-    "reference_id": "EMP-00097",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-17T08:23:50"
-  },
-  "LOG-00114": {
-    "log_id": "LOG-00114",
-    "user_id": "USR-00011",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00049",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "111",
-    "timestamp": "2025-06-14T19:03:44"
-  },
-  "LOG-00115": {
-    "log_id": "LOG-00115",
-    "user_id": "USR-00074",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00049",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": "147",
-    "timestamp": "2024-11-06T01:39:43"
-  },
-  "LOG-00116": {
-    "log_id": "LOG-00116",
-    "user_id": "USR-00073",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00041",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-22T18:36:30"
-  },
-  "LOG-00117": {
-    "log_id": "LOG-00117",
-    "user_id": "USR-00002",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00027",
-    "field_name": null,
-    "old_value": "14",
-    "new_value": "167",
-    "timestamp": "2025-08-28T13:38:59"
-  },
-  "LOG-00118": {
-    "log_id": "LOG-00118",
-    "user_id": "USR-00073",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00064",
-    "field_name": "amount",
-    "old_value": "27",
-    "new_value": null,
-    "timestamp": "2024-11-27T03:32:44"
-  },
-  "LOG-00119": {
-    "log_id": "LOG-00119",
-    "user_id": "USR-00031",
-    "action": "approve",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00043",
-    "field_name": null,
-    "old_value": "2",
-    "new_value": null,
-    "timestamp": "2024-12-14T14:27:25"
-  },
-  "LOG-00120": {
-    "log_id": "LOG-00120",
-    "user_id": "USR-00023",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00084",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "124",
-    "timestamp": "2025-08-03T11:35:18"
-  },
-  "LOG-00121": {
-    "log_id": "LOG-00121",
-    "user_id": "USR-00058",
-    "action": "reject",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00113",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "134",
-    "timestamp": "2025-01-12T15:17:45"
-  },
-  "LOG-00122": {
-    "log_id": "LOG-00122",
-    "user_id": "USR-00039",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00090",
-    "field_name": null,
-    "old_value": "81",
-    "new_value": "112",
-    "timestamp": "2024-11-06T19:26:17"
-  },
-  "LOG-00123": {
-    "log_id": "LOG-00123",
-    "user_id": "USR-00086",
-    "action": "create",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00007",
-    "field_name": "manager_id",
-    "old_value": "31",
-    "new_value": null,
-    "timestamp": "2025-01-27T09:35:23"
-  },
-  "LOG-00124": {
-    "log_id": "LOG-00124",
-    "user_id": "USR-00028",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00127",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "164",
-    "timestamp": "2024-11-25T12:19:31"
-  },
-  "LOG-00125": {
-    "log_id": "LOG-00125",
-    "user_id": "USR-00045",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00117",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-30T16:01:37"
-  },
-  "LOG-00126": {
-    "log_id": "LOG-00126",
-    "user_id": "USR-00001",
-    "action": "delete",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00027",
-    "field_name": "none",
-    "old_value": "99",
-    "new_value": null,
-    "timestamp": "2025-08-05T14:03:43"
-  },
-  "LOG-00127": {
-    "log_id": "LOG-00127",
-    "user_id": "USR-00004",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00007",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-05-12T17:11:15"
-  },
-  "LOG-00128": {
-    "log_id": "LOG-00128",
-    "user_id": "USR-00083",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00163",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-24T07:46:37"
-  },
-  "LOG-00129": {
-    "log_id": "LOG-00129",
-    "user_id": "USR-00053",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00080",
-    "field_name": "none",
-    "old_value": "91",
-    "new_value": "151",
-    "timestamp": "2025-03-12T01:51:17"
-  },
-  "LOG-00130": {
-    "log_id": "LOG-00130",
-    "user_id": "USR-00078",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00079",
-    "field_name": "status",
-    "old_value": "91",
-    "new_value": null,
-    "timestamp": "2024-10-10T05:19:01"
-  },
-  "LOG-00131": {
-    "log_id": "LOG-00131",
-    "user_id": "USR-00087",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00090",
-    "field_name": null,
-    "old_value": "29",
-    "new_value": null,
-    "timestamp": "2024-09-16T22:14:51"
-  },
-  "LOG-00132": {
-    "log_id": "LOG-00132",
-    "user_id": "USR-00055",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00019",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": "190",
-    "timestamp": "2025-05-30T21:20:02"
-  },
-  "LOG-00133": {
-    "log_id": "LOG-00133",
-    "user_id": "USR-00086",
+  "5": {
+    "log_id": "5",
+    "user_id": "58",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00079",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-26T11:33:08"
+    "reference_id": "54",
+    "timestamp": "2025-06-29 20:21:49.491784"
   },
-  "LOG-00134": {
-    "log_id": "LOG-00134",
-    "user_id": "USR-00096",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00062",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-21T06:20:43"
-  },
-  "LOG-00135": {
-    "log_id": "LOG-00135",
-    "user_id": "USR-00047",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00143",
-    "field_name": null,
-    "old_value": "26",
-    "new_value": null,
-    "timestamp": "2024-11-16T17:38:58"
-  },
-  "LOG-00136": {
-    "log_id": "LOG-00136",
-    "user_id": "USR-00036",
-    "action": "reject",
-    "reference_type": "employees",
-    "reference_id": "EMP-00089",
-    "field_name": null,
-    "old_value": "16",
-    "new_value": "163",
-    "timestamp": "2025-02-28T06:56:21"
-  },
-  "LOG-00137": {
-    "log_id": "LOG-00137",
-    "user_id": "USR-00087",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00032",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-24T15:29:49"
-  },
-  "LOG-00138": {
-    "log_id": "LOG-00138",
-    "user_id": "USR-00080",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00092",
-    "field_name": "hourly_rate",
-    "old_value": "52",
-    "new_value": null,
-    "timestamp": "2025-04-04T04:49:50"
-  },
-  "LOG-00139": {
-    "log_id": "LOG-00139",
-    "user_id": "USR-00013",
-    "action": "approve",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00055",
-    "field_name": null,
-    "old_value": "92",
-    "new_value": null,
-    "timestamp": "2024-10-17T13:27:10"
-  },
-  "LOG-00140": {
-    "log_id": "LOG-00140",
-    "user_id": "USR-00011",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00102",
-    "field_name": null,
-    "old_value": "45",
-    "new_value": null,
-    "timestamp": "2024-12-12T20:22:40"
-  },
-  "LOG-00141": {
-    "log_id": "LOG-00141",
-    "user_id": "USR-00004",
-    "action": "approve",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00024",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "132",
-    "timestamp": "2024-10-29T20:04:13"
-  },
-  "LOG-00142": {
-    "log_id": "LOG-00142",
-    "user_id": "USR-00067",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00146",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-09-02T13:25:58"
-  },
-  "LOG-00143": {
-    "log_id": "LOG-00143",
-    "user_id": "USR-00055",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00032",
-    "field_name": null,
-    "old_value": "78",
-    "new_value": "109",
-    "timestamp": "2025-04-03T08:54:01"
-  },
-  "LOG-00144": {
-    "log_id": "LOG-00144",
-    "user_id": "USR-00023",
-    "action": "approve",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00081",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": "151",
-    "timestamp": "2024-10-21T07:39:00"
-  },
-  "LOG-00145": {
-    "log_id": "LOG-00145",
-    "user_id": "USR-00072",
+  "6": {
+    "log_id": "6",
+    "user_id": "18",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00090",
-    "field_name": "hourly_rate",
-    "old_value": "15",
-    "new_value": null,
-    "timestamp": "2024-12-18T03:26:25"
-  },
-  "LOG-00146": {
-    "log_id": "LOG-00146",
-    "user_id": "USR-00079",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00055",
-    "field_name": null,
-    "old_value": "29",
-    "new_value": null,
-    "timestamp": "2025-05-12T09:06:20"
-  },
-  "LOG-00147": {
-    "log_id": "LOG-00147",
-    "user_id": "USR-00051",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00062",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "108",
-    "timestamp": "2025-07-21T18:15:55"
-  },
-  "LOG-00148": {
-    "log_id": "LOG-00148",
-    "user_id": "USR-00096",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00087",
-    "field_name": null,
-    "old_value": "98",
-    "new_value": null,
-    "timestamp": "2024-12-02T02:24:57"
-  },
-  "LOG-00149": {
-    "log_id": "LOG-00149",
-    "user_id": "USR-00058",
-    "action": "create",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00024",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-06-13T06:12:47"
-  },
-  "LOG-00150": {
-    "log_id": "LOG-00150",
-    "user_id": "USR-00046",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00060",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": "111",
-    "timestamp": "2024-09-01T22:02:59"
-  },
-  "LOG-00151": {
-    "log_id": "LOG-00151",
-    "user_id": "USR-00028",
-    "action": "approve",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00046",
-    "field_name": "overall_rating",
-    "old_value": "43",
-    "new_value": null,
-    "timestamp": "2024-10-12T03:03:56"
-  },
-  "LOG-00152": {
-    "log_id": "LOG-00152",
-    "user_id": "USR-00077",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00077",
-    "field_name": null,
-    "old_value": "4",
-    "new_value": null,
-    "timestamp": "2025-03-11T07:49:49"
-  },
-  "LOG-00153": {
-    "log_id": "LOG-00153",
-    "user_id": "USR-00047",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00184",
-    "field_name": "status",
-    "old_value": "58",
-    "new_value": null,
-    "timestamp": "2025-05-23T13:35:26"
-  },
-  "LOG-00154": {
-    "log_id": "LOG-00154",
-    "user_id": "USR-00051",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00056",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": "176",
-    "timestamp": "2025-03-21T16:14:14"
-  },
-  "LOG-00155": {
-    "log_id": "LOG-00155",
-    "user_id": "USR-00078",
-    "action": "update",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00130",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "156",
-    "timestamp": "2025-06-30T10:59:20"
-  },
-  "LOG-00156": {
-    "log_id": "LOG-00156",
-    "user_id": "USR-00084",
-    "action": "approve",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00018",
-    "field_name": null,
-    "old_value": "26",
-    "new_value": null,
-    "timestamp": "2024-11-28T12:31:30"
-  },
-  "LOG-00157": {
-    "log_id": "LOG-00157",
-    "user_id": "USR-00011",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00177",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-09T20:14:56"
-  },
-  "LOG-00158": {
-    "log_id": "LOG-00158",
-    "user_id": "USR-00048",
-    "action": "create",
-    "reference_type": "employees",
-    "reference_id": "EMP-00010",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "166",
-    "timestamp": "2025-08-07T07:18:55"
-  },
-  "LOG-00159": {
-    "log_id": "LOG-00159",
-    "user_id": "USR-00001",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00232",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-04-20T11:26:00"
-  },
-  "LOG-00160": {
-    "log_id": "LOG-00160",
-    "user_id": "USR-00002",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00019",
-    "field_name": "manager_id",
-    "old_value": "68",
-    "new_value": null,
-    "timestamp": "2024-09-25T02:41:39"
-  },
-  "LOG-00161": {
-    "log_id": "LOG-00161",
-    "user_id": "USR-00041",
-    "action": "reject",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00083",
-    "field_name": null,
-    "old_value": "97",
-    "new_value": null,
-    "timestamp": "2024-10-01T02:43:06"
-  },
-  "LOG-00162": {
-    "log_id": "LOG-00162",
-    "user_id": "USR-00012",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00141",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-18T20:46:09"
-  },
-  "LOG-00163": {
-    "log_id": "LOG-00163",
-    "user_id": "USR-00090",
-    "action": "approve",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00089",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-14T19:53:40"
-  },
-  "LOG-00164": {
-    "log_id": "LOG-00164",
-    "user_id": "USR-00044",
-    "action": "delete",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00159",
-    "field_name": "amount",
-    "old_value": "8",
-    "new_value": "177",
-    "timestamp": "2025-06-14T06:24:40"
-  },
-  "LOG-00165": {
-    "log_id": "LOG-00165",
-    "user_id": "USR-00084",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00018",
-    "field_name": "overall_rating",
-    "old_value": "91",
-    "new_value": null,
-    "timestamp": "2025-02-08T09:44:28"
-  },
-  "LOG-00166": {
-    "log_id": "LOG-00166",
-    "user_id": "USR-00074",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00118",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "151",
-    "timestamp": "2025-01-01T07:28:36"
-  },
-  "LOG-00167": {
-    "log_id": "LOG-00167",
-    "user_id": "USR-00066",
-    "action": "delete",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00036",
-    "field_name": "status",
-    "old_value": "83",
-    "new_value": "179",
-    "timestamp": "2024-12-08T13:07:24"
-  },
-  "LOG-00168": {
-    "log_id": "LOG-00168",
-    "user_id": "USR-00072",
-    "action": "approve",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00057",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "103",
-    "timestamp": "2025-02-16T10:31:26"
-  },
-  "LOG-00169": {
-    "log_id": "LOG-00169",
-    "user_id": "USR-00002",
-    "action": "reject",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00026",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "167",
-    "timestamp": "2025-06-01T19:42:52"
-  },
-  "LOG-00170": {
-    "log_id": "LOG-00170",
-    "user_id": "USR-00064",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00025",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-04T18:14:58"
-  },
-  "LOG-00171": {
-    "log_id": "LOG-00171",
-    "user_id": "USR-00079",
-    "action": "update",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00024",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-02T04:56:54"
-  },
-  "LOG-00172": {
-    "log_id": "LOG-00172",
-    "user_id": "USR-00051",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00068",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-04-11T20:27:26"
-  },
-  "LOG-00173": {
-    "log_id": "LOG-00173",
-    "user_id": "USR-00077",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00071",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "182",
-    "timestamp": "2025-07-31T00:54:52"
-  },
-  "LOG-00174": {
-    "log_id": "LOG-00174",
-    "user_id": "USR-00053",
-    "action": "reject",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00081",
-    "field_name": "amount",
-    "old_value": "59",
-    "new_value": "120",
-    "timestamp": "2025-02-27T20:19:10"
-  },
-  "LOG-00175": {
-    "log_id": "LOG-00175",
-    "user_id": "USR-00021",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00019",
-    "field_name": "none",
-    "old_value": "14",
-    "new_value": "132",
-    "timestamp": "2025-07-18T23:21:43"
-  },
-  "LOG-00176": {
-    "log_id": "LOG-00176",
-    "user_id": "USR-00085",
-    "action": "create",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00125",
-    "field_name": "manager_id",
-    "old_value": "22",
-    "new_value": "145",
-    "timestamp": "2024-12-26T20:33:33"
-  },
-  "LOG-00177": {
-    "log_id": "LOG-00177",
-    "user_id": "USR-00045",
-    "action": "read",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00070",
-    "field_name": "amount",
-    "old_value": "96",
-    "new_value": null,
-    "timestamp": "2025-02-08T22:57:18"
-  },
-  "LOG-00178": {
-    "log_id": "LOG-00178",
-    "user_id": "USR-00017",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00165",
-    "field_name": null,
-    "old_value": "45",
-    "new_value": null,
-    "timestamp": "2025-06-20T21:43:59"
-  },
-  "LOG-00179": {
-    "log_id": "LOG-00179",
-    "user_id": "USR-00038",
-    "action": "create",
-    "reference_type": "employees",
-    "reference_id": "EMP-00054",
-    "field_name": "none",
-    "old_value": "65",
-    "new_value": null,
-    "timestamp": "2025-08-19T01:12:38"
-  },
-  "LOG-00180": {
-    "log_id": "LOG-00180",
-    "user_id": "USR-00026",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00038",
-    "field_name": null,
-    "old_value": "86",
-    "new_value": "131",
-    "timestamp": "2024-09-16T14:23:56"
-  },
-  "LOG-00181": {
-    "log_id": "LOG-00181",
-    "user_id": "USR-00017",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00015",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-12-04T15:57:25"
-  },
-  "LOG-00182": {
-    "log_id": "LOG-00182",
-    "user_id": "USR-00053",
-    "action": "approve",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00014",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-27T12:23:52"
-  },
-  "LOG-00183": {
-    "log_id": "LOG-00183",
-    "user_id": "USR-00020",
-    "action": "delete",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00079",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-08T19:22:52"
-  },
-  "LOG-00184": {
-    "log_id": "LOG-00184",
-    "user_id": "USR-00032",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00071",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-05-29T18:41:58"
-  },
-  "LOG-00185": {
-    "log_id": "LOG-00185",
-    "user_id": "USR-00008",
-    "action": "reject",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00046",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "141",
-    "timestamp": "2025-01-08T06:47:53"
-  },
-  "LOG-00186": {
-    "log_id": "LOG-00186",
-    "user_id": "USR-00078",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00053",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-24T17:55:13"
-  },
-  "LOG-00187": {
-    "log_id": "LOG-00187",
-    "user_id": "USR-00086",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00044",
-    "field_name": "none",
-    "old_value": "72",
-    "new_value": null,
-    "timestamp": "2025-05-22T14:36:56"
-  },
-  "LOG-00188": {
-    "log_id": "LOG-00188",
-    "user_id": "USR-00059",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00085",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-12T14:13:25"
-  },
-  "LOG-00189": {
-    "log_id": "LOG-00189",
-    "user_id": "USR-00045",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00134",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-22T00:49:47"
-  },
-  "LOG-00190": {
-    "log_id": "LOG-00190",
-    "user_id": "USR-00020",
-    "action": "approve",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00042",
-    "field_name": "amount",
-    "old_value": "43",
-    "new_value": null,
-    "timestamp": "2024-09-14T23:28:34"
-  },
-  "LOG-00191": {
-    "log_id": "LOG-00191",
-    "user_id": "USR-00017",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00009",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-06-13T22:08:33"
-  },
-  "LOG-00192": {
-    "log_id": "LOG-00192",
-    "user_id": "USR-00078",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00037",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": "116",
-    "timestamp": "2025-06-25T11:47:17"
-  },
-  "LOG-00193": {
-    "log_id": "LOG-00193",
-    "user_id": "USR-00094",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00069",
-    "field_name": null,
-    "old_value": "11",
-    "new_value": null,
-    "timestamp": "2024-12-05T16:06:11"
-  },
-  "LOG-00194": {
-    "log_id": "LOG-00194",
-    "user_id": "USR-00086",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00094",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "167",
-    "timestamp": "2024-09-29T19:23:38"
-  },
-  "LOG-00195": {
-    "log_id": "LOG-00195",
-    "user_id": "USR-00024",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00096",
-    "field_name": "amount",
-    "old_value": "8",
-    "new_value": null,
-    "timestamp": "2025-01-17T01:40:58"
-  },
-  "LOG-00196": {
-    "log_id": "LOG-00196",
-    "user_id": "USR-00018",
-    "action": "read",
-    "reference_type": "employees",
-    "reference_id": "EMP-00082",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "171",
-    "timestamp": "2025-06-08T22:02:34"
-  },
-  "LOG-00197": {
-    "log_id": "LOG-00197",
-    "user_id": "USR-00039",
-    "action": "update",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00003",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": "136",
-    "timestamp": "2025-05-24T20:06:52"
-  },
-  "LOG-00198": {
-    "log_id": "LOG-00198",
-    "user_id": "USR-00072",
-    "action": "approve",
-    "reference_type": "employees",
-    "reference_id": "EMP-00033",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-06T19:31:36"
-  },
-  "LOG-00199": {
-    "log_id": "LOG-00199",
-    "user_id": "USR-00046",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00038",
-    "field_name": "hourly_rate",
-    "old_value": "86",
-    "new_value": null,
-    "timestamp": "2025-08-22T19:50:11"
-  },
-  "LOG-00200": {
-    "log_id": "LOG-00200",
-    "user_id": "USR-00035",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00066",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "144",
-    "timestamp": "2024-11-09T18:03:52"
-  },
-  "LOG-00201": {
-    "log_id": "LOG-00201",
-    "user_id": "USR-00064",
-    "action": "delete",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00035",
-    "field_name": "status",
-    "old_value": "8",
-    "new_value": null,
-    "timestamp": "2025-01-15T16:59:06"
-  },
-  "LOG-00202": {
-    "log_id": "LOG-00202",
-    "user_id": "USR-00013",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00100",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "135",
-    "timestamp": "2025-01-06T13:02:10"
-  },
-  "LOG-00203": {
-    "log_id": "LOG-00203",
-    "user_id": "USR-00015",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00129",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-24T00:01:58"
-  },
-  "LOG-00204": {
-    "log_id": "LOG-00204",
-    "user_id": "USR-00090",
-    "action": "approve",
-    "reference_type": "employees",
-    "reference_id": "EMP-00046",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "105",
-    "timestamp": "2024-09-10T03:58:22"
-  },
-  "LOG-00205": {
-    "log_id": "LOG-00205",
-    "user_id": "USR-00011",
-    "action": "reject",
-    "reference_type": "employees",
-    "reference_id": "EMP-00001",
-    "field_name": "manager_id",
-    "old_value": "74",
-    "new_value": null,
-    "timestamp": "2024-10-28T01:23:11"
-  },
-  "LOG-00206": {
-    "log_id": "LOG-00206",
-    "user_id": "USR-00017",
-    "action": "read",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00044",
-    "field_name": "amount",
-    "old_value": "93",
-    "new_value": null,
-    "timestamp": "2025-08-21T10:35:40"
-  },
-  "LOG-00207": {
-    "log_id": "LOG-00207",
-    "user_id": "USR-00049",
-    "action": "read",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00046",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": "162",
-    "timestamp": "2025-01-26T05:54:36"
-  },
-  "LOG-00208": {
-    "log_id": "LOG-00208",
-    "user_id": "USR-00089",
-    "action": "create",
-    "reference_type": "employees",
-    "reference_id": "EMP-00089",
-    "field_name": "overall_rating",
-    "old_value": "12",
-    "new_value": "128",
-    "timestamp": "2024-09-22T20:24:10"
-  },
-  "LOG-00209": {
-    "log_id": "LOG-00209",
-    "user_id": "USR-00084",
-    "action": "approve",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00024",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-10T13:10:51"
-  },
-  "LOG-00210": {
-    "log_id": "LOG-00210",
-    "user_id": "USR-00084",
-    "action": "reject",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00006",
-    "field_name": "overall_rating",
-    "old_value": "63",
-    "new_value": "114",
-    "timestamp": "2024-09-17T20:44:32"
-  },
-  "LOG-00211": {
-    "log_id": "LOG-00211",
-    "user_id": "USR-00042",
-    "action": "delete",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00022",
-    "field_name": "status",
-    "old_value": "78",
-    "new_value": null,
-    "timestamp": "2025-05-27T16:34:23"
-  },
-  "LOG-00212": {
-    "log_id": "LOG-00212",
-    "user_id": "USR-00056",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00004",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-19T05:24:38"
-  },
-  "LOG-00213": {
-    "log_id": "LOG-00213",
-    "user_id": "USR-00087",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00092",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-04-03T06:21:17"
-  },
-  "LOG-00214": {
-    "log_id": "LOG-00214",
-    "user_id": "USR-00058",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00005",
-    "field_name": "hourly_rate",
-    "old_value": "8",
-    "new_value": "161",
-    "timestamp": "2024-12-17T16:22:13"
-  },
-  "LOG-00215": {
-    "log_id": "LOG-00215",
-    "user_id": "USR-00072",
-    "action": "approve",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00015",
-    "field_name": "amount",
-    "old_value": "65",
-    "new_value": null,
-    "timestamp": "2025-05-24T15:06:44"
-  },
-  "LOG-00216": {
-    "log_id": "LOG-00216",
-    "user_id": "USR-00023",
-    "action": "update",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00071",
-    "field_name": "hourly_rate",
-    "old_value": "46",
-    "new_value": null,
-    "timestamp": "2025-08-25T01:45:46"
-  },
-  "LOG-00217": {
-    "log_id": "LOG-00217",
-    "user_id": "USR-00086",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00016",
-    "field_name": null,
-    "old_value": "98",
-    "new_value": "191",
-    "timestamp": "2025-01-10T18:42:32"
-  },
-  "LOG-00218": {
-    "log_id": "LOG-00218",
-    "user_id": "USR-00017",
-    "action": "delete",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00138",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": "123",
-    "timestamp": "2025-01-22T13:12:27"
-  },
-  "LOG-00219": {
-    "log_id": "LOG-00219",
-    "user_id": "USR-00070",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00152",
-    "field_name": null,
-    "old_value": "58",
-    "new_value": "176",
-    "timestamp": "2025-04-01T06:33:21"
-  },
-  "LOG-00220": {
-    "log_id": "LOG-00220",
-    "user_id": "USR-00004",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00073",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-01-15T19:00:09"
-  },
-  "LOG-00221": {
-    "log_id": "LOG-00221",
-    "user_id": "USR-00042",
-    "action": "reject",
-    "reference_type": "employees",
-    "reference_id": "EMP-00029",
-    "field_name": null,
-    "old_value": "47",
-    "new_value": null,
-    "timestamp": "2024-09-24T11:42:18"
-  },
-  "LOG-00222": {
-    "log_id": "LOG-00222",
-    "user_id": "USR-00032",
-    "action": "update",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00135",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-05-02T19:19:02"
-  },
-  "LOG-00223": {
-    "log_id": "LOG-00223",
-    "user_id": "USR-00010",
-    "action": "create",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00075",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "196",
-    "timestamp": "2024-10-19T09:29:08"
-  },
-  "LOG-00224": {
-    "log_id": "LOG-00224",
-    "user_id": "USR-00094",
-    "action": "read",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00010",
-    "field_name": "amount",
-    "old_value": "82",
-    "new_value": null,
-    "timestamp": "2024-12-27T06:13:24"
-  },
-  "LOG-00225": {
-    "log_id": "LOG-00225",
-    "user_id": "USR-00040",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00048",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-09-29T00:35:51"
-  },
-  "LOG-00226": {
-    "log_id": "LOG-00226",
-    "user_id": "USR-00011",
-    "action": "read",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00035",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-08-19T12:41:05"
-  },
-  "LOG-00227": {
-    "log_id": "LOG-00227",
-    "user_id": "USR-00085",
-    "action": "read",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00114",
-    "field_name": "overall_rating",
-    "old_value": null,
-    "new_value": "146",
-    "timestamp": "2025-07-22T06:17:19"
-  },
-  "LOG-00228": {
-    "log_id": "LOG-00228",
-    "user_id": "USR-00081",
-    "action": "read",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00015",
-    "field_name": "overall_rating",
-    "old_value": "51",
-    "new_value": "132",
-    "timestamp": "2024-12-04T22:21:25"
-  },
-  "LOG-00229": {
-    "log_id": "LOG-00229",
-    "user_id": "USR-00080",
-    "action": "update",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00060",
-    "field_name": "amount",
-    "old_value": "66",
-    "new_value": null,
-    "timestamp": "2024-10-17T15:05:08"
-  },
-  "LOG-00230": {
-    "log_id": "LOG-00230",
-    "user_id": "USR-00078",
-    "action": "create",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00005",
-    "field_name": "hourly_rate",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-03-14T12:59:18"
-  },
-  "LOG-00231": {
-    "log_id": "LOG-00231",
-    "user_id": "USR-00062",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00101",
-    "field_name": null,
-    "old_value": "65",
-    "new_value": "118",
-    "timestamp": "2025-01-07T07:35:57"
-  },
-  "LOG-00232": {
-    "log_id": "LOG-00232",
-    "user_id": "USR-00039",
-    "action": "approve",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00187",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-05-22T15:41:00"
-  },
-  "LOG-00233": {
-    "log_id": "LOG-00233",
-    "user_id": "USR-00067",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00072",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-06-07T05:24:56"
-  },
-  "LOG-00234": {
-    "log_id": "LOG-00234",
-    "user_id": "USR-00032",
-    "action": "delete",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00115",
-    "field_name": "manager_id",
-    "old_value": null,
-    "new_value": "111",
-    "timestamp": "2025-01-16T00:08:27"
-  },
-  "LOG-00235": {
-    "log_id": "LOG-00235",
-    "user_id": "USR-00040",
-    "action": "create",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00079",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "173",
-    "timestamp": "2025-03-12T23:13:48"
-  },
-  "LOG-00236": {
-    "log_id": "LOG-00236",
-    "user_id": "USR-00023",
-    "action": "read",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00052",
-    "field_name": "manager_id",
-    "old_value": "68",
-    "new_value": null,
-    "timestamp": "2024-09-27T23:28:47"
-  },
-  "LOG-00237": {
-    "log_id": "LOG-00237",
-    "user_id": "USR-00040",
-    "action": "create",
-    "reference_type": "employees",
-    "reference_id": "EMP-00045",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "170",
-    "timestamp": "2025-02-08T14:23:13"
-  },
-  "LOG-00238": {
-    "log_id": "LOG-00238",
-    "user_id": "USR-00052",
-    "action": "delete",
-    "reference_type": "employees",
-    "reference_id": "EMP-00084",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "119",
-    "timestamp": "2024-11-11T03:37:03"
-  },
-  "LOG-00239": {
-    "log_id": "LOG-00239",
-    "user_id": "USR-00076",
-    "action": "read",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00023",
-    "field_name": "overall_rating",
-    "old_value": "31",
-    "new_value": null,
-    "timestamp": "2025-04-25T22:46:29"
-  },
-  "LOG-00240": {
-    "log_id": "LOG-00240",
-    "user_id": "USR-00032",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00080",
-    "field_name": null,
-    "old_value": "54",
-    "new_value": null,
-    "timestamp": "2024-11-15T07:56:53"
-  },
-  "LOG-00241": {
-    "log_id": "LOG-00241",
-    "user_id": "USR-00061",
-    "action": "create",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00034",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-17T05:13:29"
-  },
-  "LOG-00242": {
-    "log_id": "LOG-00242",
-    "user_id": "USR-00066",
-    "action": "delete",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00018",
-    "field_name": "status",
-    "old_value": "34",
-    "new_value": "160",
-    "timestamp": "2025-08-09T19:56:12"
-  },
-  "LOG-00243": {
-    "log_id": "LOG-00243",
-    "user_id": "USR-00053",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00014",
-    "field_name": null,
-    "old_value": null,
-    "new_value": "162",
-    "timestamp": "2025-02-09T08:22:33"
-  },
-  "LOG-00244": {
-    "log_id": "LOG-00244",
-    "user_id": "USR-00097",
-    "action": "read",
-    "reference_type": "payroll_records",
-    "reference_id": "PYR-00051",
-    "field_name": null,
-    "old_value": "94",
-    "new_value": null,
-    "timestamp": "2025-01-10T20:29:10"
-  },
-  "LOG-00245": {
-    "log_id": "LOG-00245",
-    "user_id": "USR-00016",
-    "action": "reject",
-    "reference_type": "job_applications",
-    "reference_id": "APP-00053",
-    "field_name": "amount",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-02-03T22:57:39"
-  },
-  "LOG-00246": {
-    "log_id": "LOG-00246",
-    "user_id": "USR-00035",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00071",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-11-05T06:09:25"
-  },
-  "LOG-00247": {
-    "log_id": "LOG-00247",
-    "user_id": "USR-00022",
-    "action": "create",
-    "reference_type": "leave_requests",
-    "reference_id": "LVR-00054",
-    "field_name": "none",
-    "old_value": "68",
-    "new_value": "117",
-    "timestamp": "2025-05-23T00:01:58"
-  },
-  "LOG-00248": {
-    "log_id": "LOG-00248",
-    "user_id": "USR-00043",
-    "action": "reject",
-    "reference_type": "employee_training",
-    "reference_id": "ETR-00241",
-    "field_name": "status",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-07-07T22:19:16"
-  },
-  "LOG-00249": {
-    "log_id": "LOG-00249",
-    "user_id": "USR-00019",
-    "action": "reject",
-    "reference_type": "expense_reimbursements",
-    "reference_id": "RMB-00073",
-    "field_name": null,
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2025-04-30T22:48:55"
-  },
-  "LOG-00250": {
-    "log_id": "LOG-00250",
-    "user_id": "USR-00024",
+    "reference_id": "29",
+    "timestamp": "2025-04-21 13:01:04.744794"
+  },
+  "7": {
+    "log_id": "7",
+    "user_id": "145",
     "action": "update",
     "reference_type": "employees",
-    "reference_id": "EMP-00018",
-    "field_name": "none",
-    "old_value": null,
-    "new_value": null,
-    "timestamp": "2024-10-04T08:02:56"
+    "reference_id": "53",
+    "timestamp": "2025-08-25 07:29:40.589529"
+  },
+  "8": {
+    "log_id": "8",
+    "user_id": "131",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "57",
+    "timestamp": "2025-05-20 02:34:55.403391"
+  },
+  "9": {
+    "log_id": "9",
+    "user_id": "109",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "23",
+    "timestamp": "2025-05-30 22:48:48.933525"
+  },
+  "10": {
+    "log_id": "10",
+    "user_id": "84",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "7",
+    "timestamp": "2025-03-08 11:40:13.113303"
+  },
+  "11": {
+    "log_id": "11",
+    "user_id": "150",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-04-27 02:44:36.298711"
+  },
+  "12": {
+    "log_id": "12",
+    "user_id": "3",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "12",
+    "timestamp": "2025-08-01 07:52:10.849402"
+  },
+  "13": {
+    "log_id": "13",
+    "user_id": "38",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "73",
+    "timestamp": "2025-09-01 17:16:42.577523"
+  },
+  "14": {
+    "log_id": "14",
+    "user_id": "75",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "4",
+    "timestamp": "2025-08-27 09:22:23.695936"
+  },
+  "15": {
+    "log_id": "15",
+    "user_id": "146",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "32",
+    "timestamp": "2025-03-29 23:14:02.016776"
+  },
+  "16": {
+    "log_id": "16",
+    "user_id": "143",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "123",
+    "timestamp": "2025-08-01 03:40:49.346565"
+  },
+  "17": {
+    "log_id": "17",
+    "user_id": "119",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "23",
+    "timestamp": "2025-01-17 17:30:53.186421"
+  },
+  "18": {
+    "log_id": "18",
+    "user_id": "6",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "116",
+    "timestamp": "2025-07-02 00:04:12.659219"
+  },
+  "19": {
+    "log_id": "19",
+    "user_id": "103",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "113",
+    "timestamp": "2025-02-01 23:47:53.754686"
+  },
+  "20": {
+    "log_id": "20",
+    "user_id": "43",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "127",
+    "timestamp": "2025-05-26 01:32:59.450601"
+  },
+  "21": {
+    "log_id": "21",
+    "user_id": "37",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "2",
+    "timestamp": "2025-02-17 21:52:31.096855"
+  },
+  "22": {
+    "log_id": "22",
+    "user_id": "107",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "123",
+    "timestamp": "2025-03-26 06:23:48.416039"
+  },
+  "23": {
+    "log_id": "23",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "123",
+    "timestamp": "2025-03-28 20:56:36.572210"
+  },
+  "24": {
+    "log_id": "24",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "78",
+    "timestamp": "2025-02-20 06:54:52.451682"
+  },
+  "25": {
+    "log_id": "25",
+    "user_id": "21",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "140",
+    "timestamp": "2025-01-16 02:01:33.148438"
+  },
+  "26": {
+    "log_id": "26",
+    "user_id": "150",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "12",
+    "timestamp": "2025-08-25 10:03:05.494102"
+  },
+  "27": {
+    "log_id": "27",
+    "user_id": "79",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "105",
+    "timestamp": "2025-08-22 08:31:41.988326"
+  },
+  "28": {
+    "log_id": "28",
+    "user_id": "73",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "88",
+    "timestamp": "2025-08-21 20:32:29.026967"
+  },
+  "29": {
+    "log_id": "29",
+    "user_id": "1",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "72",
+    "timestamp": "2025-04-13 19:22:56.927817"
+  },
+  "30": {
+    "log_id": "30",
+    "user_id": "63",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-01-06 18:57:06.775507"
+  },
+  "31": {
+    "log_id": "31",
+    "user_id": "80",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "37",
+    "timestamp": "2025-06-10 13:20:43.996464"
+  },
+  "32": {
+    "log_id": "32",
+    "user_id": "112",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "110",
+    "timestamp": "2025-07-19 16:20:27.990010"
+  },
+  "33": {
+    "log_id": "33",
+    "user_id": "20",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "8",
+    "timestamp": "2025-01-12 14:25:52.969211"
+  },
+  "34": {
+    "log_id": "34",
+    "user_id": "39",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "48",
+    "timestamp": "2025-01-20 11:04:56.946507"
+  },
+  "35": {
+    "log_id": "35",
+    "user_id": "38",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "118",
+    "timestamp": "2025-01-24 15:17:41.566334"
+  },
+  "36": {
+    "log_id": "36",
+    "user_id": "59",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "148",
+    "timestamp": "2025-05-10 19:51:56.908844"
+  },
+  "37": {
+    "log_id": "37",
+    "user_id": "58",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "35",
+    "timestamp": "2025-03-04 18:34:01.521295"
+  },
+  "38": {
+    "log_id": "38",
+    "user_id": "128",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-07-04 01:25:09.202348"
+  },
+  "39": {
+    "log_id": "39",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "148",
+    "timestamp": "2025-02-09 02:55:21.470052"
+  },
+  "40": {
+    "log_id": "40",
+    "user_id": "145",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "143",
+    "timestamp": "2025-02-12 14:17:07.054857"
+  },
+  "41": {
+    "log_id": "41",
+    "user_id": "112",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "4",
+    "timestamp": "2025-07-20 23:37:43.079224"
+  },
+  "42": {
+    "log_id": "42",
+    "user_id": "66",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "22",
+    "timestamp": "2025-05-11 12:22:05.368194"
+  },
+  "43": {
+    "log_id": "43",
+    "user_id": "29",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "41",
+    "timestamp": "2025-04-13 14:57:17.480597"
+  },
+  "44": {
+    "log_id": "44",
+    "user_id": "109",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "49",
+    "timestamp": "2025-02-27 17:36:50.455291"
+  },
+  "45": {
+    "log_id": "45",
+    "user_id": "107",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "102",
+    "timestamp": "2025-03-13 15:01:01.682525"
+  },
+  "46": {
+    "log_id": "46",
+    "user_id": "63",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "143",
+    "timestamp": "2025-01-20 13:19:57.534761"
+  },
+  "47": {
+    "log_id": "47",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "46",
+    "timestamp": "2025-05-13 01:53:35.990453"
+  },
+  "48": {
+    "log_id": "48",
+    "user_id": "143",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "15",
+    "timestamp": "2025-02-21 08:54:58.007177"
+  },
+  "49": {
+    "log_id": "49",
+    "user_id": "69",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "53",
+    "timestamp": "2025-05-18 14:45:54.239357"
+  },
+  "50": {
+    "log_id": "50",
+    "user_id": "36",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "89",
+    "timestamp": "2025-02-01 06:36:18.557663"
+  },
+  "51": {
+    "log_id": "51",
+    "user_id": "109",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-02-10 09:19:43.924098"
+  },
+  "52": {
+    "log_id": "52",
+    "user_id": "97",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "55",
+    "timestamp": "2025-05-09 02:00:32.517763"
+  },
+  "53": {
+    "log_id": "53",
+    "user_id": "13",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "76",
+    "timestamp": "2025-08-15 17:38:25.146661"
+  },
+  "54": {
+    "log_id": "54",
+    "user_id": "63",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "78",
+    "timestamp": "2025-07-26 14:49:28.647076"
+  },
+  "55": {
+    "log_id": "55",
+    "user_id": "2",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "37",
+    "timestamp": "2025-02-23 05:33:26.820388"
+  },
+  "56": {
+    "log_id": "56",
+    "user_id": "24",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "77",
+    "timestamp": "2025-07-05 18:19:03.187658"
+  },
+  "57": {
+    "log_id": "57",
+    "user_id": "16",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "131",
+    "timestamp": "2025-03-08 07:31:55.935824"
+  },
+  "58": {
+    "log_id": "58",
+    "user_id": "62",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-02-14 19:53:28.061367"
+  },
+  "59": {
+    "log_id": "59",
+    "user_id": "103",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "1",
+    "timestamp": "2025-06-10 08:30:51.710516"
+  },
+  "60": {
+    "log_id": "60",
+    "user_id": "136",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "70",
+    "timestamp": "2025-06-22 04:04:27.564080"
+  },
+  "61": {
+    "log_id": "61",
+    "user_id": "95",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "136",
+    "timestamp": "2025-07-02 13:37:17.317591"
+  },
+  "62": {
+    "log_id": "62",
+    "user_id": "122",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "64",
+    "timestamp": "2025-02-09 09:06:07.479963"
+  },
+  "63": {
+    "log_id": "63",
+    "user_id": "65",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "23",
+    "timestamp": "2025-07-31 22:54:57.880970"
+  },
+  "64": {
+    "log_id": "64",
+    "user_id": "8",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "27",
+    "timestamp": "2025-05-06 10:13:00.824933"
+  },
+  "65": {
+    "log_id": "65",
+    "user_id": "146",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "113",
+    "timestamp": "2025-06-11 21:49:51.302028"
+  },
+  "66": {
+    "log_id": "66",
+    "user_id": "11",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "74",
+    "timestamp": "2025-01-18 21:19:35.505073"
+  },
+  "67": {
+    "log_id": "67",
+    "user_id": "126",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "109",
+    "timestamp": "2025-05-13 16:01:38.157811"
+  },
+  "68": {
+    "log_id": "68",
+    "user_id": "140",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "116",
+    "timestamp": "2025-04-07 17:48:48.838774"
+  },
+  "69": {
+    "log_id": "69",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "106",
+    "timestamp": "2025-03-24 10:57:38.429986"
+  },
+  "70": {
+    "log_id": "70",
+    "user_id": "22",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "59",
+    "timestamp": "2025-06-19 03:33:28.597910"
+  },
+  "71": {
+    "log_id": "71",
+    "user_id": "107",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "119",
+    "timestamp": "2025-01-30 06:59:48.684983"
+  },
+  "72": {
+    "log_id": "72",
+    "user_id": "78",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "70",
+    "timestamp": "2025-08-26 12:22:42.248837"
+  },
+  "73": {
+    "log_id": "73",
+    "user_id": "54",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "85",
+    "timestamp": "2025-03-23 21:06:08.517139"
+  },
+  "74": {
+    "log_id": "74",
+    "user_id": "25",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "126",
+    "timestamp": "2025-02-21 16:24:07.682831"
+  },
+  "75": {
+    "log_id": "75",
+    "user_id": "74",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-08-11 05:29:49.387304"
+  },
+  "76": {
+    "log_id": "76",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "25",
+    "timestamp": "2025-01-06 10:36:44.750315"
+  },
+  "77": {
+    "log_id": "77",
+    "user_id": "13",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "100",
+    "timestamp": "2025-02-15 12:04:23.630656"
+  },
+  "78": {
+    "log_id": "78",
+    "user_id": "34",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "150",
+    "timestamp": "2025-03-01 06:10:31.584122"
+  },
+  "79": {
+    "log_id": "79",
+    "user_id": "103",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "109",
+    "timestamp": "2025-04-15 22:51:49.104022"
+  },
+  "80": {
+    "log_id": "80",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "35",
+    "timestamp": "2025-06-17 23:53:42.932208"
+  },
+  "81": {
+    "log_id": "81",
+    "user_id": "135",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "111",
+    "timestamp": "2025-03-17 13:26:36.993752"
+  },
+  "82": {
+    "log_id": "82",
+    "user_id": "136",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "54",
+    "timestamp": "2025-02-02 05:18:57.731899"
+  },
+  "83": {
+    "log_id": "83",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "138",
+    "timestamp": "2025-08-09 23:47:59.522719"
+  },
+  "84": {
+    "log_id": "84",
+    "user_id": "145",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "46",
+    "timestamp": "2025-05-15 08:22:53.295121"
+  },
+  "85": {
+    "log_id": "85",
+    "user_id": "138",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "106",
+    "timestamp": "2025-04-16 07:31:08.759172"
+  },
+  "86": {
+    "log_id": "86",
+    "user_id": "33",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "109",
+    "timestamp": "2025-01-05 08:56:24.064708"
+  },
+  "87": {
+    "log_id": "87",
+    "user_id": "110",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "125",
+    "timestamp": "2025-07-30 05:53:48.378729"
+  },
+  "88": {
+    "log_id": "88",
+    "user_id": "46",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "100",
+    "timestamp": "2025-07-14 22:07:51.898024"
+  },
+  "89": {
+    "log_id": "89",
+    "user_id": "120",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-05-11 08:13:03.444313"
+  },
+  "90": {
+    "log_id": "90",
+    "user_id": "81",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "25",
+    "timestamp": "2025-01-07 11:59:17.988284"
+  },
+  "91": {
+    "log_id": "91",
+    "user_id": "69",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "21",
+    "timestamp": "2025-02-11 07:03:34.258905"
+  },
+  "92": {
+    "log_id": "92",
+    "user_id": "11",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "45",
+    "timestamp": "2025-01-01 07:59:49.544101"
+  },
+  "93": {
+    "log_id": "93",
+    "user_id": "116",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "121",
+    "timestamp": "2025-02-20 16:20:26.795993"
+  },
+  "94": {
+    "log_id": "94",
+    "user_id": "91",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "57",
+    "timestamp": "2025-02-05 20:33:57.392999"
+  },
+  "95": {
+    "log_id": "95",
+    "user_id": "42",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "104",
+    "timestamp": "2025-01-22 02:45:03.822410"
+  },
+  "96": {
+    "log_id": "96",
+    "user_id": "68",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "143",
+    "timestamp": "2025-02-18 15:13:22.036112"
+  },
+  "97": {
+    "log_id": "97",
+    "user_id": "105",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "24",
+    "timestamp": "2025-05-30 13:17:06.514668"
+  },
+  "98": {
+    "log_id": "98",
+    "user_id": "46",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "46",
+    "timestamp": "2025-02-01 23:04:57.717938"
+  },
+  "99": {
+    "log_id": "99",
+    "user_id": "111",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "115",
+    "timestamp": "2025-06-17 04:24:09.232814"
+  },
+  "100": {
+    "log_id": "100",
+    "user_id": "55",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "106",
+    "timestamp": "2025-08-29 14:20:31.558613"
+  },
+  "101": {
+    "log_id": "101",
+    "user_id": "65",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "97",
+    "timestamp": "2025-06-21 23:54:12.876968"
+  },
+  "102": {
+    "log_id": "102",
+    "user_id": "123",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "72",
+    "timestamp": "2025-05-06 18:45:52.397475"
+  },
+  "103": {
+    "log_id": "103",
+    "user_id": "94",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "94",
+    "timestamp": "2025-06-13 23:59:11.063165"
+  },
+  "104": {
+    "log_id": "104",
+    "user_id": "90",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-05-25 21:23:23.324112"
+  },
+  "105": {
+    "log_id": "105",
+    "user_id": "61",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "144",
+    "timestamp": "2025-07-21 11:26:11.910391"
+  },
+  "106": {
+    "log_id": "106",
+    "user_id": "38",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "85",
+    "timestamp": "2025-01-05 05:19:42.661281"
+  },
+  "107": {
+    "log_id": "107",
+    "user_id": "27",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "129",
+    "timestamp": "2025-09-02 07:29:25.821805"
+  },
+  "108": {
+    "log_id": "108",
+    "user_id": "32",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "36",
+    "timestamp": "2025-03-03 05:39:35.346876"
+  },
+  "109": {
+    "log_id": "109",
+    "user_id": "11",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "17",
+    "timestamp": "2025-08-09 10:25:16.914519"
+  },
+  "110": {
+    "log_id": "110",
+    "user_id": "128",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "112",
+    "timestamp": "2025-02-22 09:55:39.787636"
+  },
+  "111": {
+    "log_id": "111",
+    "user_id": "50",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "114",
+    "timestamp": "2025-01-21 17:31:44.514730"
+  },
+  "112": {
+    "log_id": "112",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "62",
+    "timestamp": "2025-08-19 07:39:08.458303"
+  },
+  "113": {
+    "log_id": "113",
+    "user_id": "46",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "118",
+    "timestamp": "2025-03-29 13:05:39.707899"
+  },
+  "114": {
+    "log_id": "114",
+    "user_id": "147",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "147",
+    "timestamp": "2025-04-04 13:41:49.283795"
+  },
+  "115": {
+    "log_id": "115",
+    "user_id": "114",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "84",
+    "timestamp": "2025-05-25 02:58:31.136661"
+  },
+  "116": {
+    "log_id": "116",
+    "user_id": "16",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "23",
+    "timestamp": "2025-04-13 03:06:52.918037"
+  },
+  "117": {
+    "log_id": "117",
+    "user_id": "108",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "44",
+    "timestamp": "2025-03-29 16:54:35.038552"
+  },
+  "118": {
+    "log_id": "118",
+    "user_id": "99",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "74",
+    "timestamp": "2025-02-23 02:46:02.576944"
+  },
+  "119": {
+    "log_id": "119",
+    "user_id": "51",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "44",
+    "timestamp": "2025-01-03 06:33:52.323198"
+  },
+  "120": {
+    "log_id": "120",
+    "user_id": "30",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "66",
+    "timestamp": "2025-05-27 00:28:13.354296"
+  },
+  "121": {
+    "log_id": "121",
+    "user_id": "12",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "21",
+    "timestamp": "2025-01-19 20:56:33.823476"
+  },
+  "122": {
+    "log_id": "122",
+    "user_id": "111",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "10",
+    "timestamp": "2025-09-02 12:39:54.006098"
+  },
+  "123": {
+    "log_id": "123",
+    "user_id": "9",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "28",
+    "timestamp": "2025-02-17 13:34:22.550496"
+  },
+  "124": {
+    "log_id": "124",
+    "user_id": "140",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "29",
+    "timestamp": "2025-07-17 21:01:56.698962"
+  },
+  "125": {
+    "log_id": "125",
+    "user_id": "124",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "138",
+    "timestamp": "2025-05-17 01:02:05.192451"
+  },
+  "126": {
+    "log_id": "126",
+    "user_id": "61",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "97",
+    "timestamp": "2025-08-13 21:58:03.898195"
+  },
+  "127": {
+    "log_id": "127",
+    "user_id": "134",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "28",
+    "timestamp": "2025-08-04 00:31:25.920245"
+  },
+  "128": {
+    "log_id": "128",
+    "user_id": "24",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "10",
+    "timestamp": "2025-01-19 21:23:47.419760"
+  },
+  "129": {
+    "log_id": "129",
+    "user_id": "2",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "97",
+    "timestamp": "2025-04-29 11:44:09.745672"
+  },
+  "130": {
+    "log_id": "130",
+    "user_id": "43",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "92",
+    "timestamp": "2025-03-21 13:09:13.219643"
+  },
+  "131": {
+    "log_id": "131",
+    "user_id": "147",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "23",
+    "timestamp": "2025-07-01 05:45:02.716890"
+  },
+  "132": {
+    "log_id": "132",
+    "user_id": "148",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-07-16 05:41:40.603435"
+  },
+  "133": {
+    "log_id": "133",
+    "user_id": "52",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "39",
+    "timestamp": "2025-06-14 19:19:18.557175"
+  },
+  "134": {
+    "log_id": "134",
+    "user_id": "50",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "18",
+    "timestamp": "2025-04-02 12:29:51.122704"
+  },
+  "135": {
+    "log_id": "135",
+    "user_id": "35",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "78",
+    "timestamp": "2025-05-30 09:15:18.504815"
+  },
+  "136": {
+    "log_id": "136",
+    "user_id": "65",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "135",
+    "timestamp": "2025-05-09 22:38:02.698913"
+  },
+  "137": {
+    "log_id": "137",
+    "user_id": "105",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "60",
+    "timestamp": "2025-08-25 15:46:47.078983"
+  },
+  "138": {
+    "log_id": "138",
+    "user_id": "124",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "134",
+    "timestamp": "2025-05-30 04:28:35.477099"
+  },
+  "139": {
+    "log_id": "139",
+    "user_id": "86",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "103",
+    "timestamp": "2025-02-25 14:29:34.237785"
+  },
+  "140": {
+    "log_id": "140",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "87",
+    "timestamp": "2025-07-25 05:04:27.233353"
+  },
+  "141": {
+    "log_id": "141",
+    "user_id": "137",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "129",
+    "timestamp": "2025-06-23 08:40:11.969071"
+  },
+  "142": {
+    "log_id": "142",
+    "user_id": "82",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-01-30 03:20:31.746220"
+  },
+  "143": {
+    "log_id": "143",
+    "user_id": "37",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-04-16 19:58:37.730848"
+  },
+  "144": {
+    "log_id": "144",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "98",
+    "timestamp": "2025-08-08 20:31:39.826521"
+  },
+  "145": {
+    "log_id": "145",
+    "user_id": "114",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-07-16 15:45:00.655594"
+  },
+  "146": {
+    "log_id": "146",
+    "user_id": "35",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "71",
+    "timestamp": "2025-05-09 06:12:27.024152"
+  },
+  "147": {
+    "log_id": "147",
+    "user_id": "46",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "35",
+    "timestamp": "2025-06-24 04:57:32.685221"
+  },
+  "148": {
+    "log_id": "148",
+    "user_id": "140",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "54",
+    "timestamp": "2025-07-18 13:10:06.441688"
+  },
+  "149": {
+    "log_id": "149",
+    "user_id": "54",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "139",
+    "timestamp": "2025-08-13 12:54:30.032409"
+  },
+  "150": {
+    "log_id": "150",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "61",
+    "timestamp": "2025-05-03 04:06:35.882948"
+  },
+  "151": {
+    "log_id": "151",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "56",
+    "timestamp": "2025-07-21 11:09:22.048175"
+  },
+  "152": {
+    "log_id": "152",
+    "user_id": "147",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "145",
+    "timestamp": "2025-03-15 23:54:41.019878"
+  },
+  "153": {
+    "log_id": "153",
+    "user_id": "94",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "65",
+    "timestamp": "2025-06-08 02:27:41.636324"
+  },
+  "154": {
+    "log_id": "154",
+    "user_id": "61",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "26",
+    "timestamp": "2025-06-28 18:38:06.088181"
+  },
+  "155": {
+    "log_id": "155",
+    "user_id": "75",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "74",
+    "timestamp": "2025-05-16 12:50:37.249043"
+  },
+  "156": {
+    "log_id": "156",
+    "user_id": "35",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "32",
+    "timestamp": "2025-08-31 11:04:52.772608"
+  },
+  "157": {
+    "log_id": "157",
+    "user_id": "91",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "87",
+    "timestamp": "2025-08-20 11:33:20.917420"
+  },
+  "158": {
+    "log_id": "158",
+    "user_id": "23",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "4",
+    "timestamp": "2025-08-23 20:38:25.265350"
+  },
+  "159": {
+    "log_id": "159",
+    "user_id": "138",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "79",
+    "timestamp": "2025-01-20 19:06:46.192487"
+  },
+  "160": {
+    "log_id": "160",
+    "user_id": "142",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "150",
+    "timestamp": "2025-05-28 17:28:22.857068"
+  },
+  "161": {
+    "log_id": "161",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "81",
+    "timestamp": "2025-02-26 05:58:55.236805"
+  },
+  "162": {
+    "log_id": "162",
+    "user_id": "61",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "75",
+    "timestamp": "2025-05-09 08:04:00.583371"
+  },
+  "163": {
+    "log_id": "163",
+    "user_id": "62",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "57",
+    "timestamp": "2025-05-13 10:44:15.181926"
+  },
+  "164": {
+    "log_id": "164",
+    "user_id": "130",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "87",
+    "timestamp": "2025-03-13 04:10:39.675536"
+  },
+  "165": {
+    "log_id": "165",
+    "user_id": "53",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "62",
+    "timestamp": "2025-08-07 15:41:56.522949"
+  },
+  "166": {
+    "log_id": "166",
+    "user_id": "90",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "84",
+    "timestamp": "2025-06-10 10:41:08.750579"
+  },
+  "167": {
+    "log_id": "167",
+    "user_id": "30",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "114",
+    "timestamp": "2025-04-03 04:48:16.733038"
+  },
+  "168": {
+    "log_id": "168",
+    "user_id": "79",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "52",
+    "timestamp": "2025-03-10 19:11:15.791880"
+  },
+  "169": {
+    "log_id": "169",
+    "user_id": "37",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "145",
+    "timestamp": "2025-05-24 17:17:23.737656"
+  },
+  "170": {
+    "log_id": "170",
+    "user_id": "51",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "102",
+    "timestamp": "2025-03-03 03:49:30.565268"
+  },
+  "171": {
+    "log_id": "171",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "138",
+    "timestamp": "2025-09-01 10:15:22.336703"
+  },
+  "172": {
+    "log_id": "172",
+    "user_id": "89",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "133",
+    "timestamp": "2025-07-23 12:30:15.063746"
+  },
+  "173": {
+    "log_id": "173",
+    "user_id": "20",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "96",
+    "timestamp": "2025-08-07 00:01:01.709601"
+  },
+  "174": {
+    "log_id": "174",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "7",
+    "timestamp": "2025-07-03 05:06:16.714626"
+  },
+  "175": {
+    "log_id": "175",
+    "user_id": "123",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "26",
+    "timestamp": "2025-01-16 08:05:04.829787"
+  },
+  "176": {
+    "log_id": "176",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "65",
+    "timestamp": "2025-07-25 14:33:36.069985"
+  },
+  "177": {
+    "log_id": "177",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "130",
+    "timestamp": "2025-04-27 19:48:38.514727"
+  },
+  "178": {
+    "log_id": "178",
+    "user_id": "67",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "10",
+    "timestamp": "2025-08-01 18:04:52.073058"
+  },
+  "179": {
+    "log_id": "179",
+    "user_id": "141",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "146",
+    "timestamp": "2025-07-26 15:46:13.743325"
+  },
+  "180": {
+    "log_id": "180",
+    "user_id": "12",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "84",
+    "timestamp": "2025-05-28 09:02:19.893516"
+  },
+  "181": {
+    "log_id": "181",
+    "user_id": "26",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-08-16 00:34:42.448556"
+  },
+  "182": {
+    "log_id": "182",
+    "user_id": "5",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "116",
+    "timestamp": "2025-02-01 14:00:47.945590"
+  },
+  "183": {
+    "log_id": "183",
+    "user_id": "11",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "136",
+    "timestamp": "2025-08-16 07:28:53.551114"
+  },
+  "184": {
+    "log_id": "184",
+    "user_id": "126",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "15",
+    "timestamp": "2025-03-19 15:28:49.762020"
+  },
+  "185": {
+    "log_id": "185",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-08-30 22:37:13.356044"
+  },
+  "186": {
+    "log_id": "186",
+    "user_id": "28",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "63",
+    "timestamp": "2025-04-15 04:32:23.108501"
+  },
+  "187": {
+    "log_id": "187",
+    "user_id": "121",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-07-16 17:02:48.870681"
+  },
+  "188": {
+    "log_id": "188",
+    "user_id": "82",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "55",
+    "timestamp": "2025-07-07 02:45:11.826911"
+  },
+  "189": {
+    "log_id": "189",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "50",
+    "timestamp": "2025-08-10 07:44:27.776790"
+  },
+  "190": {
+    "log_id": "190",
+    "user_id": "13",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "64",
+    "timestamp": "2025-04-17 06:35:07.955047"
+  },
+  "191": {
+    "log_id": "191",
+    "user_id": "65",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "93",
+    "timestamp": "2025-02-08 22:35:53.857208"
+  },
+  "192": {
+    "log_id": "192",
+    "user_id": "68",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "53",
+    "timestamp": "2025-06-14 14:36:37.186381"
+  },
+  "193": {
+    "log_id": "193",
+    "user_id": "62",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "140",
+    "timestamp": "2025-07-31 17:37:54.270694"
+  },
+  "194": {
+    "log_id": "194",
+    "user_id": "121",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "24",
+    "timestamp": "2025-01-22 21:36:00.922065"
+  },
+  "195": {
+    "log_id": "195",
+    "user_id": "125",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "59",
+    "timestamp": "2025-05-20 19:15:30.704818"
+  },
+  "196": {
+    "log_id": "196",
+    "user_id": "114",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "22",
+    "timestamp": "2025-06-21 20:36:17.418395"
+  },
+  "197": {
+    "log_id": "197",
+    "user_id": "72",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "148",
+    "timestamp": "2025-08-15 04:04:22.476059"
+  },
+  "198": {
+    "log_id": "198",
+    "user_id": "32",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "140",
+    "timestamp": "2025-01-29 12:23:24.807136"
+  },
+  "199": {
+    "log_id": "199",
+    "user_id": "60",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "9",
+    "timestamp": "2025-05-05 21:38:31.964818"
+  },
+  "200": {
+    "log_id": "200",
+    "user_id": "85",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "70",
+    "timestamp": "2025-07-18 11:33:22.672734"
+  },
+  "201": {
+    "log_id": "201",
+    "user_id": "101",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "144",
+    "timestamp": "2025-08-28 00:30:42.756982"
+  },
+  "202": {
+    "log_id": "202",
+    "user_id": "85",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "75",
+    "timestamp": "2025-05-31 08:32:48.599461"
+  },
+  "203": {
+    "log_id": "203",
+    "user_id": "98",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "114",
+    "timestamp": "2025-05-27 03:15:30.367014"
+  },
+  "204": {
+    "log_id": "204",
+    "user_id": "48",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-05-19 06:09:37.742658"
+  },
+  "205": {
+    "log_id": "205",
+    "user_id": "95",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "77",
+    "timestamp": "2025-07-07 20:57:22.063717"
+  },
+  "206": {
+    "log_id": "206",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "138",
+    "timestamp": "2025-02-12 07:50:16.972450"
+  },
+  "207": {
+    "log_id": "207",
+    "user_id": "99",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-05-31 10:31:49.173630"
+  },
+  "208": {
+    "log_id": "208",
+    "user_id": "5",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-08-11 03:32:19.163777"
+  },
+  "209": {
+    "log_id": "209",
+    "user_id": "52",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "78",
+    "timestamp": "2025-02-20 20:42:58.006172"
+  },
+  "210": {
+    "log_id": "210",
+    "user_id": "23",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-03-06 04:55:04.890105"
+  },
+  "211": {
+    "log_id": "211",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "135",
+    "timestamp": "2025-05-09 22:54:47.446422"
+  },
+  "212": {
+    "log_id": "212",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "130",
+    "timestamp": "2025-01-27 04:57:30.920202"
+  },
+  "213": {
+    "log_id": "213",
+    "user_id": "58",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "88",
+    "timestamp": "2025-08-02 20:11:18.061212"
+  },
+  "214": {
+    "log_id": "214",
+    "user_id": "76",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "141",
+    "timestamp": "2025-07-16 22:28:57.549707"
+  },
+  "215": {
+    "log_id": "215",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "18",
+    "timestamp": "2025-03-01 14:53:46.434361"
+  },
+  "216": {
+    "log_id": "216",
+    "user_id": "1",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "121",
+    "timestamp": "2025-04-28 04:54:43.449937"
+  },
+  "217": {
+    "log_id": "217",
+    "user_id": "123",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "86",
+    "timestamp": "2025-06-24 16:37:35.673668"
+  },
+  "218": {
+    "log_id": "218",
+    "user_id": "16",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "28",
+    "timestamp": "2025-03-09 18:27:23.767171"
+  },
+  "219": {
+    "log_id": "219",
+    "user_id": "78",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "5",
+    "timestamp": "2025-08-30 04:45:03.908633"
+  },
+  "220": {
+    "log_id": "220",
+    "user_id": "101",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "28",
+    "timestamp": "2025-03-18 20:04:54.143740"
+  },
+  "221": {
+    "log_id": "221",
+    "user_id": "96",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-05-20 23:58:46.256179"
+  },
+  "222": {
+    "log_id": "222",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "63",
+    "timestamp": "2025-04-09 02:49:58.063936"
+  },
+  "223": {
+    "log_id": "223",
+    "user_id": "62",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "87",
+    "timestamp": "2025-02-12 19:09:14.524952"
+  },
+  "224": {
+    "log_id": "224",
+    "user_id": "111",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "39",
+    "timestamp": "2025-06-24 06:16:07.312500"
+  },
+  "225": {
+    "log_id": "225",
+    "user_id": "94",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "102",
+    "timestamp": "2025-02-16 21:30:31.988212"
+  },
+  "226": {
+    "log_id": "226",
+    "user_id": "92",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "146",
+    "timestamp": "2025-08-27 22:27:04.608160"
+  },
+  "227": {
+    "log_id": "227",
+    "user_id": "112",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "125",
+    "timestamp": "2025-04-11 21:16:59.731643"
+  },
+  "228": {
+    "log_id": "228",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "98",
+    "timestamp": "2025-07-18 11:36:55.858379"
+  },
+  "229": {
+    "log_id": "229",
+    "user_id": "42",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "98",
+    "timestamp": "2025-01-17 05:57:03.854910"
+  },
+  "230": {
+    "log_id": "230",
+    "user_id": "13",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "129",
+    "timestamp": "2025-05-09 19:25:04.499723"
+  },
+  "231": {
+    "log_id": "231",
+    "user_id": "9",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "73",
+    "timestamp": "2025-06-16 17:07:19.070164"
+  },
+  "232": {
+    "log_id": "232",
+    "user_id": "87",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "104",
+    "timestamp": "2025-07-27 01:11:37.023737"
+  },
+  "233": {
+    "log_id": "233",
+    "user_id": "112",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "18",
+    "timestamp": "2025-07-14 05:06:22.467644"
+  },
+  "234": {
+    "log_id": "234",
+    "user_id": "74",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "72",
+    "timestamp": "2025-01-02 06:12:54.835813"
+  },
+  "235": {
+    "log_id": "235",
+    "user_id": "48",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "140",
+    "timestamp": "2025-03-28 23:45:53.056500"
+  },
+  "236": {
+    "log_id": "236",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "141",
+    "timestamp": "2025-05-06 06:22:36.455992"
+  },
+  "237": {
+    "log_id": "237",
+    "user_id": "135",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "50",
+    "timestamp": "2025-01-02 10:09:55.006966"
+  },
+  "238": {
+    "log_id": "238",
+    "user_id": "34",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "74",
+    "timestamp": "2025-01-22 16:47:06.082789"
+  },
+  "239": {
+    "log_id": "239",
+    "user_id": "81",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "15",
+    "timestamp": "2025-03-09 16:40:04.519122"
+  },
+  "240": {
+    "log_id": "240",
+    "user_id": "81",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "66",
+    "timestamp": "2025-06-09 17:43:31.204708"
+  },
+  "241": {
+    "log_id": "241",
+    "user_id": "124",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "47",
+    "timestamp": "2025-04-22 13:26:44.039328"
+  },
+  "242": {
+    "log_id": "242",
+    "user_id": "106",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "43",
+    "timestamp": "2025-09-01 17:14:13.117457"
+  },
+  "243": {
+    "log_id": "243",
+    "user_id": "144",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "147",
+    "timestamp": "2025-07-24 01:36:22.677980"
+  },
+  "244": {
+    "log_id": "244",
+    "user_id": "4",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "147",
+    "timestamp": "2025-02-04 16:39:54.266263"
+  },
+  "245": {
+    "log_id": "245",
+    "user_id": "7",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "81",
+    "timestamp": "2025-01-14 19:43:15.584623"
+  },
+  "246": {
+    "log_id": "246",
+    "user_id": "39",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "66",
+    "timestamp": "2025-02-28 00:54:30.653397"
+  },
+  "247": {
+    "log_id": "247",
+    "user_id": "131",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "102",
+    "timestamp": "2025-02-04 23:13:55.857135"
+  },
+  "248": {
+    "log_id": "248",
+    "user_id": "118",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "112",
+    "timestamp": "2025-04-29 01:47:44.159710"
+  },
+  "249": {
+    "log_id": "249",
+    "user_id": "150",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "97",
+    "timestamp": "2025-08-05 10:16:44.575772"
+  },
+  "250": {
+    "log_id": "250",
+    "user_id": "91",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "47",
+    "timestamp": "2025-02-05 03:48:13.424950"
+  },
+  "251": {
+    "log_id": "251",
+    "user_id": "48",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "68",
+    "timestamp": "2025-04-17 06:09:17.337179"
+  },
+  "252": {
+    "log_id": "252",
+    "user_id": "149",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "124",
+    "timestamp": "2025-05-16 03:03:00.089883"
+  },
+  "253": {
+    "log_id": "253",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "47",
+    "timestamp": "2025-04-21 10:15:27.961097"
+  },
+  "254": {
+    "log_id": "254",
+    "user_id": "47",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "75",
+    "timestamp": "2025-04-16 11:38:06.291547"
+  },
+  "255": {
+    "log_id": "255",
+    "user_id": "132",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "36",
+    "timestamp": "2025-08-20 03:47:41.168997"
+  },
+  "256": {
+    "log_id": "256",
+    "user_id": "121",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "76",
+    "timestamp": "2025-08-04 17:49:05.279276"
+  },
+  "257": {
+    "log_id": "257",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "47",
+    "timestamp": "2025-01-21 08:15:17.807658"
+  },
+  "258": {
+    "log_id": "258",
+    "user_id": "149",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "59",
+    "timestamp": "2025-01-31 11:02:32.528084"
+  },
+  "259": {
+    "log_id": "259",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "81",
+    "timestamp": "2025-08-29 05:46:42.592625"
+  },
+  "260": {
+    "log_id": "260",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "5",
+    "timestamp": "2025-01-07 11:52:36.541008"
+  },
+  "261": {
+    "log_id": "261",
+    "user_id": "131",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "30",
+    "timestamp": "2025-03-15 03:39:23.645715"
+  },
+  "262": {
+    "log_id": "262",
+    "user_id": "91",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "118",
+    "timestamp": "2025-04-19 21:07:08.244998"
+  },
+  "263": {
+    "log_id": "263",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "76",
+    "timestamp": "2025-07-13 19:42:51.679893"
+  },
+  "264": {
+    "log_id": "264",
+    "user_id": "72",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "134",
+    "timestamp": "2025-02-02 09:22:46.516958"
+  },
+  "265": {
+    "log_id": "265",
+    "user_id": "128",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "26",
+    "timestamp": "2025-08-30 00:41:37.544164"
+  },
+  "266": {
+    "log_id": "266",
+    "user_id": "93",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-08-21 11:42:27.098980"
+  },
+  "267": {
+    "log_id": "267",
+    "user_id": "83",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "80",
+    "timestamp": "2025-06-30 23:34:31.163255"
+  },
+  "268": {
+    "log_id": "268",
+    "user_id": "102",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "95",
+    "timestamp": "2025-01-24 20:55:24.599889"
+  },
+  "269": {
+    "log_id": "269",
+    "user_id": "38",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "65",
+    "timestamp": "2025-03-19 22:24:23.108781"
+  },
+  "270": {
+    "log_id": "270",
+    "user_id": "38",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "131",
+    "timestamp": "2025-03-21 12:36:36.822179"
+  },
+  "271": {
+    "log_id": "271",
+    "user_id": "9",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "18",
+    "timestamp": "2025-02-20 10:40:53.241749"
+  },
+  "272": {
+    "log_id": "272",
+    "user_id": "72",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "69",
+    "timestamp": "2025-08-17 23:00:12.794196"
+  },
+  "273": {
+    "log_id": "273",
+    "user_id": "118",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "132",
+    "timestamp": "2025-04-18 19:49:45.731136"
+  },
+  "274": {
+    "log_id": "274",
+    "user_id": "39",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "61",
+    "timestamp": "2025-06-06 13:32:43.404557"
+  },
+  "275": {
+    "log_id": "275",
+    "user_id": "15",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "36",
+    "timestamp": "2025-08-27 23:11:56.188539"
+  },
+  "276": {
+    "log_id": "276",
+    "user_id": "71",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "37",
+    "timestamp": "2025-07-01 18:33:32.867971"
+  },
+  "277": {
+    "log_id": "277",
+    "user_id": "136",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "29",
+    "timestamp": "2025-07-21 13:33:15.160291"
+  },
+  "278": {
+    "log_id": "278",
+    "user_id": "80",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "141",
+    "timestamp": "2025-07-04 17:00:09.574756"
+  },
+  "279": {
+    "log_id": "279",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "139",
+    "timestamp": "2025-01-05 15:21:20.561553"
+  },
+  "280": {
+    "log_id": "280",
+    "user_id": "62",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "52",
+    "timestamp": "2025-01-16 08:02:39.864096"
+  },
+  "281": {
+    "log_id": "281",
+    "user_id": "65",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "75",
+    "timestamp": "2025-07-10 23:05:26.357319"
+  },
+  "282": {
+    "log_id": "282",
+    "user_id": "1",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-05-01 09:39:11.796368"
+  },
+  "283": {
+    "log_id": "283",
+    "user_id": "37",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "108",
+    "timestamp": "2025-07-06 13:59:44.929614"
+  },
+  "284": {
+    "log_id": "284",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "126",
+    "timestamp": "2025-08-28 21:58:31.476223"
+  },
+  "285": {
+    "log_id": "285",
+    "user_id": "119",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "67",
+    "timestamp": "2025-05-18 19:27:41.659178"
+  },
+  "286": {
+    "log_id": "286",
+    "user_id": "63",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "117",
+    "timestamp": "2025-05-04 14:07:44.691689"
+  },
+  "287": {
+    "log_id": "287",
+    "user_id": "76",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "122",
+    "timestamp": "2025-05-15 19:50:12.157142"
+  },
+  "288": {
+    "log_id": "288",
+    "user_id": "15",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "130",
+    "timestamp": "2025-05-14 07:27:54.041915"
+  },
+  "289": {
+    "log_id": "289",
+    "user_id": "21",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "114",
+    "timestamp": "2025-05-29 15:06:45.318639"
+  },
+  "290": {
+    "log_id": "290",
+    "user_id": "136",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "59",
+    "timestamp": "2025-01-18 01:31:04.239199"
+  },
+  "291": {
+    "log_id": "291",
+    "user_id": "75",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "25",
+    "timestamp": "2025-07-07 20:44:13.133669"
+  },
+  "292": {
+    "log_id": "292",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "88",
+    "timestamp": "2025-06-06 20:22:04.647027"
+  },
+  "293": {
+    "log_id": "293",
+    "user_id": "122",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "110",
+    "timestamp": "2025-05-28 11:32:50.970802"
+  },
+  "294": {
+    "log_id": "294",
+    "user_id": "136",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "13",
+    "timestamp": "2025-08-16 21:12:14.743484"
+  },
+  "295": {
+    "log_id": "295",
+    "user_id": "59",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "119",
+    "timestamp": "2025-04-15 15:52:35.532320"
+  },
+  "296": {
+    "log_id": "296",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "76",
+    "timestamp": "2025-03-26 05:27:08.212481"
+  },
+  "297": {
+    "log_id": "297",
+    "user_id": "141",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "2",
+    "timestamp": "2025-04-18 04:49:24.094627"
+  },
+  "298": {
+    "log_id": "298",
+    "user_id": "62",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "55",
+    "timestamp": "2025-06-11 18:43:55.017705"
+  },
+  "299": {
+    "log_id": "299",
+    "user_id": "59",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "84",
+    "timestamp": "2025-01-07 22:40:19.062881"
+  },
+  "300": {
+    "log_id": "300",
+    "user_id": "60",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "67",
+    "timestamp": "2025-08-21 14:55:31.647380"
+  },
+  "301": {
+    "log_id": "301",
+    "user_id": "135",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "88",
+    "timestamp": "2025-03-19 18:42:45.907817"
+  },
+  "302": {
+    "log_id": "302",
+    "user_id": "109",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-04-21 16:23:57.584974"
+  },
+  "303": {
+    "log_id": "303",
+    "user_id": "85",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "116",
+    "timestamp": "2025-01-21 19:53:23.357609"
+  },
+  "304": {
+    "log_id": "304",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-05-24 11:13:24.738832"
+  },
+  "305": {
+    "log_id": "305",
+    "user_id": "42",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "145",
+    "timestamp": "2025-07-24 04:39:11.553671"
+  },
+  "306": {
+    "log_id": "306",
+    "user_id": "44",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "41",
+    "timestamp": "2025-05-21 13:28:01.900202"
+  },
+  "307": {
+    "log_id": "307",
+    "user_id": "8",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "105",
+    "timestamp": "2025-02-27 05:24:44.735298"
+  },
+  "308": {
+    "log_id": "308",
+    "user_id": "30",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "43",
+    "timestamp": "2025-02-10 03:11:49.220077"
+  },
+  "309": {
+    "log_id": "309",
+    "user_id": "46",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "131",
+    "timestamp": "2025-01-11 23:44:11.547512"
+  },
+  "310": {
+    "log_id": "310",
+    "user_id": "40",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "135",
+    "timestamp": "2025-03-23 14:30:14.414828"
+  },
+  "311": {
+    "log_id": "311",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "90",
+    "timestamp": "2025-05-17 04:49:50.864905"
+  },
+  "312": {
+    "log_id": "312",
+    "user_id": "2",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "77",
+    "timestamp": "2025-01-03 21:21:27.762436"
+  },
+  "313": {
+    "log_id": "313",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "106",
+    "timestamp": "2025-01-23 06:52:35.374522"
+  },
+  "314": {
+    "log_id": "314",
+    "user_id": "125",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "73",
+    "timestamp": "2025-08-27 21:46:14.769985"
+  },
+  "315": {
+    "log_id": "315",
+    "user_id": "55",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "136",
+    "timestamp": "2025-08-19 13:52:55.080848"
+  },
+  "316": {
+    "log_id": "316",
+    "user_id": "121",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "87",
+    "timestamp": "2025-02-02 12:32:31.944547"
+  },
+  "317": {
+    "log_id": "317",
+    "user_id": "141",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "54",
+    "timestamp": "2025-01-15 20:28:39.295938"
+  },
+  "318": {
+    "log_id": "318",
+    "user_id": "85",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "55",
+    "timestamp": "2025-03-09 07:23:41.002577"
+  },
+  "319": {
+    "log_id": "319",
+    "user_id": "24",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "110",
+    "timestamp": "2025-05-01 11:20:33.650981"
+  },
+  "320": {
+    "log_id": "320",
+    "user_id": "29",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "8",
+    "timestamp": "2025-02-28 12:46:56.034943"
+  },
+  "321": {
+    "log_id": "321",
+    "user_id": "127",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "146",
+    "timestamp": "2025-04-06 05:54:59.704129"
+  },
+  "322": {
+    "log_id": "322",
+    "user_id": "93",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "30",
+    "timestamp": "2025-05-01 06:57:23.835517"
+  },
+  "323": {
+    "log_id": "323",
+    "user_id": "60",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "130",
+    "timestamp": "2025-06-20 13:05:23.635280"
+  },
+  "324": {
+    "log_id": "324",
+    "user_id": "142",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "67",
+    "timestamp": "2025-08-29 10:14:58.258402"
+  },
+  "325": {
+    "log_id": "325",
+    "user_id": "5",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "50",
+    "timestamp": "2025-04-03 12:14:40.288714"
+  },
+  "326": {
+    "log_id": "326",
+    "user_id": "135",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "73",
+    "timestamp": "2025-06-21 17:24:06.437177"
+  },
+  "327": {
+    "log_id": "327",
+    "user_id": "146",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "64",
+    "timestamp": "2025-08-12 13:36:32.713384"
+  },
+  "328": {
+    "log_id": "328",
+    "user_id": "79",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "135",
+    "timestamp": "2025-07-18 05:32:23.279118"
+  },
+  "329": {
+    "log_id": "329",
+    "user_id": "115",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-06-20 16:10:49.676646"
+  },
+  "330": {
+    "log_id": "330",
+    "user_id": "123",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "99",
+    "timestamp": "2025-03-07 03:49:46.335772"
+  },
+  "331": {
+    "log_id": "331",
+    "user_id": "127",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-08-22 13:23:00.424461"
+  },
+  "332": {
+    "log_id": "332",
+    "user_id": "43",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "4",
+    "timestamp": "2025-03-21 04:26:01.735253"
+  },
+  "333": {
+    "log_id": "333",
+    "user_id": "35",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "113",
+    "timestamp": "2025-01-02 21:29:52.782077"
+  },
+  "334": {
+    "log_id": "334",
+    "user_id": "24",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "140",
+    "timestamp": "2025-01-28 18:28:22.140526"
+  },
+  "335": {
+    "log_id": "335",
+    "user_id": "89",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "100",
+    "timestamp": "2025-08-18 12:45:58.784538"
+  },
+  "336": {
+    "log_id": "336",
+    "user_id": "103",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "18",
+    "timestamp": "2025-08-19 00:58:16.436114"
+  },
+  "337": {
+    "log_id": "337",
+    "user_id": "119",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "86",
+    "timestamp": "2025-05-11 13:58:38.992445"
+  },
+  "338": {
+    "log_id": "338",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "149",
+    "timestamp": "2025-03-17 04:59:29.101407"
+  },
+  "339": {
+    "log_id": "339",
+    "user_id": "40",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "68",
+    "timestamp": "2025-07-03 10:18:14.404754"
+  },
+  "340": {
+    "log_id": "340",
+    "user_id": "145",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "56",
+    "timestamp": "2025-06-24 07:56:47.173663"
+  },
+  "341": {
+    "log_id": "341",
+    "user_id": "33",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "125",
+    "timestamp": "2025-04-24 23:20:27.801558"
+  },
+  "342": {
+    "log_id": "342",
+    "user_id": "40",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "81",
+    "timestamp": "2025-06-03 19:25:36.579694"
+  },
+  "343": {
+    "log_id": "343",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "102",
+    "timestamp": "2025-02-04 17:05:59.102296"
+  },
+  "344": {
+    "log_id": "344",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "148",
+    "timestamp": "2025-04-13 01:41:30.780517"
+  },
+  "345": {
+    "log_id": "345",
+    "user_id": "13",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "45",
+    "timestamp": "2025-07-20 18:06:40.625640"
+  },
+  "346": {
+    "log_id": "346",
+    "user_id": "84",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "71",
+    "timestamp": "2025-06-10 01:18:38.375370"
+  },
+  "347": {
+    "log_id": "347",
+    "user_id": "117",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "127",
+    "timestamp": "2025-02-01 19:57:27.976909"
+  },
+  "348": {
+    "log_id": "348",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "127",
+    "timestamp": "2025-07-06 15:50:47.900381"
+  },
+  "349": {
+    "log_id": "349",
+    "user_id": "94",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "10",
+    "timestamp": "2025-06-12 08:15:42.767381"
+  },
+  "350": {
+    "log_id": "350",
+    "user_id": "30",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "55",
+    "timestamp": "2025-02-25 18:33:02.222860"
+  },
+  "351": {
+    "log_id": "351",
+    "user_id": "54",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "87",
+    "timestamp": "2025-02-09 16:09:42.593516"
+  },
+  "352": {
+    "log_id": "352",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "58",
+    "timestamp": "2025-01-21 10:50:04.675410"
+  },
+  "353": {
+    "log_id": "353",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "145",
+    "timestamp": "2025-04-13 22:08:36.151144"
+  },
+  "354": {
+    "log_id": "354",
+    "user_id": "118",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-07-09 22:49:24.778493"
+  },
+  "355": {
+    "log_id": "355",
+    "user_id": "64",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "49",
+    "timestamp": "2025-07-14 03:23:14.344654"
+  },
+  "356": {
+    "log_id": "356",
+    "user_id": "71",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "70",
+    "timestamp": "2025-01-05 20:03:41.254486"
+  },
+  "357": {
+    "log_id": "357",
+    "user_id": "61",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "122",
+    "timestamp": "2025-07-11 22:09:59.640669"
+  },
+  "358": {
+    "log_id": "358",
+    "user_id": "41",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "22",
+    "timestamp": "2025-08-16 01:48:35.251084"
+  },
+  "359": {
+    "log_id": "359",
+    "user_id": "3",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "103",
+    "timestamp": "2025-07-10 21:59:22.327004"
+  },
+  "360": {
+    "log_id": "360",
+    "user_id": "21",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "2",
+    "timestamp": "2025-05-11 19:17:06.281828"
+  },
+  "361": {
+    "log_id": "361",
+    "user_id": "82",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "31",
+    "timestamp": "2025-04-09 05:50:41.332884"
+  },
+  "362": {
+    "log_id": "362",
+    "user_id": "41",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "118",
+    "timestamp": "2025-07-02 13:47:18.330117"
+  },
+  "363": {
+    "log_id": "363",
+    "user_id": "5",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "4",
+    "timestamp": "2025-08-11 14:50:29.701355"
+  },
+  "364": {
+    "log_id": "364",
+    "user_id": "4",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "12",
+    "timestamp": "2025-07-29 04:12:35.057519"
+  },
+  "365": {
+    "log_id": "365",
+    "user_id": "95",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-05-26 13:39:04.329572"
+  },
+  "366": {
+    "log_id": "366",
+    "user_id": "113",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "74",
+    "timestamp": "2025-03-17 11:14:51.447091"
+  },
+  "367": {
+    "log_id": "367",
+    "user_id": "112",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "133",
+    "timestamp": "2025-04-20 16:49:35.674208"
+  },
+  "368": {
+    "log_id": "368",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "36",
+    "timestamp": "2025-03-29 18:57:44.770804"
+  },
+  "369": {
+    "log_id": "369",
+    "user_id": "38",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "101",
+    "timestamp": "2025-05-12 12:45:50.283028"
+  },
+  "370": {
+    "log_id": "370",
+    "user_id": "138",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "111",
+    "timestamp": "2025-07-26 05:24:27.637378"
+  },
+  "371": {
+    "log_id": "371",
+    "user_id": "77",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "25",
+    "timestamp": "2025-03-27 08:33:18.555668"
+  },
+  "372": {
+    "log_id": "372",
+    "user_id": "132",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "124",
+    "timestamp": "2025-08-29 10:18:09.037456"
+  },
+  "373": {
+    "log_id": "373",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "41",
+    "timestamp": "2025-06-19 23:04:36.503700"
+  },
+  "374": {
+    "log_id": "374",
+    "user_id": "125",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "45",
+    "timestamp": "2025-05-21 00:55:24.304997"
+  },
+  "375": {
+    "log_id": "375",
+    "user_id": "93",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "29",
+    "timestamp": "2025-06-09 21:39:22.858751"
+  },
+  "376": {
+    "log_id": "376",
+    "user_id": "48",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "68",
+    "timestamp": "2025-07-20 07:37:25.611884"
+  },
+  "377": {
+    "log_id": "377",
+    "user_id": "3",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-01-08 05:11:03.508451"
+  },
+  "378": {
+    "log_id": "378",
+    "user_id": "78",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "51",
+    "timestamp": "2025-06-25 14:50:33.114221"
+  },
+  "379": {
+    "log_id": "379",
+    "user_id": "101",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "60",
+    "timestamp": "2025-01-18 15:51:31.158399"
+  },
+  "380": {
+    "log_id": "380",
+    "user_id": "82",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "110",
+    "timestamp": "2025-02-27 06:02:52.200793"
+  },
+  "381": {
+    "log_id": "381",
+    "user_id": "39",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "82",
+    "timestamp": "2025-01-24 02:39:01.347338"
+  },
+  "382": {
+    "log_id": "382",
+    "user_id": "120",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "25",
+    "timestamp": "2025-07-19 22:46:09.917392"
+  },
+  "383": {
+    "log_id": "383",
+    "user_id": "130",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "148",
+    "timestamp": "2025-02-01 19:00:30.517414"
+  },
+  "384": {
+    "log_id": "384",
+    "user_id": "143",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "142",
+    "timestamp": "2025-02-09 17:05:54.529422"
+  },
+  "385": {
+    "log_id": "385",
+    "user_id": "134",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "76",
+    "timestamp": "2025-07-03 18:31:00.383033"
+  },
+  "386": {
+    "log_id": "386",
+    "user_id": "110",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "2",
+    "timestamp": "2025-08-19 07:57:50.928632"
+  },
+  "387": {
+    "log_id": "387",
+    "user_id": "23",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "124",
+    "timestamp": "2025-01-24 03:50:05.038030"
+  },
+  "388": {
+    "log_id": "388",
+    "user_id": "97",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "124",
+    "timestamp": "2025-06-13 07:04:19.601057"
+  },
+  "389": {
+    "log_id": "389",
+    "user_id": "106",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "33",
+    "timestamp": "2025-03-10 22:12:03.099831"
+  },
+  "390": {
+    "log_id": "390",
+    "user_id": "87",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "72",
+    "timestamp": "2025-01-15 08:51:39.744443"
+  },
+  "391": {
+    "log_id": "391",
+    "user_id": "119",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "127",
+    "timestamp": "2025-08-20 07:39:43.695405"
+  },
+  "392": {
+    "log_id": "392",
+    "user_id": "50",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "64",
+    "timestamp": "2025-01-30 21:14:08.972432"
+  },
+  "393": {
+    "log_id": "393",
+    "user_id": "41",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "7",
+    "timestamp": "2025-07-27 05:14:37.142387"
+  },
+  "394": {
+    "log_id": "394",
+    "user_id": "86",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "108",
+    "timestamp": "2025-03-08 04:22:35.701896"
+  },
+  "395": {
+    "log_id": "395",
+    "user_id": "125",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "42",
+    "timestamp": "2025-08-11 00:14:32.302144"
+  },
+  "396": {
+    "log_id": "396",
+    "user_id": "48",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "133",
+    "timestamp": "2025-01-20 02:06:46.116356"
+  },
+  "397": {
+    "log_id": "397",
+    "user_id": "19",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "97",
+    "timestamp": "2025-01-11 01:30:56.186142"
+  },
+  "398": {
+    "log_id": "398",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "69",
+    "timestamp": "2025-08-18 21:12:03.202494"
+  },
+  "399": {
+    "log_id": "399",
+    "user_id": "72",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-01-14 14:15:59.328541"
+  },
+  "400": {
+    "log_id": "400",
+    "user_id": "15",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "43",
+    "timestamp": "2025-03-08 10:35:07.439125"
+  },
+  "401": {
+    "log_id": "401",
+    "user_id": "1",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "86",
+    "timestamp": "2025-01-19 02:30:24.304561"
+  },
+  "402": {
+    "log_id": "402",
+    "user_id": "1",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "65",
+    "timestamp": "2025-08-23 13:28:07.593619"
+  },
+  "403": {
+    "log_id": "403",
+    "user_id": "98",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "84",
+    "timestamp": "2025-04-08 11:24:23.196626"
+  },
+  "404": {
+    "log_id": "404",
+    "user_id": "7",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "51",
+    "timestamp": "2025-02-18 14:48:34.713257"
+  },
+  "405": {
+    "log_id": "405",
+    "user_id": "11",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "120",
+    "timestamp": "2025-07-30 19:42:05.890313"
+  },
+  "406": {
+    "log_id": "406",
+    "user_id": "134",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "95",
+    "timestamp": "2025-06-06 16:15:01.633910"
+  },
+  "407": {
+    "log_id": "407",
+    "user_id": "75",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "63",
+    "timestamp": "2025-02-04 05:26:53.568842"
+  },
+  "408": {
+    "log_id": "408",
+    "user_id": "33",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "33",
+    "timestamp": "2025-05-30 12:32:50.527256"
+  },
+  "409": {
+    "log_id": "409",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "67",
+    "timestamp": "2025-01-07 03:16:03.137831"
+  },
+  "410": {
+    "log_id": "410",
+    "user_id": "71",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "29",
+    "timestamp": "2025-08-03 19:13:43.495204"
+  },
+  "411": {
+    "log_id": "411",
+    "user_id": "106",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "28",
+    "timestamp": "2025-04-15 07:43:32.430678"
+  },
+  "412": {
+    "log_id": "412",
+    "user_id": "145",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "97",
+    "timestamp": "2025-08-15 20:22:44.977783"
+  },
+  "413": {
+    "log_id": "413",
+    "user_id": "141",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "67",
+    "timestamp": "2025-03-08 11:53:25.489259"
+  },
+  "414": {
+    "log_id": "414",
+    "user_id": "80",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "64",
+    "timestamp": "2025-01-04 04:59:11.146993"
+  },
+  "415": {
+    "log_id": "415",
+    "user_id": "82",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "20",
+    "timestamp": "2025-01-12 15:23:21.680429"
+  },
+  "416": {
+    "log_id": "416",
+    "user_id": "80",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "121",
+    "timestamp": "2025-02-20 19:38:38.991996"
+  },
+  "417": {
+    "log_id": "417",
+    "user_id": "137",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "67",
+    "timestamp": "2025-05-24 02:33:09.463334"
+  },
+  "418": {
+    "log_id": "418",
+    "user_id": "17",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "24",
+    "timestamp": "2025-02-10 13:45:30.599814"
+  },
+  "419": {
+    "log_id": "419",
+    "user_id": "94",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-03-19 13:02:19.902556"
+  },
+  "420": {
+    "log_id": "420",
+    "user_id": "47",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-03-27 15:24:18.165295"
+  },
+  "421": {
+    "log_id": "421",
+    "user_id": "95",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "29",
+    "timestamp": "2025-01-22 12:17:12.448918"
+  },
+  "422": {
+    "log_id": "422",
+    "user_id": "108",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "108",
+    "timestamp": "2025-01-07 18:46:15.719280"
+  },
+  "423": {
+    "log_id": "423",
+    "user_id": "101",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "61",
+    "timestamp": "2025-03-16 05:46:34.191149"
+  },
+  "424": {
+    "log_id": "424",
+    "user_id": "140",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "61",
+    "timestamp": "2025-04-11 14:54:08.752266"
+  },
+  "425": {
+    "log_id": "425",
+    "user_id": "5",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "36",
+    "timestamp": "2025-01-01 21:26:16.467631"
+  },
+  "426": {
+    "log_id": "426",
+    "user_id": "113",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "7",
+    "timestamp": "2025-02-20 18:53:18.337820"
+  },
+  "427": {
+    "log_id": "427",
+    "user_id": "114",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "104",
+    "timestamp": "2025-03-13 12:20:51.030698"
+  },
+  "428": {
+    "log_id": "428",
+    "user_id": "82",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "117",
+    "timestamp": "2025-09-01 00:34:19.667430"
+  },
+  "429": {
+    "log_id": "429",
+    "user_id": "117",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "63",
+    "timestamp": "2025-06-27 10:51:14.460356"
+  },
+  "430": {
+    "log_id": "430",
+    "user_id": "121",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "40",
+    "timestamp": "2025-05-02 01:07:49.801303"
+  },
+  "431": {
+    "log_id": "431",
+    "user_id": "94",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "24",
+    "timestamp": "2025-03-01 02:35:58.606225"
+  },
+  "432": {
+    "log_id": "432",
+    "user_id": "75",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "12",
+    "timestamp": "2025-07-09 09:43:04.649124"
+  },
+  "433": {
+    "log_id": "433",
+    "user_id": "125",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "62",
+    "timestamp": "2025-08-03 13:34:11.055669"
+  },
+  "434": {
+    "log_id": "434",
+    "user_id": "119",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "141",
+    "timestamp": "2025-05-17 08:26:56.311988"
+  },
+  "435": {
+    "log_id": "435",
+    "user_id": "123",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "146",
+    "timestamp": "2025-01-08 16:06:56.317548"
+  },
+  "436": {
+    "log_id": "436",
+    "user_id": "14",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "78",
+    "timestamp": "2025-08-07 12:09:28.207309"
+  },
+  "437": {
+    "log_id": "437",
+    "user_id": "104",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "30",
+    "timestamp": "2025-03-13 12:35:15.747991"
+  },
+  "438": {
+    "log_id": "438",
+    "user_id": "121",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "137",
+    "timestamp": "2025-06-04 09:58:23.099488"
+  },
+  "439": {
+    "log_id": "439",
+    "user_id": "73",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "118",
+    "timestamp": "2025-03-16 21:41:32.509704"
+  },
+  "440": {
+    "log_id": "440",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "68",
+    "timestamp": "2025-04-12 11:43:20.082375"
+  },
+  "441": {
+    "log_id": "441",
+    "user_id": "28",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "50",
+    "timestamp": "2025-02-28 17:17:30.470782"
+  },
+  "442": {
+    "log_id": "442",
+    "user_id": "89",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "92",
+    "timestamp": "2025-01-09 16:17:25.080046"
+  },
+  "443": {
+    "log_id": "443",
+    "user_id": "57",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "21",
+    "timestamp": "2025-02-14 20:57:45.660829"
+  },
+  "444": {
+    "log_id": "444",
+    "user_id": "24",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "29",
+    "timestamp": "2025-02-01 07:28:56.882035"
+  },
+  "445": {
+    "log_id": "445",
+    "user_id": "131",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "78",
+    "timestamp": "2025-02-14 12:06:48.734844"
+  },
+  "446": {
+    "log_id": "446",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "37",
+    "timestamp": "2025-02-08 04:50:40.324961"
+  },
+  "447": {
+    "log_id": "447",
+    "user_id": "97",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "83",
+    "timestamp": "2025-03-29 03:30:40.429727"
+  },
+  "448": {
+    "log_id": "448",
+    "user_id": "79",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "2",
+    "timestamp": "2025-07-20 17:07:12.589598"
+  },
+  "449": {
+    "log_id": "449",
+    "user_id": "40",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "122",
+    "timestamp": "2025-02-13 08:33:01.861965"
+  },
+  "450": {
+    "log_id": "450",
+    "user_id": "72",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "116",
+    "timestamp": "2025-05-01 07:17:37.130593"
+  },
+  "451": {
+    "log_id": "451",
+    "user_id": "10",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "147",
+    "timestamp": "2025-01-09 18:59:03.814729"
+  },
+  "452": {
+    "log_id": "452",
+    "user_id": "78",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "72",
+    "timestamp": "2025-05-01 05:01:26.219912"
+  },
+  "453": {
+    "log_id": "453",
+    "user_id": "133",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "60",
+    "timestamp": "2025-03-07 07:33:25.086160"
+  },
+  "454": {
+    "log_id": "454",
+    "user_id": "117",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "103",
+    "timestamp": "2025-03-27 02:10:15.780789"
+  },
+  "455": {
+    "log_id": "455",
+    "user_id": "137",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "116",
+    "timestamp": "2025-01-26 18:20:54.190179"
+  },
+  "456": {
+    "log_id": "456",
+    "user_id": "106",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "59",
+    "timestamp": "2025-01-18 03:14:37.497367"
+  },
+  "457": {
+    "log_id": "457",
+    "user_id": "65",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "41",
+    "timestamp": "2025-04-04 16:43:51.833038"
+  },
+  "458": {
+    "log_id": "458",
+    "user_id": "136",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "31",
+    "timestamp": "2025-07-16 13:02:27.228298"
+  },
+  "459": {
+    "log_id": "459",
+    "user_id": "61",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "63",
+    "timestamp": "2025-04-26 05:42:58.874063"
+  },
+  "460": {
+    "log_id": "460",
+    "user_id": "126",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "12",
+    "timestamp": "2025-03-26 03:33:05.849040"
+  },
+  "461": {
+    "log_id": "461",
+    "user_id": "26",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "61",
+    "timestamp": "2025-01-31 12:46:04.753860"
+  },
+  "462": {
+    "log_id": "462",
+    "user_id": "11",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "95",
+    "timestamp": "2025-01-04 00:29:24.845457"
+  },
+  "463": {
+    "log_id": "463",
+    "user_id": "80",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "34",
+    "timestamp": "2025-06-24 16:58:12.052779"
+  },
+  "464": {
+    "log_id": "464",
+    "user_id": "84",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-06-26 04:55:37.462492"
+  },
+  "465": {
+    "log_id": "465",
+    "user_id": "28",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-07-14 03:49:56.187687"
+  },
+  "466": {
+    "log_id": "466",
+    "user_id": "100",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "66",
+    "timestamp": "2025-08-16 12:38:15.537628"
+  },
+  "467": {
+    "log_id": "467",
+    "user_id": "31",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "15",
+    "timestamp": "2025-03-28 23:10:09.761381"
+  },
+  "468": {
+    "log_id": "468",
+    "user_id": "15",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "43",
+    "timestamp": "2025-01-20 02:57:37.931260"
+  },
+  "469": {
+    "log_id": "469",
+    "user_id": "52",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "141",
+    "timestamp": "2025-01-03 11:32:56.997108"
+  },
+  "470": {
+    "log_id": "470",
+    "user_id": "84",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "55",
+    "timestamp": "2025-01-31 22:53:51.142932"
+  },
+  "471": {
+    "log_id": "471",
+    "user_id": "53",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "140",
+    "timestamp": "2025-03-03 04:50:40.470149"
+  },
+  "472": {
+    "log_id": "472",
+    "user_id": "14",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "27",
+    "timestamp": "2025-01-15 10:01:12.450158"
+  },
+  "473": {
+    "log_id": "473",
+    "user_id": "18",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "91",
+    "timestamp": "2025-09-02 09:12:42.058341"
+  },
+  "474": {
+    "log_id": "474",
+    "user_id": "43",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "1",
+    "timestamp": "2025-07-27 11:51:33.418904"
+  },
+  "475": {
+    "log_id": "475",
+    "user_id": "40",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "133",
+    "timestamp": "2025-05-17 20:47:14.100732"
+  },
+  "476": {
+    "log_id": "476",
+    "user_id": "79",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "51",
+    "timestamp": "2025-05-07 20:50:24.580322"
+  },
+  "477": {
+    "log_id": "477",
+    "user_id": "132",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "111",
+    "timestamp": "2025-08-18 23:06:28.470971"
+  },
+  "478": {
+    "log_id": "478",
+    "user_id": "70",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "42",
+    "timestamp": "2025-08-12 10:51:03.724277"
+  },
+  "479": {
+    "log_id": "479",
+    "user_id": "36",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "46",
+    "timestamp": "2025-01-28 16:55:37.632899"
+  },
+  "480": {
+    "log_id": "480",
+    "user_id": "21",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "33",
+    "timestamp": "2025-06-05 19:17:50.721093"
+  },
+  "481": {
+    "log_id": "481",
+    "user_id": "28",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "142",
+    "timestamp": "2025-03-19 05:49:45.347118"
+  },
+  "482": {
+    "log_id": "482",
+    "user_id": "32",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "73",
+    "timestamp": "2025-04-08 04:06:37.968106"
+  },
+  "483": {
+    "log_id": "483",
+    "user_id": "27",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "107",
+    "timestamp": "2025-05-06 03:07:48.874139"
+  },
+  "484": {
+    "log_id": "484",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "120",
+    "timestamp": "2025-01-15 11:46:33.595454"
+  },
+  "485": {
+    "log_id": "485",
+    "user_id": "32",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "42",
+    "timestamp": "2025-06-19 14:45:26.196058"
+  },
+  "486": {
+    "log_id": "486",
+    "user_id": "2",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "110",
+    "timestamp": "2025-02-15 20:23:09.601896"
+  },
+  "487": {
+    "log_id": "487",
+    "user_id": "45",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "143",
+    "timestamp": "2025-05-10 21:22:51.826649"
+  },
+  "488": {
+    "log_id": "488",
+    "user_id": "123",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "77",
+    "timestamp": "2025-05-25 09:20:52.726951"
+  },
+  "489": {
+    "log_id": "489",
+    "user_id": "125",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "96",
+    "timestamp": "2025-03-10 00:19:13.543374"
+  },
+  "490": {
+    "log_id": "490",
+    "user_id": "18",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "24",
+    "timestamp": "2025-04-13 11:47:17.284651"
+  },
+  "491": {
+    "log_id": "491",
+    "user_id": "122",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "137",
+    "timestamp": "2025-04-13 14:14:58.156888"
+  },
+  "492": {
+    "log_id": "492",
+    "user_id": "111",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "128",
+    "timestamp": "2025-05-25 08:32:50.904735"
+  },
+  "493": {
+    "log_id": "493",
+    "user_id": "81",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "147",
+    "timestamp": "2025-04-07 12:31:58.762205"
+  },
+  "494": {
+    "log_id": "494",
+    "user_id": "90",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "27",
+    "timestamp": "2025-02-26 00:54:33.066483"
+  },
+  "495": {
+    "log_id": "495",
+    "user_id": "132",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "50",
+    "timestamp": "2025-01-28 04:07:56.775262"
+  },
+  "496": {
+    "log_id": "496",
+    "user_id": "74",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "81",
+    "timestamp": "2025-08-14 07:08:05.651911"
+  },
+  "497": {
+    "log_id": "497",
+    "user_id": "119",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "141",
+    "timestamp": "2025-02-02 14:55:11.300663"
+  },
+  "498": {
+    "log_id": "498",
+    "user_id": "139",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "7",
+    "timestamp": "2025-04-30 10:22:06.182878"
+  },
+  "499": {
+    "log_id": "499",
+    "user_id": "37",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "95",
+    "timestamp": "2025-07-21 22:01:50.420681"
+  },
+  "500": {
+    "log_id": "500",
+    "user_id": "120",
+    "action": "update",
+    "reference_type": "employees",
+    "reference_id": "49",
+    "timestamp": "2025-08-19 20:40:28.051239"
   }
 }

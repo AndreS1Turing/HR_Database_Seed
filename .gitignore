@@ -1,0 +1,19 @@
+# Generated artifacts and reports
+data_consistency_report.txt
+
+# Backup directories - should not be in version control
+seeded_data_bak/
+
+# Temporary or obsolete scripts
+fix.py
+monster.py
+seed.py
+
+# Python virtual environments and cache
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS-specific files
+.DS_Store
